@@ -1,0 +1,1 @@
+This repository houses fan-made content for [Arkham Horror: The Card Game™](https://www.fantasyflightgames.com/en/products/arkham-horror-the-card-game/) for use in [arkham.build](https://arkham.build/) and other deckbuilding applications.
