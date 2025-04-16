@@ -1,0 +1,473 @@
+{
+  "type": "object",
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "author": {
+          "description": "Author of the project.",
+          "type": "string"
+        },
+        "banner_url": {
+          "description": "URL to a banner image. Ideal dimensions: 1180x500.",
+          "type": "string"
+        },
+        "code": {
+          "description": " Unique identifier for the project. a UUID when created by Zoop.",
+          "type": "string",
+          "minLength": 3
+        },
+        "date_updated": {
+          "description": "Date when this content was last updated, as ISO 8601 datestamp.",
+          "type": "string"
+        },
+        "description": {
+          "description": "Detailed (Markdown) description for the project.",
+          "type": "string"
+        },
+        "external_link": {
+          "description": "URL to an external project page.",
+          "oneOf": [
+            {
+              "type": "string",
+              "format": "uri"
+            },
+            {
+              "const": ""
+            }
+          ]
+        },
+        "language": {
+          "description": "Language of the project as ISO 639-1 language code.",
+          "type": "string"
+        },
+        "name": {
+          "description": "Name of the project.",
+          "type": "string"
+        },
+        "status": {
+          "description": "Project status. If not specified, project is assumed to be \"final\".",
+          "enum": [
+            "draft",
+            "alpha",
+            "beta",
+            "complete",
+            "final"
+          ]
+        },
+        "tags": {
+          "description": "List of tags for the project. (English)",
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "types": {
+          "description": "List of content types that the project contains.",
+          "type": "array",
+          "items": {
+            "enum": [
+              "campaign",
+              "investigators",
+              "player_cards",
+              "rework",
+              "scenario"
+            ]
+          }
+        },
+        "url": {
+          "description": "URL to where the project (=this file) is hosted. Used to fetch updates. Null for local packs.",
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": [
+        "author",
+        "code",
+        "language",
+        "name"
+      ]
+    },
+    "data": {
+      "type": "object",
+      "properties": {
+        "cards": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "back_flavor": {
+                "type": "string"
+              },
+              "back_illustrator": {
+                "type": "string"
+              },
+              "back_image_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "back_link": {
+                "type": "string"
+              },
+              "back_name": {
+                "type": "string"
+              },
+              "back_text": {
+                "type": "string"
+              },
+              "back_thumbnail_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "back_traits": {
+                "type": "string"
+              },
+              "bonded_count": {
+                "type": "number"
+              },
+              "bonded_to": {
+                "type": "string"
+              },
+              "clues": {
+                "oneOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "clues_fixed": {
+                "type": "boolean"
+              },
+              "code": {
+                "type": "string"
+              },
+              "cost": {
+                "oneOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "deck_requirements": {
+                "oneOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "deck_options": {
+                "oneOf": [
+                  {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {},
+                      "required": [],
+                      "additionalProperties": {}
+                    }
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "deck_limit": {
+                "type": "number"
+              },
+              "doom": {
+                "oneOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "double_sided": {
+                "type": "boolean"
+              },
+              "encounter_code": {
+                "type": "string"
+              },
+              "encounter_position": {
+                "type": "number"
+              },
+              "enemy_damage": {
+                "type": "number"
+              },
+              "enemy_evade": {
+                "oneOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "enemy_fight": {
+                "oneOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "enemy_horror": {
+                "type": "number"
+              },
+              "exceptional": {
+                "type": "boolean"
+              },
+              "exile": {
+                "type": "boolean"
+              },
+              "faction_code": {
+                "enum": [
+                  "guardian",
+                  "seeker",
+                  "rogue",
+                  "mystic",
+                  "survivor",
+                  "neutral",
+                  "mythos"
+                ]
+              },
+              "faction2_code": {
+                "enum": [
+                  "guardian",
+                  "seeker",
+                  "rogue",
+                  "mystic",
+                  "survivor",
+                  "neutral",
+                  "mythos"
+                ]
+              },
+              "faction3_code": {
+                "enum": [
+                  "guardian",
+                  "seeker",
+                  "rogue",
+                  "mystic",
+                  "survivor",
+                  "neutral",
+                  "mythos"
+                ]
+              },
+              "flavor": {
+                "type": "string"
+              },
+              "health": {
+                "oneOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "health_per_investigator": {
+                "type": "boolean"
+              },
+              "hidden": {
+                "type": "boolean"
+              },
+              "illustrator": {
+                "type": "string"
+              },
+              "image_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "is_unique": {
+                "type": "boolean"
+              },
+              "myriad": {
+                "type": "boolean"
+              },
+              "name": {
+                "type": "string"
+              },
+              "pack_code": {
+                "type": "string"
+              },
+              "permanent": {
+                "type": "boolean"
+              },
+              "position": {
+                "type": "number"
+              },
+              "quantity": {
+                "type": "number"
+              },
+              "restrictions": {
+                "type": "string"
+              },
+              "sanity": {
+                "type": "number"
+              },
+              "shroud": {
+                "oneOf": [
+                  {
+                    "type": "number"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ]
+              },
+              "skill_agility": {
+                "type": "number"
+              },
+              "skill_combat": {
+                "type": "number"
+              },
+              "skill_intellect": {
+                "type": "number"
+              },
+              "skill_willpower": {
+                "type": "number"
+              },
+              "skill_wild": {
+                "type": "number"
+              },
+              "slot": {
+                "type": "string"
+              },
+              "stage": {
+                "type": "number"
+              },
+              "subname": {
+                "type": "string"
+              },
+              "subtype_code": {
+                "enum": [
+                  "basicweakness",
+                  "weakness"
+                ]
+              },
+              "tags": {
+                "type": "string"
+              },
+              "text": {
+                "type": "string"
+              },
+              "thumbnail_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "traits": {
+                "type": "string"
+              },
+              "type_code": {
+                "enum": [
+                  "investigator",
+                  "asset",
+                  "event",
+                  "skill",
+                  "location",
+                  "enemy",
+                  "enemy_location",
+                  "key",
+                  "treachery",
+                  "scenario",
+                  "act",
+                  "agenda",
+                  "story"
+                ]
+              },
+              "vengeance": {
+                "type": "number"
+              },
+              "victory": {
+                "type": "number"
+              },
+              "xp": {
+                "type": "number"
+              }
+            },
+            "required": [
+              "code",
+              "faction_code",
+              "name",
+              "pack_code",
+              "position",
+              "quantity",
+              "type_code"
+            ]
+          }
+        },
+        "encounter_sets": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "icon_url": {
+                "type": "string",
+                "format": "uri"
+              }
+            },
+            "required": [
+              "code",
+              "name"
+            ]
+          }
+        },
+        "packs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string"
+              },
+              "icon_url": {
+                "type": "string",
+                "format": "uri"
+              },
+              "name": {
+                "type": "string"
+              },
+              "position": {
+                "type": "number"
+              }
+            },
+            "required": [
+              "code",
+              "name"
+            ]
+          }
+        }
+      },
+      "required": [
+        "cards",
+        "encounter_sets",
+        "packs"
+      ]
+    }
+  },
+  "required": [
+    "meta",
+    "data"
+  ]
+}
