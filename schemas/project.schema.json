@@ -47,13 +47,7 @@
         },
         "status": {
           "description": "Project status. If not specified, project is assumed to be \"final\".",
-          "enum": [
-            "draft",
-            "alpha",
-            "beta",
-            "complete",
-            "final"
-          ]
+          "enum": ["draft", "alpha", "beta", "complete", "final"]
         },
         "tags": {
           "description": "List of tags for the project. (English)",
@@ -81,12 +75,7 @@
           "format": "uri"
         }
       },
-      "required": [
-        "author",
-        "code",
-        "language",
-        "name"
-      ]
+      "required": ["author", "code", "language", "name"]
     },
     "data": {
       "type": "object",
@@ -355,10 +344,7 @@
                 "type": "string"
               },
               "subtype_code": {
-                "enum": [
-                  "basicweakness",
-                  "weakness"
-                ]
+                "enum": ["basicweakness", "weakness"]
               },
               "tags": {
                 "type": "string"
@@ -427,10 +413,7 @@
                 "format": "uri"
               }
             },
-            "required": [
-              "code",
-              "name"
-            ]
+            "required": ["code", "name"]
           }
         },
         "packs": {
@@ -452,22 +435,12 @@
                 "type": "number"
               }
             },
-            "required": [
-              "code",
-              "name"
-            ]
+            "required": ["code", "name"]
           }
         }
       },
-      "required": [
-        "cards",
-        "encounter_sets",
-        "packs"
-      ]
+      "required": ["cards", "encounter_sets", "packs"]
     }
   },
-  "required": [
-    "meta",
-    "data"
-  ]
+  "required": ["meta", "data"]
 }

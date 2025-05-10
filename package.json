@@ -1,0 +1,17 @@
+{
+  "name": "fan-made-content",
+  "type": "module",
+  "scripts": {
+    "fmt": "biome format --write .",
+    "upload": "tsx --env-file=.env scripts/upload.ts"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "3.806.0",
+    "@aws-sdk/lib-storage": "3.806.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.4",
+    "@types/node": "22.15.17",
+    "tsx": "4.19.4"
+  }
+}
