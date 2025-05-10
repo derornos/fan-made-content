@@ -38,8 +38,8 @@ async function rehostProject(project: Project) {
   await Promise.all([
     rehostBanner(project),
     rehostCardImages(project),
-    rehostEncounterSets(project),
-    rehostPacks(project),
+    rehostIcons(project, "packs"),
+    rehostIcons(project, "encounter_sets"),
   ]);
 
   const projectPath = makeS3Path(project.meta.code, "project.json");
@@ -114,8 +114,29 @@ async function rehostCardImages(project: Project) {
   );
 }
 
-async function rehostEncounterSets(project: Project) {}
-async function rehostPacks(project: Project) {}
+async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
+  const projectCode = project.meta.code;
+
+  await Promise.all(
+    project.data[key].map(async (set, index) => {
+      const code = set.code;
+      const sourceUrl = set.icon_url;
+
+      if (sourceUrl) {
+        const ext = path.extname(sourceUrl);
+
+        if (!ext) {
+          console.warn(`No file extension: ${code} / ${set.icon_url}`);
+          return;
+        }
+
+        const s3Path = makeS3Path(projectCode, `pack_${code}${ext}`);
+        await rehostFile({ sourceUrl, s3Path });
+        project.data[key][index].icon_url = makeCdnUrl(s3Path);
+      }
+    }),
+  );
+}
 
 async function rehostFile(params: UploadParams) {
   const { sourceUrl } = params;
@@ -184,6 +205,14 @@ type Project = {
       back_image_url?: string;
       thumbnail_url?: string;
       back_thumbnail_url?: string;
+    }>;
+    encounter_sets: Array<{
+      code: string;
+      icon_url?: string;
+    }>;
+    packs: Array<{
+      code: string;
+      icon_url?: string;
     }>;
   };
 };

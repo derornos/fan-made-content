@@ -712,9 +712,9 @@
     "packs": [
       {
         "code": "zoc",
-        "cycle_code": "zinv",
         "name": "Ordinary Citizens",
-        "position": 3
+        "position": 1,
+        "icon_url": "https://assets.arkham.build/custom/zoc/pack_zoc.png"
       }
     ],
     "encounter_sets": []
