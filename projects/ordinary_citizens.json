@@ -1,7 +1,7 @@
 {
   "meta": {
     "author": "HatfulBob",
-    "banner_url": "https://assets.arkham.build/custom/zoc/banner.jpg",
+    "banner_url": "https://assets.arkham.build/custom_content_src/zoc/banner.jpg",
     "code": "zoc",
     "date_updated": "2025-03-28",
     "external_link": "https://hatfulhomebrew.wordpress.com/2023/12/04/ordinary-citizens/",
@@ -79,10 +79,10 @@
         "text": "You begin the game with Brock in play.\n[reaction] When an enemy leaves your location: Take a fight action against that enemy. Ignore the aloof keyword for this attack. (Limit once per round)\n[elder_sign] effect: +2. You may choose a non-[[Elite]] enemy at a connected location and move it to your location. If you do, ready Brock.",
         "traits": "Police.",
         "type_code": "investigator",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31001.jpg",
-        "back_image_url": "https://assets.arkham.build/custom/zoc/zoc_31001b.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31001_thumb.jpg",
-        "back_thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31001b_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31001.jpg",
+        "back_image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31001b.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31001_thumb.jpg",
+        "back_thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31001b_thumb.jpg"
       },
       {
         "code": "zoc_31002",
@@ -104,8 +104,8 @@
         "illustrator": "Mark Molnar",
         "traits": "Ally. Creature.",
         "type_code": "asset",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31002.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31002_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31002.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31002_thumb.jpg"
       },
       {
         "code": "zoc_31003",
@@ -121,8 +121,8 @@
         "text": "<b>Revelation</b> - Each hunter enemy at a connecting location moves one location closer to you and engages you. Each enemy engaged with you readies, then attacks you. If no enemies were readied or moved by this effect, discard cards from the top of the encounter deck until an enemy is discarded. Spawn that enemy engaged with you.",
         "traits": "Omen.",
         "type_code": "treachery",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31003.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31003_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31003.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31003_thumb.jpg"
       },
       {
         "back_flavor": "You had a case you needed solved, Rodney Dorman had your back. He got the evidence, the interviews, and he worked fast and quick so you see justice done. That was before his last trip to France where he had been invited to see a showing of \"The King in Yellow\". It was an absolutely fascinating play that stuck with him a bit too much once he returned to Arkham. He could not get it off his mind, an endless fixation that was only silenced through booze. Now, he has been trying to get off the bottle and go through his massive backlog of unsolved cases. He worked as hard as he can, but no matter what he did, he cannot get that play out of his mind (or what was left of it anyways).",
@@ -181,10 +181,10 @@
         "text": "<b>Forced</b> - When the game begins: Reveal cards from the top of your deck until you reveal a [[Case]] asset. Put that asset into play. Shuffle each other revealed card back into your deck.\nThe first investigate action you perform on each turn does not provoke attacks of opportunity.\n[elder_sign] effect: +1. You may shuffle a [[Case]] asset from your discard pile into your deck.",
         "traits": "Civic. Veteran.",
         "type_code": "investigator",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31004.jpg",
-        "back_image_url": "https://assets.arkham.build/custom/zoc/zoc_31004b.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31004_thumb.jpg",
-        "back_thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31004b_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31004.jpg",
+        "back_image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31004b.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31004_thumb.jpg",
+        "back_thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31004b_thumb.jpg"
       },
       {
         "code": "zoc_31005",
@@ -202,8 +202,8 @@
         "traits": "Case.",
         "subname": "Fraud",
         "type_code": "asset",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31005.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31005_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31005.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31005_thumb.jpg"
       },
       {
         "code": "zoc_31006",
@@ -222,8 +222,8 @@
         "subname": "Robbery",
         "flavor": "\"Your honor, my client was simply returning the artifacts.\"",
         "type_code": "asset",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31006.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31006_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31006.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31006_thumb.jpg"
       },
       {
         "code": "zoc_31007",
@@ -241,8 +241,8 @@
         "traits": "Case.",
         "subname": "Missing Items",
         "type_code": "asset",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31007.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31007_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31007.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31007_thumb.jpg"
       },
       {
         "code": "zoc_31008",
@@ -260,8 +260,8 @@
         "traits": "Case.",
         "subname": "Premeditated Assault",
         "type_code": "asset",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31008.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31008_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31008.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31008_thumb.jpg"
       },
       {
         "code": "zoc_31009",
@@ -282,8 +282,8 @@
         "text": "<b>Prey</b> - Rodney Dorman only.\nHunter.\nTreat each of your [[Case]] assets as if its text box were blank (except for [[Traits]]).\n[action]: <b>Parley.</b> Place 1 of your clues on your location. Deal 1 damage to Unhappy Client.",
         "traits": "Humanoid. Criminal.",
         "type_code": "enemy",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31009.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31009_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31009.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31009_thumb.jpg"
       },
       {
         "back_flavor": "The war effort was rough for all, and for Lucia Deveraux it was no exception. She had simply signed up as a nurse, claiming expertise in medicine at the time. However, more and more soldiers kept coming back with even more bizarre wounds, many of which seemed to be more than what resulted from just bullets and explosions. Regardless, she did her job without paying much mind to it. Flash forward to years later, Lucia has found it difficult to find employment. Sure, she can help give out some medicines or whatnot, but her constant nightmares of what she saw haunt her tremendously. Worse yet, she believes that whatever caused those horrific tragedies is coming for her next, around every corner and in every shadow. \"Just gotta help a few more fellas, and that'll be enough dough to skip this town for good\", she keeps telling herself.",
@@ -341,10 +341,10 @@
         "traits": "Veteran. Medic.",
         "type_code": "investigator",
         "flavor": "\"Yeah yeah, quit yer yappin', I'll be right there...\"",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31010.jpg",
-        "back_image_url": "https://assets.arkham.build/custom/zoc/zoc_31010b.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31010_thumb.jpg",
-        "back_thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31010b_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31010.jpg",
+        "back_image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31010b.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31010_thumb.jpg",
+        "back_thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31010b_thumb.jpg"
       },
       {
         "code": "zoc_31011",
@@ -364,8 +364,8 @@
         "traits": "Item. Tool. Science.",
         "type_code": "asset",
         "illustrator": "Mayrig Simonjan",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31011.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31011_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31011.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31011_thumb.jpg"
       },
       {
         "code": "zoc_31012",
@@ -384,8 +384,8 @@
         "illustrator": "Miguel Ángel González",
         "traits": "Item. Science.",
         "type_code": "asset",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31012.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31012_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31012.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31012_thumb.jpg"
       },
       {
         "code": "zoc_31013",
@@ -402,8 +402,8 @@
         "traits": "Flaw.",
         "flavor": "No one's ever really gone.",
         "type_code": "treachery",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31013.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31013_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31013.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31013_thumb.jpg"
       },
       {
         "back_flavor": "By all accounts, Richard Carlisle is dead. Everyone saw the news story, it was a massive wreck. A gigantic car crash smashing his Ford to absolute bits! The strangest part of it all was that in the wreck of the totalled vehicle, the body of Mr. Carlisle was not found at all. A few days later, a man named Richard Carlisle started appearing again, alive and well. He claims to be the same man, talks the same talk, walks the same walk, and even has the same daredevil attitude that probably got him in that accident to begin with. However, when asked about how he survived it was very strange. His only answer was an odd claim. A claim to have just 'crawled out once he saw a smirk'.",
@@ -461,10 +461,10 @@
         "traits": "Sorcerer. Criminal.",
         "type_code": "investigator",
         "illustrator": "Chris McGrath",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31014.jpg",
-        "back_image_url": "https://assets.arkham.build/custom/zoc/zoc_31014b.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31014_thumb.jpg",
-        "back_thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31014b_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31014.jpg",
+        "back_image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31014b.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31014_thumb.jpg",
+        "back_thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31014b_thumb.jpg"
       },
       {
         "code": "zoc_31015",
@@ -484,8 +484,8 @@
         "traits": "Ally. Avatar. Ancient One?",
         "type_code": "asset",
         "illustrator": "Benjamin Weustemaat",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31015.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31015_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31015.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31015_thumb.jpg"
       },
       {
         "code": "zoc_31016",
@@ -502,8 +502,8 @@
         "traits": "Omen.",
         "flavor": "Did you really think you could control this power?",
         "type_code": "treachery",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31016.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31016_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31016.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31016_thumb.jpg"
       },
       {
         "back_flavor": "Nobody was sure how Melissa Swanson was able to do her 'parlor tricks', as she called them. She always had a way with the arcane, and she always used it to her advantage. A strong combination of feminine wiles and esoteric arts, she always got her way. When she grew older, she grew quite a fondness for ancient artifacts and treats, so she devoted her spare time into researching the origin of such items. The deeper she delved, the more profane knowledge that man was not destined to know was unlocked for her. Not that she minded, anyways. After all, she was always good at handling whatever magic was thrown her way.",
@@ -561,10 +561,10 @@
         "traits": "Socialite. Sorcerer.",
         "text": "[reaction] After an investigator at your location commits a card to a skill test, spend 1 charge from an asset you control: That card gains [wild] [wild] icons until the end of the test. (Limit once per test)\n[elder_sign] effect: +0. After this test ends, search the top 3 cards of your deck for a skill card and add it to your hand. Shuffle your deck.",
         "type_code": "investigator",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31017.jpg",
-        "back_image_url": "https://assets.arkham.build/custom/zoc/zoc_31017b.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31017_thumb.jpg",
-        "back_thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31017b_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31017.jpg",
+        "back_image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31017b.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31017_thumb.jpg",
+        "back_thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31017b_thumb.jpg"
       },
       {
         "code": "zoc_31018",
@@ -581,8 +581,8 @@
         "traits": "Spell.",
         "type_code": "event",
         "illustrator": "Mykz Revecho",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31018.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31018_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31018.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31018_thumb.jpg"
       },
       {
         "code": "zoc_31019",
@@ -598,8 +598,8 @@
         "text": "<b>Revelation</b> - Place Price of Power in your threat area.\n<b>Forced</b> - At the end of your turn: Choose and discard 1 skill card from your hand. If you cannot, take 2 horror and discard Price of Power.",
         "traits": "Curse.",
         "type_code": "treachery",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31019.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31019_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31019.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31019_thumb.jpg"
       },
       {
         "back_flavor": "Bad luck used to follow Walter around like a bad hair day. Endless calamity and misery surrounded the poor guy so to get through the day he always tried to pray. He prayed and prayed and prayed, but he did not get an answer. No answers caused Walter to get desperate. He traveled the world, learning all sorts of ancient rituals and arts, anything that would work to help his rotten luck turn around. Walter called out to any powers that be, but he may not appreciate who will be the one that answers.",
@@ -658,10 +658,10 @@
         "text": "[reaction] When you play or resolve an ability on a [[Ritual]] card: Draw 1 card. (limit once per phase)\n[elder_sign] effect: +1. You may discard a [[Ritual]] card in play under your control or in your hand to draw 2 cards.",
         "traits": "Believer. Cursed.",
         "type_code": "investigator",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31020.jpg",
-        "back_image_url": "https://assets.arkham.build/custom/zoc/zoc_31020b.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31020_thumb.jpg",
-        "back_thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31020b_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31020.jpg",
+        "back_image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31020b.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31020_thumb.jpg",
+        "back_thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31020b_thumb.jpg"
       },
       {
         "code": "zoc_31021",
@@ -683,8 +683,8 @@
         "flavor": "Has many scribbles of notes to aid your allies and harm your enemies.",
         "traits": "Item. Relic. Tome.",
         "type_code": "asset",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31021.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31021_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31021.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31021_thumb.jpg"
       },
       {
         "code": "zoc_31022",
@@ -705,8 +705,8 @@
         "text": "\nHunter.\n<b>Spawn</b> - Location farthest from Walter Crankovitch (empty, if able)\n<b>Prey</b> - Walter Crankovitch only.\n<b>Forced</b> - After Walter Crankovitch plays or resolves an ability on a player card: \"Bad Luck\" resolves the hunter keyword and performs an attack, if able, without exhausting.",
         "traits": "Geist.",
         "type_code": "enemy",
-        "image_url": "https://assets.arkham.build/custom/zoc/zoc_31022.jpg",
-        "thumbnail_url": "https://assets.arkham.build/custom/zoc/zoc_31022_thumb.jpg"
+        "image_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31022.jpg",
+        "thumbnail_url": "https://assets.arkham.build/custom_content_src/zoc/zoc_31022_thumb.jpg"
       }
     ],
     "packs": [
@@ -714,7 +714,7 @@
         "code": "zoc",
         "name": "Ordinary Citizens",
         "position": 1,
-        "icon_url": "https://assets.arkham.build/custom/zoc/pack_zoc.png"
+        "icon_url": "https://assets.arkham.build/custom_content_src/zoc/pack_zoc.png"
       }
     ],
     "encounter_sets": []
