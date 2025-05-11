@@ -10,8 +10,10 @@ assert(process.env.AWS_REGION, "AWS_REGION is required");
 assert(process.env.AWS_ENDPOINT, "AWS_ENDPOINT is required");
 assert(process.env.AWS_BUCKET, "AWS_BUCKET is required");
 assert(process.env.CDN_BASE_URL, "CDN_BASE_URL is required");
+assert(process.env.API_BASE_URL, "API_BASE_URL is required");
+assert(process.env.API_AUTH_TOKEN, "API_AUTH_TOKEN is required");
 
-const CUSTOM_CONTENT_PREFIX = "fan_made_content";
+const PREFIX = "fan_made_content";
 const PROJECT_DIR = path.join(process.cwd(), "projects");
 
 const s3Client = new S3Client({
@@ -42,17 +44,31 @@ async function rehostProject(project: Project) {
     rehostIcons(project, "encounter_sets"),
   ]);
 
-  const projectPath = makeS3Path(project.meta.code, "project.json");
+  const s3Path = makeS3Path(project.meta.code, "project.json");
 
-  project.meta.url = makeCdnUrl(projectPath);
+  project.meta.url = makeCdnUrl(s3Path);
 
   await upload(
-    {
-      s3Path: makeS3Path(project.meta.code, "project.json"),
-      sourceUrl: "project.json",
-    },
+    { s3Path, sourceUrl: "project.json" },
     JSON.stringify(project),
   );
+
+  const res = await fetch(
+    `${process.env.API_BASE_URL}/v1/admin/fan_made_project`,
+    {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${process.env.API_AUTH_TOKEN}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        bucket_path: s3Path,
+        meta: project.meta,
+      }),
+    },
+  );
+
+  assert(res.ok, `${res.status} - ${await res.text()}`);
 }
 
 async function rehostBanner(project: Project) {
@@ -185,7 +201,7 @@ function inferContentType(url: string) {
 }
 
 function makeS3Path(code: string, filePath: string) {
-  return `${CUSTOM_CONTENT_PREFIX}/${code}/${filePath}`;
+  return `${PREFIX}/${code}/${filePath}`;
 }
 
 function makeCdnUrl(filePath: string) {
