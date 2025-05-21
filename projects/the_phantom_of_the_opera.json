@@ -9,7 +9,7 @@
     "banner_url": "https://eons.arkham.build/Banner%20-%20e1ef5cd0-9115-495e-aff8-5396d0df066f.png",
     "types": ["scenario"],
     "status": "final",
-    "date_updated": "2025-05-21T23:16:55.45"
+    "date_updated": "2025-05-21T23:37:02.868"
   },
   "data": {
     "cards": [
@@ -162,7 +162,7 @@
         "permanent": false,
         "position": 4,
         "quantity": 1,
-        "text": "<blockquote><i>Your first glimpses of the Phantom are brief, but telling.  Piercing eyes glare at you from behind a skull-like mask as you both begin to probe each other... and then he is suddenly gone.  Panic begins to set in as thoughts of failure mount, but just as suddenly, a strong hand clasps your shoulder.  You whirl around to meet a stern moustached man in a red fez.  \"There is much to explain and little time.  Come with me.\"</i></blockquote><hr>Choose an investigator to take control of the set-aside The Persian.  For the remainder of the scenario, he does not take up any slots.\nChoose a revealed copy of Grand Foyer.  Move each investigator, enemy not in the shadows, and concealed mini-card to that copy of Grand Foyer.  Remove each other copy of Grand Foyer from the game.\nPut each set-aside [[Opera House</t> location into play.  If there are fewer than 2[per_investigator] total concealed mini-cards in play, add additional decoys until that number is met.  Shuffle each concealed mini-card in play and redistribute them between each <t>Opera House]] location equally.",
+        "text": "<blockquote><i>Your first glimpses of the Phantom are brief, but telling.  Piercing eyes glare at you from behind a skull-like mask as you both begin to probe each other... and then he is suddenly gone.  Panic begins to set in as thoughts of failure mount, but just as suddenly, a strong hand clasps your shoulder.  You whirl around to meet a stern moustached man in a red fez.  \"There is much to explain and little time.  Come with me.\"</i></blockquote><hr>Choose an investigator to take control of the set-aside The Persian.  For the remainder of the scenario, he does not take up any slots.\nChoose a revealed copy of Grand Foyer.  Move each investigator, enemy not in the shadows, and concealed mini-card to that copy of Grand Foyer.  Remove each other copy of Grand Foyer from the game.\nPut each set-aside [[Opera House]] location into play.  If there are fewer than 2[per_investigator] total concealed mini-cards in play, add additional decoys until that number is met.  Shuffle each concealed mini-card in play and redistribute them between each [[Opera House]] location equally.",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/1%20Scenario%20Cards/Act%201-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-3a326de6-3558-4659-8e56-60eb322756f2-Front.jpg"
