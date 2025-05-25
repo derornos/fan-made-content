@@ -13,6 +13,8 @@ assert(process.env.CDN_BASE_URL, "CDN_BASE_URL is required");
 assert(process.env.API_BASE_URL, "API_BASE_URL is required");
 assert(process.env.API_AUTH_TOKEN, "API_AUTH_TOKEN is required");
 
+const SKIP_PROJECT = false;
+
 const PREFIX = "fan_made_content";
 const PROJECT_DIR = path.join(process.cwd(), "projects");
 
@@ -24,8 +26,6 @@ const s3Client = new S3Client({
   endpoint: process.env.AWS_ENDPOINT,
   region: process.env.AWS_REGION,
 });
-
-const seenUrls = new Set();
 
 await rehostProject(
   JSON.parse(
@@ -46,29 +46,31 @@ async function rehostProject(project: Project) {
 
   const s3Path = makeS3Path(project.meta.code, "project.json");
 
-  project.meta.url = makeCdnUrl(s3Path);
+  if (!SKIP_PROJECT) {
+    project.meta.url = makeCdnUrl(s3Path);
 
-  await upload(
-    { s3Path, sourceUrl: "project.json" },
-    JSON.stringify(project),
-  );
+    await upload(
+      { s3Path, sourceUrl: "project.json" },
+      JSON.stringify(project),
+    );
 
-  const res = await fetch(
-    `${process.env.API_BASE_URL}/v1/admin/fan_made_project`,
-    {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${process.env.API_AUTH_TOKEN}`,
-        "Content-Type": "application/json",
+    const res = await fetch(
+      `${process.env.API_BASE_URL}/v1/admin/fan_made_project`,
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${process.env.API_AUTH_TOKEN}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          bucket_path: s3Path,
+          meta: project.meta,
+        }),
       },
-      body: JSON.stringify({
-        bucket_path: s3Path,
-        meta: project.meta,
-      }),
-    },
-  );
+    );
 
-  assert(res.ok, `${res.status} - ${await res.text()}`);
+    assert(res.ok, `${res.status} - ${await res.text()}`);
+  }
 }
 
 async function rehostBanner(project: Project) {
@@ -97,37 +99,35 @@ async function rehostCardImages(project: Project) {
     { key: "back_thumbnail_url", suffix: "_back_thumb" },
   ];
 
-  await Promise.all(
-    project.data.cards.map(async (card, index) => {
-      const code = card.code;
+  for (const [index, card] of project.data.cards.entries()) {
+    const code = card.code;
 
-      const images = imageKeys.reduce(
-        (acc, { key, suffix }) => {
-          const sourceUrl = card[key];
-          if (!sourceUrl) return acc;
+    const images = imageKeys.reduce(
+      (acc, { key, suffix }) => {
+        const sourceUrl = card[key];
+        if (!sourceUrl) return acc;
 
-          const ext = path.extname(sourceUrl);
+        const ext = path.extname(sourceUrl);
 
-          if (!ext) {
-            console.warn(`No file extension: ${code} / ${sourceUrl}`);
-            return acc;
-          }
-
-          const s3Path = makeS3Path(projectCode, `${code}${suffix}${ext}`);
-          acc.push({ sourceUrl, s3Path, key });
-
+        if (!ext) {
+          console.warn(`No file extension: ${code} / ${sourceUrl}`);
           return acc;
-        },
-        [] as (UploadParams & { key: string })[],
-      );
+        }
 
-      for (const image of images) {
-        await rehostFile(image);
-        const { s3Path, key } = image;
-        project.data.cards[index][key] = makeCdnUrl(s3Path);
-      }
-    }),
-  );
+        const s3Path = makeS3Path(projectCode, `${code}${suffix}${ext}`);
+        acc.push({ sourceUrl, s3Path, key });
+
+        return acc;
+      },
+      [] as (UploadParams & { key: string })[],
+    );
+
+    for (const image of images) {
+      await rehostFile(image);
+      const { s3Path, key } = image;
+      project.data.cards[index][key] = makeCdnUrl(s3Path);
+    }
+  }
 }
 
 async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
@@ -156,14 +156,6 @@ async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
 
 async function rehostFile(params: UploadParams) {
   const { sourceUrl } = params;
-
-  if (seenUrls.has(sourceUrl)) {
-    console.info(`Skip (already uploaded): ${sourceUrl}`);
-    return;
-  }
-
-  seenUrls.add(sourceUrl);
-
   const response = await fetch(sourceUrl);
   assert(response.ok, `${sourceUrl} returned bad status: ${response.status}`);
   assert(response.body, `${sourceUrl} returned empty body.`);
