@@ -37,6 +37,10 @@
             }
           ]
         },
+        "generator": {
+          "description": "User-agent of the tool that created this content pack",
+          "type": "string"
+        },
         "language": {
           "type": "string",
           "description": "Language of the project as ISO 639-1 language code."
@@ -442,5 +446,6 @@
       "required": ["cards", "encounter_sets", "packs"]
     }
   },
-  "required": ["meta", "data"]
+  "required": ["meta", "data"],
+  "$schema": "https://json-schema.org/draft-2020-12/schema"
 }
