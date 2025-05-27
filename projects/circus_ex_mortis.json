@@ -335,7 +335,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 10,
         "quantity": 1,
-        "text": "<blockquote><i>You waste little time in rushing through the circus gates to freedom, alongside as many of the other trapped spectators as you can find.  If you never see the New Moon Circus again, it will be too soon.</i></blockquote><hr>(<b>(→R2)</b>)",
+        "text": "<blockquote><i>You waste little time in rushing through the circus gates to freedom, alongside as many of the other trapped spectators as you can find.  If you never see the New Moon Circus again, it will be too soon.</i></blockquote><hr>(<b>→R2</b>)",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/01%20-%20One%20Night%20Only/Scenario%20Cards/Act%203-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-59935150-1a52-4fa9-acd2-b2b5e356fc14-Front.jpg"
@@ -631,7 +631,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 20,
         "quantity": 1,
-        "text": "<blockquote><i>By learning and gradually unworking the illusions spread throughout the forest, you finally approach the outskirts of the circus camp.  No alarm appears to have been raised, so you proceed with stifled breaths and careful movements.</i></blockquote><hr>(<b>(→R2)</b>)",
+        "text": "<blockquote><i>By learning and gradually unworking the illusions spread throughout the forest, you finally approach the outskirts of the circus camp.  No alarm appears to have been raised, so you proceed with stifled breaths and careful movements.</i></blockquote><hr>(<b>→R2</b>)",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/02%20-%20The%20Primrose%20Path/Scenario%20Cards/Act-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-b26eed44-9dbc-43bd-9634-90eeeebb5118-Front.jpg"
@@ -1518,7 +1518,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 46,
         "quantity": 1,
-        "text": "<blockquote><i>With all safeguards removed, you hurriedly usher the freed citizens ahead of you, instructing them to make straight north toward the dim lights of Arkham.</i></blockquote><hr>(<b>(→R2)</b>)",
+        "text": "<blockquote><i>With all safeguards removed, you hurriedly usher the freed citizens ahead of you, instructing them to make straight north toward the dim lights of Arkham.</i></blockquote><hr>(<b>→R2</b>)",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/03%20-%20Harm's%20Way/Scenario%20Cards/Act%202-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-7302d205-fc19-42e9-9e13-1732e138d120-Front.jpg"
@@ -1947,6 +1947,7 @@
         "position": 58,
         "quantity": 1,
         "type_code": "story",
+        "text": "<b>Forced</b> - When a card instructs you to reveal a fury token, the active investigator reveals a random token from the fury bag.  Then, depending on the token drawn, each Towering Dark Young makes an immediate attack against each investigator at the location...\n- [skull] - ...directly above them.\n- [cultist] - ...directly below them.\n- [tablet] - ...directly to the left of them.\n- [elder_thing] - ...directly to the right of them.\n- <img class=\"external-icon\" src=\"https://eons.arkham.build/zoop_temp_image_moon_token.png\" /> - Immediately reveal two additional fury tokens.\n\nAfter resolving this effect, return each fury token to the fury bag.",
         "image_url": "https://eons.arkham.build/03%20-%20Harm's%20Way/Scenario%20Cards/01%20The%20Dark%20Young%20Stir...-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-5a76f138-0825-44ad-baa6-d8eb76a1d3e1-Front.jpg"
       },
@@ -1974,6 +1975,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 59,
         "quantity": 1,
+        "text": "<blockquote><i>At first, it seems like this prisoner is unguarded, but the shimmer of illusory magic sparks up as you approach.  You won't be able to rescue them until you can determine a way past the illusion.</i></blockquote>\n\n[action]: Test [willpower] or [intellect] (3).  This test gets +1 [per_investigator] difficulty.  When you initiate this test, investigators at your location may spend 1 [per_investigator] clues as a group to automatically succeed.  If you succeed, flip this card and move it to the victory display.  If you fail, take 1 horror.",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/03%20-%20Harm's%20Way/Scenario%20Cards/Kidnapped%20Citizen%201-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-72b9c063-3aac-4e9d-b81f-c0a5ea90d1b0-Front.jpg"
@@ -2008,6 +2010,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 60,
         "quantity": 1,
+        "text": "<blockquote><i>The circus has taken no chances, and has imprisoned this captive in an iron cage on top of their restraints.  The lock for the cage is thankfully in poor condition, and can possibly be broken or jimmied open.</i></blockquote>\n\n[action]: Test [combat] or [agility] (3).  This test gets +1 [per_investigator] difficulty.  When you initiate this test, investigators at your location may spend 1 [per_investigator] clues as a group to automatically succeed.  If you succeed, flip this card and move it to the victory display.  If you fail, take 1 damage.",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/03%20-%20Harm's%20Way/Scenario%20Cards/Kidnapped%20Citizen%202-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-c691b977-0c6d-420e-a705-73601cca7edb-Front.jpg"
@@ -2042,6 +2045,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 61,
         "quantity": 1,
+        "text": "<blockquote><i>While most of the camp sleeps, a small group stands watch over this captive.  Taking on this many at once would be sure to rouse the whole camp, but maybe there's a way to distract them -- perhaps a big way.</i></blockquote>\n[reaction] After a Towering Dark Young attacks an investigator at this location (even if that attack was canceled): Place 1 resource on this card.\n[fast] Spend 1 clue: Place 1 resource on this card.\n<b>Forced</b> - If there are 1 [per_investigator] or more resources on this card: Flip it and move it to the victory display.",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/03%20-%20Harm's%20Way/Scenario%20Cards/Kidnapped%20Citizen%203-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-d7301276-3fd9-417d-9482-3217af80114e-Front.jpg"
@@ -2076,6 +2080,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 62,
         "quantity": 1,
+        "text": "<blockquote><i>You've managed to locate one captive, but they're being kept inside a hovel with barely any light.  You'll have to work carefully to free them, or trust that the bright moonlight will give you enough vision.</i></blockquote>\n[action] Investigators at this location spend 1<per> clues as a group:  Flip this card and move it to the victory display.  Reduce the amount of clues required for this action by 1 for each <img class=\"external-icon\" src=\"https://eons.arkham.build/zoop_temp_image_moon_token.png\" /> token sealed on a player card at this location.",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/03%20-%20Harm's%20Way/Scenario%20Cards/Kidnapped%20Citizen%204-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-a63e4cb8-cc2a-4207-9f66-02ba07ce84fc-Front.jpg"
@@ -2110,6 +2115,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 63,
         "quantity": 1,
+        "text": "<blockquote><i>This captive has been locked securely in chains that have no key whatsoever.  There may be a clever way to break the shackles, but you can wrest the chains from their anchors if need be.</i></blockquote>\n[action] Investigators at this location spend 1 [per_investigator] clues as a group:  Flip this card and move it to the victory display.  Investigators at this location may take any amount of damage as a group to reduce the amount of clues required for this action by 1 for each damage taken.",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/03%20-%20Harm's%20Way/Scenario%20Cards/Kidnapped%20Citizen%205-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-f67ddb09-f719-4ac0-a4d8-b8128854276d-Front.jpg"
@@ -2144,6 +2150,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 64,
         "quantity": 1,
+        "text": "<blockquote><i>Already bound, this captive is still being kept in a mesmeric trance to ensure they can't escape.  You can hardly drag them around without breaking the spell, but can you do that without risking your own mind?</i></blockquote>\n[action] Investigators at this location spend 1 [per_investigator] clues as a group:  Flip this card and move it to the victory display.  Investigators at this location may take any amount of horror as a group to reduce the amount of clues required for this action by 1 for each horror taken.",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/03%20-%20Harm's%20Way/Scenario%20Cards/Kidnapped%20Citizen%206-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-4fd0e414-b87f-4753-b149-9a1811d8957b-Front.jpg"
@@ -2568,7 +2575,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 80,
         "quantity": 1,
-        "text": "<blockquote><i>With the brakes of the circus train locked and its controls damaged, you leap back onto your own train.  Ralph and Carrie give full steam ahead, speeding you onward to the coast.</i></blockquote><hr>Check the amount of doom in play.  If there is...\n     - ...6 or fewer doom in play, (<b>(→R3)</b>).\n     - ...7 or more doom in play, (<b>(→R4)</b>).",
+        "text": "<blockquote><i>With the brakes of the circus train locked and its controls damaged, you leap back onto your own train.  Ralph and Carrie give full steam ahead, speeding you onward to the coast.</i></blockquote><hr>Check the amount of doom in play.  If there is...\n     - ...6 or fewer doom in play, (<b>→R3</b>).\n     - ...7 or more doom in play, (<b>→R4</b>).",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/04%20-%20All%20Points%20West/Scenario%20Cards/Act%204-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-4147fa79-73de-4429-ad4b-0fcfbc3d5cb6-Front.jpg"
@@ -3448,7 +3455,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 116,
         "quantity": 1,
-        "text": "<blockquote><i>You have stepped into the role of the beast tamer in this mad circus.  The monster lashes and bays with frightening power, but you beat it back with equal courage.  With all of Blake's subtlety beaten, there is little left but monstrous strength, and as you prove with one final blow, it is not enough to stop you.</i></blockquote><hr>(<b>(→R4)</b>)",
+        "text": "<blockquote><i>You have stepped into the role of the beast tamer in this mad circus.  The monster lashes and bays with frightening power, but you beat it back with equal courage.  With all of Blake's subtlety beaten, there is little left but monstrous strength, and as you prove with one final blow, it is not enough to stop you.</i></blockquote><hr>(<b>→R4</b>)",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/05%20-%20Piper%20at%20the%20Gates%20of%20Dawn/Scenario%20Cards/Act%203-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-b755d7d2-521a-425d-93d1-6cc0f64fd46b-Front.jpg"
@@ -3813,7 +3820,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 128,
         "quantity": 1,
-        "text": "<blockquote><i>With the other wild partying still ongoing, you find it surprisingly easy to slip out the front door and retreat down the path back to the city.  With any luck, nobody will notice your escape until you're back at the hotel.</i></blockquote><hr>(<b>(→R2)</b>)",
+        "text": "<blockquote><i>With the other wild partying still ongoing, you find it surprisingly easy to slip out the front door and retreat down the path back to the city.  With any luck, nobody will notice your escape until you're back at the hotel.</i></blockquote><hr>(<b>→R2</b>)",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/06%20-%20Bacchanalia/Scenario%20Cards/Act%203-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-67d559d4-5b9f-405e-a857-a804908feb84-Front.jpg"
@@ -4496,7 +4503,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 154,
         "quantity": 1,
-        "text": "<blockquote><i>A chill runs through your spine as the woods darken around you.  The eclipse has begun, and with the ritual still active, it will never end.  A horrid cacophony of growling, baying, and shrieking resounds through the woods in the permanent twilight.  Under the new moon, Shub-Niggurath has come.</i></blockquote><hr>(<b>(→R1)</b>)",
+        "text": "<blockquote><i>A chill runs through your spine as the woods darken around you.  The eclipse has begun, and with the ritual still active, it will never end.  A horrid cacophony of growling, baying, and shrieking resounds through the woods in the permanent twilight.  Under the new moon, Shub-Niggurath has come.</i></blockquote><hr>(<b>→R1</b>)",
         "type_code": "agenda",
         "image_url": "https://eons.arkham.build/07%20-%20Red%20Sunrise/Scenario%20Cards/Agenda%201v1-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-668329b3-7121-4dd0-9a97-1e6ae8d0ffa7-Front.jpg"
@@ -4530,7 +4537,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 155,
         "quantity": 1,
-        "text": "<blockquote><i>A chill runs through your spine as the woods darken around you.  The eclipse has begun, and with the ritual still active, it will never end.  A horrid cacophony of growling, baying, and shrieking resounds through the woods in the permanent twilight.  Under the new moon, Shub-Niggurath has come.</i></blockquote><hr>(<b>(→R1)</b>)",
+        "text": "<blockquote><i>A chill runs through your spine as the woods darken around you.  The eclipse has begun, and with the ritual still active, it will never end.  A horrid cacophony of growling, baying, and shrieking resounds through the woods in the permanent twilight.  Under the new moon, Shub-Niggurath has come.</i></blockquote><hr>(<b>→R1</b>)",
         "type_code": "agenda",
         "image_url": "https://eons.arkham.build/07%20-%20Red%20Sunrise/Scenario%20Cards/Agenda%201v2-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-a7d8fdaf-9ca6-424f-861c-1a506bdc7092-Front.jpg"
@@ -4662,7 +4669,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 159,
         "quantity": 1,
-        "text": "<blockquote><i>Not wasting a moment, you pore through the cult paraphernalia to undo the formative spell.  With stolen incantations and materials, you break the magic circle, and the eldritch glow begins to fade, just as the edges of the sun and moon touch.</i></blockquote><hr>(<b>(→R2)</b>)",
+        "text": "<blockquote><i>Not wasting a moment, you pore through the cult paraphernalia to undo the formative spell.  With stolen incantations and materials, you break the magic circle, and the eldritch glow begins to fade, just as the edges of the sun and moon touch.</i></blockquote><hr>(<b>→R2</b>)",
         "type_code": "act",
         "image_url": "https://eons.arkham.build/07%20-%20Red%20Sunrise/Scenario%20Cards/Act%202-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg",
         "thumbnail_url": "https://eons.arkham.build/Thumbnail-abca741f-58ab-48b4-b418-117a09a6edbf-Front.jpg"
@@ -5954,6 +5961,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 201,
         "quantity": 1,
+        "text": "<blockquote><i>In the toppled treeline behind you, a horrid growl utters.  You turn, expecting another of the bestial dark young, but your eyes settle on a different monster.  Its form is not unlike the dark young, but a disturbing semblance of humanity lingers about its conjoined faces.  Below, in a cavity bisecting its chest, a visible heart pulses slowly.  Your destiny in the tome flashes into your mind -- strike the heart.  To fulfill the ancient vision, you must be the one to fell this abomination.</i></blockquote>\nFlip this card over and put it into play at Fallen Copse, exhausted.",
         "type_code": "story",
         "victory": 0,
         "image_url": "https://eons.arkham.build/08%20-%20Thousand%20to%20One/Scenario%20Cards/Destiny%201-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
@@ -5992,6 +6000,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 202,
         "quantity": 1,
+        "text": "<blockquote><i>From the ancient and overgrown foliage, a soft but discordant sound lingers in the air.  The music is rapid, but subdued, not unlike the hypnotic cadence of a snake charmer.  The horrid piping gnaws at your sanity, but lends strength to the scattered cult and its monsters.  Your destiny in the tome flashes into your mind -- silence the pipes.  To fulfill the ancient vision, you must be the one to seek out and stop this profane song.</i></blockquote>\nFlip this card over and put it into play at Mossy Glen.",
         "type_code": "story",
         "victory": 0,
         "image_url": "https://eons.arkham.build/08%20-%20Thousand%20to%20One/Scenario%20Cards/Destiny%202-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
@@ -6030,6 +6039,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 203,
         "quantity": 1,
+        "text": "<blockquote><i>The sound of dull chanting reaches your ears, low and echoing.  You recognize the foul words from the earlier incantations at the ritual circle, but they are somehow different.  You don't know what spell the cult is weaving, but judging on sound alone, they are performing it somewhere deep and hidden, likely a nearby cave.  Your destiny in the tome flashes into your mind -- raise the torch.  To fulfill the ancient vision, you must be the one to illuminate their den and stymie their magic.</i></blockquote>\nFlip this card over and put it into play.",
         "type_code": "story",
         "victory": 0,
         "image_url": "https://eons.arkham.build/08%20-%20Thousand%20to%20One/Scenario%20Cards/Destiny%203-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
@@ -6065,6 +6075,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 204,
         "quantity": 1,
+        "text": "<blockquote><i>The violent braying of the dark young echoes not far beyond the clearing.  The foul beasts are amassing in numbers that would surely overwhelm you.  Through the foliage, you can barely make out the entrance to a deep ravine, with a tall rock formation looming just above it.  Your destiny in the tome flashes into your mind -- split the rock.  To fulfill the ancient vision, you must be the one to break this rock and block the advancement of the monsters.</i></blockquote>\nFlip this card over and put it into play.",
         "type_code": "story",
         "victory": 0,
         "image_url": "https://eons.arkham.build/08%20-%20Thousand%20to%20One/Scenario%20Cards/Destiny%204-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
@@ -6100,6 +6111,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 205,
         "quantity": 1,
+        "text": "<blockquote><i>The glow of otherworldly magic seeps through the treeline, deepening the red color of the redwoods.  It emanates from cracks in the trees, no doubt concocted by the cultists for some evil purpose.  However, judging from the symbology you have seen in the past weeks, the markings look incomplete.  Your destiny in the tome flashes into your mind -- scribe the sigil.  To fulfill the ancient vision, you must be the one to finish these symbols as something the cult did not intend.</i></blockquote>\nFlip this card over and put it into play.",
         "type_code": "story",
         "victory": 0,
         "image_url": "https://eons.arkham.build/08%20-%20Thousand%20to%20One/Scenario%20Cards/Destiny%205-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
@@ -6135,6 +6147,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 206,
         "quantity": 1,
+        "text": "<blockquote><i>At the edge of the clearing, a trail of trees adorned with profane symbols and implements leads further out into the forest.  Around each one, the stench of decay and an aura of fear linger.  The woods have been tainted by the primordial magic of the cult as they prepared for the ritual.  Your destiny in the tome flashes into your mind -- cleanse the stain.  To fulfill the ancient vision, you must be the one to find and purify the most corrupted area.</i></blockquote>\nFlip this card over and put it into play with 6 resources on it.",
         "type_code": "story",
         "victory": 0,
         "image_url": "https://eons.arkham.build/08%20-%20Thousand%20to%20One/Scenario%20Cards/Destiny%206-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
@@ -6170,6 +6183,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 207,
         "quantity": 1,
+        "text": "<blockquote><i>The sight of the dark moon shrouding the sun fills you with dread.  The cosmic event seems beyond your power to influence at all.  And yet, when faced with similar despair, Apuleius sought protection from a higher power, and whether or not Diana gave aid, the act braced his mind.  Your destiny in the tome flashes into your mind -- recite the prayer.  To fulfill the ancient vision, you must be the one to beseech Diana for aid, as the old scholar did.</i></blockquote>\nFlip this card over and put it into play next to the act deck.",
         "type_code": "story",
         "victory": 0,
         "image_url": "https://eons.arkham.build/08%20-%20Thousand%20to%20One/Scenario%20Cards/Destiny%207-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
@@ -6203,6 +6217,7 @@
         "pack_code": "aefd8de8-f771-451d-a5cd-467d0e69cf5c",
         "position": 208,
         "quantity": 1,
+        "text": "<blockquote><i>The darkness of the eclipse seems more than physical in this moment.  The vanishing sun represents the real possibility that humanity could be wiped from the face of the earth.  The strain could break most anyone else who knew the stakes in play.  Your destiny in the tome flashes into your mind -- bear the burden.  To fulfill the ancient vision, you must be the one to embrace this darkness and carry it until the end of the eclipse.</i></blockquote>\nFlip this card over and put it into play next to the act deck.",
         "type_code": "story",
         "victory": 0,
         "image_url": "https://eons.arkham.build/08%20-%20Thousand%20to%20One/Scenario%20Cards/Destiny%208-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg",
