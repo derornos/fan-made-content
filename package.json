@@ -3,7 +3,8 @@
   "type": "module",
   "scripts": {
     "fmt": "biome format --write .",
-    "upload": "tsx --env-file=.env scripts/upload.ts"
+    "upload": "tsx --env-file=.env scripts/upload.ts",
+    "fix:dark_matter": "tsx scripts/dark_matter_fix.ts && npm run fmt"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.806.0",
