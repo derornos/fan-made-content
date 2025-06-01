@@ -757,7 +757,6 @@
       },
       {
         "code": "4b77c16d-682b-40ba-8616-6fded96689b4",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-the_20tatterdemalion",
         "encounter_position": 17,
         "faction_code": "neutral",
@@ -893,7 +892,6 @@
       },
       {
         "code": "24840873-efc6-4445-ba54-9faf5b25fde2",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-the_20tatterdemalion",
         "encounter_position": 24,
         "faction_code": "neutral",
@@ -912,7 +910,6 @@
       },
       {
         "code": "6ed86948-043d-426a-bd4c-79ce79070022",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-the_20tatterdemalion",
         "encounter_position": 25,
         "faction_code": "neutral",
@@ -930,7 +927,6 @@
       },
       {
         "code": "eed7b35f-3f27-41e8-9f41-7f0742ee9aa1",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-the_20tatterdemalion",
         "encounter_position": 26,
         "faction_code": "neutral",
@@ -1443,7 +1439,6 @@
       },
       {
         "code": "b981acd0-98a6-4076-a8ad-526be48a6056",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-electric_20nightmare",
         "encounter_position": 9,
         "faction_code": "neutral",
@@ -2419,7 +2414,6 @@
       },
       {
         "code": "cccc97c4-3a59-4f67-ac46-cdd583e87244",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-lost_20quantum",
         "encounter_position": 8,
         "faction_code": "neutral",
@@ -3376,7 +3370,6 @@
       },
       {
         "code": "d40488c3-3a5f-4f44-a53f-e40faa1c5bfb",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-in_20the_20shadow_20of_20earth",
         "encounter_position": 19,
         "faction_code": "neutral",
@@ -3397,7 +3390,6 @@
       },
       {
         "code": "b43c48fc-4691-435b-b91e-2a1ba52d1659",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-in_20the_20shadow_20of_20earth",
         "encounter_position": 20,
         "faction_code": "neutral",
@@ -3418,7 +3410,6 @@
       },
       {
         "code": "b56f79ed-2f41-4b29-a2cd-0f902f9672a7",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-in_20the_20shadow_20of_20earth",
         "encounter_position": 21,
         "faction_code": "neutral",
@@ -3439,7 +3430,6 @@
       },
       {
         "code": "3210cf57-b858-431e-82cd-4327cf80b5d0",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-in_20the_20shadow_20of_20earth",
         "encounter_position": 22,
         "faction_code": "neutral",
@@ -3460,7 +3450,6 @@
       },
       {
         "code": "045ef930-bdc6-40a9-b2f8-53cd29ba8e25",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-in_20the_20shadow_20of_20earth",
         "encounter_position": 23,
         "faction_code": "neutral",
@@ -3480,7 +3469,6 @@
       },
       {
         "code": "696b34eb-b2d6-4556-8bb7-8fe5984c8dd1",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-in_20the_20shadow_20of_20earth",
         "encounter_position": 24,
         "faction_code": "neutral",
@@ -4022,7 +4010,6 @@
       },
       {
         "code": "b924b80d-00b4-4978-802b-6565483e2895",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_20moons",
         "encounter_position": 8,
         "faction_code": "neutral",
@@ -4039,7 +4026,6 @@
       },
       {
         "code": "5f7e55ae-5983-45db-94ac-9f435c35880f",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_20moons",
         "encounter_position": 9,
         "faction_code": "neutral",
@@ -4056,7 +4042,6 @@
       },
       {
         "code": "f424d654-ee02-49c2-99b0-67c895b507c5",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_20moons",
         "encounter_position": 10,
         "faction_code": "neutral",
@@ -6700,7 +6685,6 @@
       },
       {
         "code": "c6db1a4d-d3e6-49eb-ad2b-67f62d0822d1",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 25,
         "faction_code": "neutral",
@@ -6718,7 +6702,6 @@
       },
       {
         "code": "ac3b817a-244f-4d4f-a034-63000f49eb87",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 26,
         "faction_code": "neutral",
@@ -6737,7 +6720,6 @@
       },
       {
         "code": "9c929881-31fc-4311-bdb3-a9db97e3476d",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 27,
         "faction_code": "neutral",
@@ -6756,7 +6738,6 @@
       },
       {
         "code": "03db2cea-d280-4881-a6a6-775550a068a5",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 28,
         "faction_code": "neutral",
@@ -6776,7 +6757,6 @@
       },
       {
         "code": "8ad392a3-a2ed-412f-a8fc-de201b811820",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 29,
         "faction_code": "neutral",
@@ -6797,7 +6777,6 @@
       },
       {
         "code": "07791048-a455-4d34-8a1e-f3229ceb6bbe",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 30,
         "faction_code": "neutral",
@@ -6883,7 +6862,6 @@
       },
       {
         "code": "3cc3c9c8-d5e2-4dc6-90dd-ea3d47ec07bb",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 34,
         "faction_code": "neutral",
@@ -6927,7 +6905,6 @@
       },
       {
         "code": "f5d90107-e5ea-48cb-9889-484c851d8867",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 36,
         "faction_code": "neutral",
@@ -6946,7 +6923,6 @@
       },
       {
         "code": "9353df89-51fe-4f5d-bd26-1b637334c2d7",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 37,
         "faction_code": "neutral",
@@ -6966,7 +6942,6 @@
       },
       {
         "code": "46672480-8f8c-4e4b-ba5b-1c8bc5ab7bca",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 38,
         "faction_code": "neutral",
@@ -6986,7 +6961,6 @@
       },
       {
         "code": "56770f1c-ffbe-45a3-ba42-5f06769308c7",
-        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-starfall",
         "encounter_position": 39,
         "faction_code": "neutral",

@@ -19,6 +19,7 @@ for (const [i, card] of file.data.cards.entries()) {
   if (isScanningBack) {
     const front = file.data.cards[i - 1];
     front.back_link = undefined;
+    front.deck_limit = undefined;
     front.back_image_url = card.image_url;
     front.back_thumbnail_url = card.thumbnail_url;
   } else {
