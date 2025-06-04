@@ -26,6 +26,16 @@ for (const [i, card] of file.data.cards.entries()) {
     if (card.text) {
       card.text = card.text.replaceAll(/<(center|left|right)>/g, "");
     }
+
+    if (
+      card.double_sided &&
+      !card.back_text &&
+      !card.back_traits &&
+      !card.back_flavor
+    ) {
+      card.double_sided = undefined;
+    }
+
     cards.push(card);
   }
 }

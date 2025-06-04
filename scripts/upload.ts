@@ -78,7 +78,7 @@ async function rehostBanner(project: Project) {
   const projectCode = meta.code;
 
   if (meta.banner_url) {
-    const ext = path.extname(meta.banner_url);
+    const ext = extname(meta.banner_url);
     const s3Path = makeS3Path(projectCode, `banner${ext}`);
     if (ext) {
       await rehostFile({ sourceUrl: meta.banner_url, s3Path });
@@ -107,7 +107,7 @@ async function rehostCardImages(project: Project) {
         const sourceUrl = card[key];
         if (!sourceUrl) return acc;
 
-        const ext = path.extname(sourceUrl);
+        const ext = extname(sourceUrl);
 
         if (!ext) {
           console.warn(`No file extension: ${code} / ${sourceUrl}`);
@@ -139,13 +139,7 @@ async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
       const sourceUrl = set.icon_url;
 
       if (sourceUrl) {
-        const ext = path.extname(sourceUrl);
-
-        if (!ext) {
-          console.warn(`No file extension: ${code} / ${set.icon_url}`);
-          return;
-        }
-
+        const ext = extname(sourceUrl);
         const s3Path = makeS3Path(projectCode, `pack_${code}${ext}`);
         await rehostFile({ sourceUrl, s3Path });
         project.data[key][index].icon_url = makeCdnUrl(s3Path);
@@ -166,9 +160,11 @@ async function upload(
   params: UploadParams,
   body: PutObjectCommandInput["Body"],
 ) {
-  const { s3Path, sourceUrl } = params;
+  const { s3Path: _s3Path, sourceUrl: _sourceUrl } = params;
+  const sourceUrl = cleanPath(_sourceUrl);
+  const s3Path = cleanPath(_s3Path);
 
-  console.info(`Uploading: ${sourceUrl}`);
+  console.info(`${s3Path} (${inferContentType(sourceUrl)})`);
 
   const upload = new Upload({
     client: s3Client,
@@ -184,12 +180,17 @@ async function upload(
   await upload.done();
 }
 
+function extname(p: string) {
+  const ext = path.extname(cleanPath(p));
+  return ext;
+}
+
 function inferContentType(url: string) {
-  const ext = path.extname(url);
+  const ext = extname(url);
   if (ext === ".json") return "application/json";
 
   const type = ext.slice(1);
-  return `image/${type}`;
+  return `image/${type || "png"}`;
 }
 
 function makeS3Path(code: string, filePath: string) {
@@ -198,6 +199,14 @@ function makeS3Path(code: string, filePath: string) {
 
 function makeCdnUrl(filePath: string) {
   return `${process.env.CDN_BASE_URL}/${filePath}`;
+}
+
+function cleanPath(path: string) {
+  if (path.includes("?cachebust")) {
+    return path.split("?cachebust")[0];
+  }
+
+  return path;
 }
 
 type Project = {
