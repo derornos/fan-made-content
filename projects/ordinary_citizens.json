@@ -338,10 +338,10 @@
         "text": "[reaction] During your turn, after one of your card effects heals damage and/or horror from an investigator: Gain 1 resource. You may take an additional action this turn. (Limit once per round.)\n[elder_sign] effect: +2. If you succeed, heal 1 damage or 1 horror from an investigator at your location.",
         "traits": "Veteran. Medic.",
         "type_code": "investigator",
-        "image_url": "https://eons.arkham.build/a33f6beb-915c-428c-8891-df292ddec98a-Front-Lucia%20Deveraux-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749027566976",
-        "thumbnail_url": "https://eons.arkham.build/a33f6beb-915c-428c-8891-df292ddec98a-Front-thumbnail.png?cachebust=1749027567362",
-        "back_image_url": "https://eons.arkham.build/a33f6beb-915c-428c-8891-df292ddec98a-Back-Lucia%20Deveraux-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749027568326",
-        "back_thumbnail_url": "https://eons.arkham.build/a33f6beb-915c-428c-8891-df292ddec98a-Back-thumbnail.png?cachebust=1749027568754"
+        "image_url": "https://eons.arkham.build/a33f6beb-915c-428c-8891-df292ddec98a-Front-Lucia%20Deveraux-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749141431872",
+        "thumbnail_url": "https://eons.arkham.build/a33f6beb-915c-428c-8891-df292ddec98a-Front-thumbnail.png?cachebust=1749141432449",
+        "back_image_url": "https://eons.arkham.build/a33f6beb-915c-428c-8891-df292ddec98a-Back-Lucia%20Deveraux-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749141433470",
+        "back_thumbnail_url": "https://eons.arkham.build/a33f6beb-915c-428c-8891-df292ddec98a-Back-thumbnail.png?cachebust=1749141433977"
       },
       {
         "code": "38fa4050-d63d-4870-91cd-a076d642f192",
