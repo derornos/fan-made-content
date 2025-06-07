@@ -317,8 +317,8 @@
         "text": "Simone Toussaint deck only.\n<b>Revelation</b> - Discard each asset in your arcane slots. Put Marinette Bwa-Chèche into play under your control. She cannot leave play while she has less than 3 resources on her.\n<b>Forced</b> - While Marinette Bwa-Chèche is in play, you do not have Arcane slots.\n[reaction] After you succeed at a <b>Fight</b> action, put 1 resource on Marinette Bwa-Chèche from the token bank.  If there are 3 or more resource tokens on Marinette Bwa-Chèche, discard her. ",
         "traits": "Avatar. Loa. Patron.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/bb037ca6-9eba-4dd5-b964-3b3f9880c36a-Front-Marinette%20Bwa-Ch%C3%A8che-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749109835826",
-        "thumbnail_url": "https://eons.arkham.build/bb037ca6-9eba-4dd5-b964-3b3f9880c36a-Front-thumbnail.png?cachebust=1749109836259"
+        "image_url": "https://eons.arkham.build/bb037ca6-9eba-4dd5-b964-3b3f9880c36a-Front-Marinette%20Bwa-Ch%C3%A8che-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286174106",
+        "thumbnail_url": "https://eons.arkham.build/bb037ca6-9eba-4dd5-b964-3b3f9880c36a-Front-thumbnail.png?cachebust=1749286174532"
       },
       {
         "code": "ff1c8b67-a23c-4456-9617-010e39e2b9fc",
@@ -388,12 +388,12 @@
           },
           {
             "faction": ["rogue"],
-            "type": ["event"],
             "level": {
               "min": 0,
               "max": 2
             },
-            "limit": 10
+            "limit": 10,
+            "type": ["event"]
           }
         ],
         "deck_limit": 1,
@@ -416,10 +416,10 @@
         "text": "[reaction] After you succeed at a skill test by 2 or more, you may play an event card from your hand, paying its cost.  If that event card was fast, it costs 2 less resources. (Limit once per round.)\n[elder_sign]: +0.  Shuffle an event card in your discard pile back into your deck.",
         "traits": "Assistant. Criminal.",
         "type_code": "investigator",
-        "image_url": "https://eons.arkham.build/316ddf18-cebf-4908-9778-140c98cc6243-Front-Colin%20Montgomery-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749057783812",
-        "thumbnail_url": "https://eons.arkham.build/316ddf18-cebf-4908-9778-140c98cc6243-Front-thumbnail.png?cachebust=1749057784260",
-        "back_image_url": "https://eons.arkham.build/316ddf18-cebf-4908-9778-140c98cc6243-Back-Colin%20Montgomery-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749057785293",
-        "back_thumbnail_url": "https://eons.arkham.build/316ddf18-cebf-4908-9778-140c98cc6243-Back-thumbnail.png?cachebust=1749057785874"
+        "image_url": "https://eons.arkham.build/316ddf18-cebf-4908-9778-140c98cc6243-Front-Colin%20Montgomery-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286317799",
+        "thumbnail_url": "https://eons.arkham.build/316ddf18-cebf-4908-9778-140c98cc6243-Front-thumbnail.png?cachebust=1749286318379",
+        "back_image_url": "https://eons.arkham.build/316ddf18-cebf-4908-9778-140c98cc6243-Back-Colin%20Montgomery-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749286319259",
+        "back_thumbnail_url": "https://eons.arkham.build/316ddf18-cebf-4908-9778-140c98cc6243-Back-thumbnail.png?cachebust=1749286319738"
       },
       {
         "code": "02d9a66a-6a69-4818-923e-86d55904fb48",
@@ -910,8 +910,8 @@
         "text": "Sebastian Benítez deck only.\n<b>Revelation</b> - Put Great Prince Camio into play. Search your deck, discard pile and play area for Cain Adeon, Esquire and set him aside, out of play.\nWhile Great Prince Camio is in play, Sebastian Benítez cannot succeed at tests without triggering the [reaction] ability on his investigator card.  \n[action] Take 1 direct damage and horror: Discard Great Prince Camio and shuffle Cain Adeon, Esquire back into your deck.",
         "traits": "Ally. Daemon. Goetia. Patron.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/8c3c05cd-030b-438c-b9aa-9ba7999771db-Front-Camio%20The%20Great%20Prince-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749057731944",
-        "thumbnail_url": "https://eons.arkham.build/8c3c05cd-030b-438c-b9aa-9ba7999771db-Front-thumbnail.png?cachebust=1749057732483"
+        "image_url": "https://eons.arkham.build/8c3c05cd-030b-438c-b9aa-9ba7999771db-Front-Camio%20The%20Great%20Prince-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286190513",
+        "thumbnail_url": "https://eons.arkham.build/8c3c05cd-030b-438c-b9aa-9ba7999771db-Front-thumbnail.png?cachebust=1749286190935"
       },
       {
         "code": "9239d8a9-f4f2-4bf4-bb7e-c0902a13ea4b",
@@ -926,12 +926,12 @@
         "skill_combat": 1,
         "skill_intellect": 1,
         "slot": "Hand",
-        "text": "Uses (4 Ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. If this attack defeats an enemy, draw a card.",
+        "text": "Uses (4 ammo).\n[action] Spend 1 ammo: <b>Fight.</b> You get +1 [combat] for this attack. This attack deals +1 damage. If this attack defeats an enemy, draw a card.",
         "traits": "Item. Firearm. Weapon.",
         "type_code": "asset",
         "xp": 1,
-        "image_url": "https://eons.arkham.build/9239d8a9-f4f2-4bf4-bb7e-c0902a13ea4b-Front-Browning%201910%20-%201-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749070009509",
-        "thumbnail_url": "https://eons.arkham.build/9239d8a9-f4f2-4bf4-bb7e-c0902a13ea4b-Front-thumbnail.png?cachebust=1749070009955"
+        "image_url": "https://eons.arkham.build/9239d8a9-f4f2-4bf4-bb7e-c0902a13ea4b-Front-Browning%201910%20-%201-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286175290",
+        "thumbnail_url": "https://eons.arkham.build/9239d8a9-f4f2-4bf4-bb7e-c0902a13ea4b-Front-thumbnail.png?cachebust=1749286175925"
       },
       {
         "code": "1f83750e-1bd4-4ba8-a7aa-691e7a25ddb1",
@@ -1039,12 +1039,12 @@
         "skill_agility": 1,
         "skill_combat": 1,
         "slot": "Hand",
-        "text": "Uses (3 Charges).  If Ijaya Trinket has no charges, discard it.\n[reaction] After a non-[[Elite]] enemy attacks you, even if that attack was canceled: Spend 1 charge and exhaust Ijaya Trinket. That enemy does not ready during the next upkeep phase.",
+        "text": "Uses (3 charges).  If Ijaya Trinket has no charges, discard it.\n[reaction] After a non-[[Elite]] enemy attacks you, even if that attack was canceled: Spend 1 charge and exhaust Ijaya Trinket. That enemy does not ready during the next upkeep phase.",
         "traits": "Item. Charm. Occult.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/a160a241-ea3c-4d4f-ab55-cab1f76c7dfe-Front-Ijaya%20Trinket%20-%200-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749057822836",
-        "thumbnail_url": "https://eons.arkham.build/a160a241-ea3c-4d4f-ab55-cab1f76c7dfe-Front-thumbnail.png?cachebust=1749057823284"
+        "image_url": "https://eons.arkham.build/a160a241-ea3c-4d4f-ab55-cab1f76c7dfe-Front-Ijaya%20Trinket%20-%200-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286177260",
+        "thumbnail_url": "https://eons.arkham.build/a160a241-ea3c-4d4f-ab55-cab1f76c7dfe-Front-thumbnail.png?cachebust=1749286177706"
       },
       {
         "code": "07829f29-ee6a-48b6-af13-4529c8c3df53",
@@ -1082,12 +1082,12 @@
         "skill_combat": 1,
         "skill_wild": 1,
         "slot": "Hand",
-        "text": "Uses (3 Charges).  If Ijaya Trinket has no charges, discard it.\n[reaction] When an enemy attacks you, spend 1 charge and exhaust Ijaya Trinket: Cancel that attack. If that enemy is non-[[Elite]], exhaust that enemy and it does not ready during the next upkeep phase.",
+        "text": "Uses (3 charges).  If Ijaya Trinket has no charges, discard it.\n[reaction] When an enemy attacks you, spend 1 charge and exhaust Ijaya Trinket: Cancel that attack. If that enemy is non-[[Elite]], exhaust that enemy and it does not ready during the next upkeep phase.",
         "traits": "Item. Charm. Occult.",
         "type_code": "asset",
         "xp": 2,
-        "image_url": "https://eons.arkham.build/fcd10b31-7d07-45a2-bbe9-0afe1cb6aefc-Front-Ijaya%20Trinket%20-%202-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749057762777",
-        "thumbnail_url": "https://eons.arkham.build/fcd10b31-7d07-45a2-bbe9-0afe1cb6aefc-Front-thumbnail.png?cachebust=1749057763291"
+        "image_url": "https://eons.arkham.build/fcd10b31-7d07-45a2-bbe9-0afe1cb6aefc-Front-Ijaya%20Trinket%20-%202-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286180116",
+        "thumbnail_url": "https://eons.arkham.build/fcd10b31-7d07-45a2-bbe9-0afe1cb6aefc-Front-thumbnail.png?cachebust=1749286180566"
       },
       {
         "code": "fac13a0f-c043-4486-9036-02530514ae5a",
@@ -1101,12 +1101,12 @@
         "quantity": 2,
         "skill_combat": 3,
         "slot": "Hand x2",
-        "text": "Uses (6 Ammo).\n<b>Forced</b> - If Lewis Mk IV is ready: You may not move except via encounter card effects.\n[free] Exhaust Lewis Mk IV.\n[action] If Lewis Mk IV is ready, spend 1 Ammo:<b> Fight</b>. You get +2 [combat] and deal +1 damage for this attack. If you succeed by 2 or more, you may spend 1 additional ammo to deal this attack's damage to an additional enemy at your location. (Limit once per attack)",
+        "text": "Uses (6 ammo).\n<b>Forced</b> - If Lewis Mk IV is ready: You may not move except via encounter card effects.\n[free] Exhaust Lewis Mk IV.\n[action] If Lewis Mk IV is ready, spend 1 Ammo:<b> Fight</b>. You get +2 [combat] and deal +1 damage for this attack. If you succeed by 2 or more, you may spend 1 additional ammo to deal this attack's damage to an additional enemy at your location. (Limit once per attack)",
         "traits": "Item. Weapon. Firearm.",
         "type_code": "asset",
         "xp": 3,
-        "image_url": "https://eons.arkham.build/fac13a0f-c043-4486-9036-02530514ae5a-Front-M1919A2%20Browning%20-%203-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749069996279",
-        "thumbnail_url": "https://eons.arkham.build/fac13a0f-c043-4486-9036-02530514ae5a-Front-thumbnail.png?cachebust=1749069996740"
+        "image_url": "https://eons.arkham.build/fac13a0f-c043-4486-9036-02530514ae5a-Front-M1919A2%20Browning%20-%203-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286169272",
+        "thumbnail_url": "https://eons.arkham.build/fac13a0f-c043-4486-9036-02530514ae5a-Front-thumbnail.png?cachebust=1749286169938"
       },
       {
         "code": "be944575-6390-4636-98ef-10a6ee34ce56",
@@ -1121,12 +1121,12 @@
         "skill_combat": 3,
         "skill_wild": 1,
         "slot": "Hand x2",
-        "text": "Uses (8 Ammo).\n<b>Forced</b> - If Lewis Mk IV is ready: You may not move except via encounter card effects.\n[free] Exhaust Lewis Mk IV.\n[action] If Lewis Mk IV is ready, spend 1 Ammo:<b> Fight</b>. You get +3 [combat] and deal +2 damage for this attack. If you succeed by 2 or more, you may spend 1 additional ammo to deal this attack's damage to an additional enemy at your location, or 2 additional ammo to deal this attack's damage to enemy at a connecting location instead. (Limit once per attack)",
+        "text": "Uses (8 ammo).\n<b>Forced</b> - If Lewis Mk IV is ready: You may not move except via encounter card effects.\n[free] Exhaust Lewis Mk IV.\n[action] If Lewis Mk IV is ready, spend 1 Ammo:<b> Fight</b>. You get +3 [combat] and deal +2 damage for this attack. If you succeed by 2 or more, you may spend 1 additional ammo to deal this attack's damage to an additional enemy at your location, or 2 additional ammo to deal this attack's damage to enemy at a connecting location instead. (Limit once per attack)",
         "traits": "Item. Weapon. Firearm.",
         "type_code": "asset",
         "xp": 5,
-        "image_url": "https://eons.arkham.build/be944575-6390-4636-98ef-10a6ee34ce56-Front-M1919A2%20Browning%20-%203%20(2)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749069993220",
-        "thumbnail_url": "https://eons.arkham.build/be944575-6390-4636-98ef-10a6ee34ce56-Front-thumbnail.png?cachebust=1749069993943"
+        "image_url": "https://eons.arkham.build/be944575-6390-4636-98ef-10a6ee34ce56-Front-M1919A2%20Browning%20-%203%20(2)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286182831",
+        "thumbnail_url": "https://eons.arkham.build/be944575-6390-4636-98ef-10a6ee34ce56-Front-thumbnail.png?cachebust=1749286183199"
       },
       {
         "code": "7a3b7210-9d61-4726-8310-d78d22b731a0",
@@ -1471,12 +1471,12 @@
         "quantity": 2,
         "skill_willpower": 2,
         "slot": "Arcane",
-        "text": "Uses (3 Charges).\n[reaction] When any amount of doom is placed on a card under your control, exhaust Malediction and spend 1 charge:  Deal 1 damage to an enemy at your location or discover 1 clue at your location.",
+        "text": "Uses (3 charges).\n[reaction] When any amount of doom is placed on a card under your control, exhaust Malediction and spend 1 charge:  Deal 1 damage to an enemy at your location or discover 1 clue at your location.",
         "traits": "Spell.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/c863d764-1d04-41d1-9166-32ae83b495f6-Front-Malediction%20-%200-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749069997620",
-        "thumbnail_url": "https://eons.arkham.build/c863d764-1d04-41d1-9166-32ae83b495f6-Front-thumbnail.png?cachebust=1749069998111"
+        "image_url": "https://eons.arkham.build/c863d764-1d04-41d1-9166-32ae83b495f6-Front-Malediction%20-%200-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286186407",
+        "thumbnail_url": "https://eons.arkham.build/c863d764-1d04-41d1-9166-32ae83b495f6-Front-thumbnail.png?cachebust=1749286186816"
       },
       {
         "code": "fb7db820-7088-42d6-9dae-029c3ab44d0a",
@@ -1491,12 +1491,12 @@
         "skill_wild": 1,
         "skill_willpower": 2,
         "slot": "Arcane",
-        "text": "Uses (3 Charges).\n[reaction] When any amount of doom is placed on a card under your control, exhaust Malediction or spend 1 charge:  Deal 1 damage to an enemy at your location, discover 1 clue at your location, or add 1 charge to Malediction.",
+        "text": "Uses (3 charges).\n[reaction] When any amount of doom is placed on a card under your control, exhaust Malediction or spend 1 charge:  Deal 1 damage to an enemy at your location, discover 1 clue at your location, or add 1 charge to Malediction.",
         "traits": "Spell.",
         "type_code": "asset",
         "xp": 3,
-        "image_url": "https://eons.arkham.build/fb7db820-7088-42d6-9dae-029c3ab44d0a-Front-Malediction%20-%203-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749070012171",
-        "thumbnail_url": "https://eons.arkham.build/fb7db820-7088-42d6-9dae-029c3ab44d0a-Front-thumbnail.png?cachebust=1749070012719"
+        "image_url": "https://eons.arkham.build/fb7db820-7088-42d6-9dae-029c3ab44d0a-Front-Malediction%20-%203-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286185140",
+        "thumbnail_url": "https://eons.arkham.build/fb7db820-7088-42d6-9dae-029c3ab44d0a-Front-thumbnail.png?cachebust=1749286185688"
       },
       {
         "code": "9b98dc39-a504-4d4b-9e5e-02f1125f8631",
@@ -1854,12 +1854,12 @@
         "skill_combat": 1,
         "skill_wild": 1,
         "slot": "Hand x2",
-        "text": "Uses (2 Ammo). \n[action] Spend 1 ammo: <b>Fight.</b> You get +3 [combat] to this attack and deal +1 damage. If this attack succeeds,  you may spend 1 additional ammo to deal 1 extra damage.\n[free] If there is 1 or fewer ammo on Model 10 Remington, spend 2 resources: Put 1 ammo on Model 10 Remington.  (Limit once per round.)",
+        "text": "Uses (2 ammo). \n[action] Spend 1 ammo: <b>Fight.</b> You get +3 [combat] to this attack and deal +1 damage. If this attack succeeds,  you may spend 1 additional ammo to deal 1 extra damage.\n[free] If there is 1 or fewer ammo on Model 10 Remington, spend 2 resources: Put 1 ammo on Model 10 Remington.  (Limit once per round.)",
         "traits": "Item. Weapon. Firearm. Illicit.",
         "type_code": "asset",
         "xp": 3,
-        "image_url": "https://eons.arkham.build/5ff270da-16bc-40be-91c7-7794745ead74-Front-Model%2010%20Remington%20-%204-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749057740768",
-        "thumbnail_url": "https://eons.arkham.build/5ff270da-16bc-40be-91c7-7794745ead74-Front-thumbnail.png?cachebust=1749057741213"
+        "image_url": "https://eons.arkham.build/5ff270da-16bc-40be-91c7-7794745ead74-Front-Model%2010%20Remington%20-%204-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286181609",
+        "thumbnail_url": "https://eons.arkham.build/5ff270da-16bc-40be-91c7-7794745ead74-Front-thumbnail.png?cachebust=1749286181985"
       },
       {
         "code": "116507fb-db6d-4fcd-a4b0-c065e04ae388",
@@ -1934,12 +1934,12 @@
         "position": 81,
         "quantity": 2,
         "skill_intellect": 1,
-        "text": "Uses (4 Supplies).\n[action] Spend 1 supply and X resources: Discover a clue at a connecting location.  If an enemy is at that location, X is half that location's shroud.  Otherwise, X is that location's shroud.",
+        "text": "Uses (4 supplies).\n[action] Spend 1 supply and X resources: Discover a clue at a connecting location.  If an enemy is at that location, X is half that location's shroud.  Otherwise, X is that location's shroud.",
         "traits": "Item. Tool. Illicit.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/ab971b63-cccc-4ca1-851a-b31b363b161d-Front-Wiretap-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749070007837",
-        "thumbnail_url": "https://eons.arkham.build/ab971b63-cccc-4ca1-851a-b31b363b161d-Front-thumbnail.png?cachebust=1749070008337"
+        "image_url": "https://eons.arkham.build/ab971b63-cccc-4ca1-851a-b31b363b161d-Front-Wiretap-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286167779",
+        "thumbnail_url": "https://eons.arkham.build/ab971b63-cccc-4ca1-851a-b31b363b161d-Front-thumbnail.png?cachebust=1749286168478"
       },
       {
         "code": "50b91d9c-d08d-4213-81c1-c711c97cb8e8",
@@ -1953,12 +1953,12 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_intellect": 1,
-        "text": "Uses (4 Supplies).\n[action] Spend 1 supply and X resources: Discover a clue at a connecting location.  X is half that location's shroud.  If a non-[[Elite]] enemy is at that location, you may automatically exhaust it.",
+        "text": "Uses (4 supplies).\n[action] Spend 1 supply and X resources: Discover a clue at a connecting location.  X is half that location's shroud.  If a non-[[Elite]] enemy is at that location, you may automatically exhaust it.",
         "traits": "Item. Tool. Illicit.",
         "type_code": "asset",
         "xp": 1,
-        "image_url": "https://eons.arkham.build/50b91d9c-d08d-4213-81c1-c711c97cb8e8-Front-Wiretap%20(2)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749070003206",
-        "thumbnail_url": "https://eons.arkham.build/50b91d9c-d08d-4213-81c1-c711c97cb8e8-Front-thumbnail.png?cachebust=1749070003687"
+        "image_url": "https://eons.arkham.build/50b91d9c-d08d-4213-81c1-c711c97cb8e8-Front-Wiretap%20(2)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286191816",
+        "thumbnail_url": "https://eons.arkham.build/50b91d9c-d08d-4213-81c1-c711c97cb8e8-Front-thumbnail.png?cachebust=1749286192328"
       },
       {
         "code": "b64eccd4-6cc1-4b19-95dd-78f0d254e4e1",
@@ -2123,12 +2123,12 @@
         "quantity": 2,
         "skill_willpower": 2,
         "slot": "Arcane",
-        "text": "Uses (3 Charges).\n[reaction] At the beginning of the Mythos phase, spend 1 charge: Discard cards from the top of your deck until a card with at least one [wild] symbol is revealed.  Commit that card to each test that takes place during this mythos phase. If a weakness is discarded during this process, shuffle it back into your deck.",
+        "text": "Uses (3 charges).\n[reaction] At the beginning of the Mythos phase, spend 1 charge: Discard cards from the top of your deck until a card with at least one [wild] symbol is revealed.  Commit that card to each test that takes place during this mythos phase. If a weakness is discarded during this process, shuffle it back into your deck.",
         "traits": "Augury. Spell.",
         "type_code": "asset",
         "xp": 1,
-        "image_url": "https://eons.arkham.build/805df2c1-cda7-441e-b7ec-0010143ad36c-Front-Saturnine%20Foresight%201-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749070010865",
-        "thumbnail_url": "https://eons.arkham.build/805df2c1-cda7-441e-b7ec-0010143ad36c-Front-thumbnail.png?cachebust=1749070011299"
+        "image_url": "https://eons.arkham.build/805df2c1-cda7-441e-b7ec-0010143ad36c-Front-Saturnine%20Foresight%201-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286172804",
+        "thumbnail_url": "https://eons.arkham.build/805df2c1-cda7-441e-b7ec-0010143ad36c-Front-thumbnail.png?cachebust=1749286173188"
       },
       {
         "code": "cf61913c-f05f-4f68-aff9-9f5d5a384fe4",
@@ -2142,12 +2142,12 @@
         "quantity": 2,
         "skill_wild": 2,
         "slot": "Arcane",
-        "text": "Uses (3 Charges).\n[reaction] At the beginning of the Mythos phase, spend 1 charge: Reveal cards from the top of your deck until a card with at least one [wild] symbol is revealed.  Commit that card to each test that takes place during this mythos phase. At the end of the mythos phase, add that card to your hand and shuffle each other revealed card back into your deck.",
+        "text": "Uses (3 charges).\n[reaction] At the beginning of the Mythos phase, spend 1 charge: Reveal cards from the top of your deck until a card with at least one [wild] symbol is revealed.  Commit that card to each test that takes place during this mythos phase. At the end of the mythos phase, add that card to your hand and shuffle each other revealed card back into your deck.",
         "traits": "Augury. Spell.",
         "type_code": "asset",
         "xp": 4,
-        "image_url": "https://eons.arkham.build/cf61913c-f05f-4f68-aff9-9f5d5a384fe4-Front-Saturnine%20Foresight%204-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749069999005",
-        "thumbnail_url": "https://eons.arkham.build/cf61913c-f05f-4f68-aff9-9f5d5a384fe4-Front-thumbnail.png?cachebust=1749069999438"
+        "image_url": "https://eons.arkham.build/cf61913c-f05f-4f68-aff9-9f5d5a384fe4-Front-Saturnine%20Foresight%204-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286184028",
+        "thumbnail_url": "https://eons.arkham.build/cf61913c-f05f-4f68-aff9-9f5d5a384fe4-Front-thumbnail.png?cachebust=1749286184359"
       },
       {
         "code": "1e58d232-8dc0-4f13-9658-70b0b4392adc",
@@ -2433,12 +2433,12 @@
         "slot": "Hand. Arcane",
         "subname": "Illusory Mace of the Red Loa",
         "restrictions": "trait:chosen, trait:dreamer, trait:sorcerer, trait:warden",
-        "text": "[[Chosen]], [[Dreamer]], [[Sorcerer]], [[Warden]] deck only.\nUses (3 Charges).\n[action]: <b>Fight.</b> You get +2 to this attack and you may use [willpower] or [agility] instead of [combat]. You deal +2 damage for this attack.  As an additional cost to use this ability, you must spend 1 charge or discard an asset in your play area.",
+        "text": "[[Chosen]], [[Dreamer]], [[Sorcerer]], [[Warden]] deck only.\nUses (3 charges).\n[action]: <b>Fight.</b> You get +2 to this attack and you may use [willpower] or [agility] instead of [combat]. You deal +2 damage for this attack.  As an additional cost to use this ability, you must spend 1 charge or discard an asset in your play area.",
         "traits": "Spell. Weapon.",
         "type_code": "asset",
         "xp": 4,
-        "image_url": "https://eons.arkham.build/b1e4efc3-0a89-4510-b256-be66fa1e7201-Front-Ezrulie-je-Wouj's%20B%C3%A2ton%204-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749070697296",
-        "thumbnail_url": "https://eons.arkham.build/b1e4efc3-0a89-4510-b256-be66fa1e7201-Front-thumbnail.png?cachebust=1749070697938"
+        "image_url": "https://eons.arkham.build/b1e4efc3-0a89-4510-b256-be66fa1e7201-Front-Ezrulie-je-Wouj's%20B%C3%A2ton%204-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286170810",
+        "thumbnail_url": "https://eons.arkham.build/b1e4efc3-0a89-4510-b256-be66fa1e7201-Front-thumbnail.png?cachebust=1749286171811"
       },
       {
         "code": "848dbdb2-6cdd-4e43-816b-593e24e50115",
@@ -2703,12 +2703,12 @@
         "position": 125,
         "quantity": 2,
         "restrictions": "trait:agency, trait:criminal, trait:miskatonic, trait:medic",
-        "text": "[[Agency]], [[Criminal]], [[Miskatonic]], [[Medic]] deck only.\nUses (3 Supplies).\n<b>Forced</b> - At the end of your turn, if Morphine is ready: You take all damage on Morphine. You may choose to take this damage as horror, instead.\n[reaction] When you would take any amount of damage, spend 1 supply and exhaust Morphine: Put that damage on Morphine. ",
+        "text": "[[Agency]], [[Criminal]], [[Miskatonic]], [[Medic]] deck only.\nUses (3 supplies).\n<b>Forced</b> - At the end of your turn, if Morphine is ready: You take all damage on Morphine. You may choose to take this damage as horror, instead.\n[reaction] When you would take any amount of damage, spend 1 supply and exhaust Morphine: Put that damage on Morphine. ",
         "traits": "Item. Science. Illicit.",
         "type_code": "asset",
         "xp": 1,
-        "image_url": "https://eons.arkham.build/f7be1a8a-24b9-48f0-9013-cff883049e95-Front-Morphine%20-%200%20(2)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749108720285",
-        "thumbnail_url": "https://eons.arkham.build/f7be1a8a-24b9-48f0-9013-cff883049e95-Front-thumbnail.png?cachebust=1749108720641"
+        "image_url": "https://eons.arkham.build/f7be1a8a-24b9-48f0-9013-cff883049e95-Front-Morphine%20-%200%20(2)-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749286178566",
+        "thumbnail_url": "https://eons.arkham.build/f7be1a8a-24b9-48f0-9013-cff883049e95-Front-thumbnail.png?cachebust=1749286179217"
       },
       {
         "code": "f9545c2d-a3c3-412c-8482-bb4a70278e76",
@@ -2738,7 +2738,7 @@
         "code": "81e80ecb-4225-4a38-be0f-acef6e22ea06",
         "name": "Night of the Vespers Investigator Expansion",
         "date_release": "2025-06-04",
-        "icon_url": "https://eons.arkham.build/81e80ecb-4225-4a38-be0f-acef6e22ea06-collection-icon.png?cachebust=1749057833080"
+        "icon_url": "https://eons.arkham.build/81e80ecb-4225-4a38-be0f-acef6e22ea06-collection-icon.png?cachebust=1749286386693"
       }
     ]
   }
