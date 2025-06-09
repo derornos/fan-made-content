@@ -1,19 +1,202 @@
 {
   "meta": {
-    "code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
-    "name": "CPA The Circle Undone 2025",
+    "code": "5b6a1f95-73d1-4059-8af2-b9a645efd625",
+    "name": "Campaign Play-Along",
     "description": "Join the MythosBusters Discord server for the June 2025 Campaign Play-Along of The Circle Undone!",
     "author": "CPA Organizers",
     "language": "en",
     "external_link": "https://docs.google.com/document/d/15R3Yzpf57OezGwqtemYG4BmTHY5fIEN0gCrl31ooIsc/edit",
     "banner_url": "https://assets.arkham.build/fan-made/cpa_banner.jpg",
-    "types": ["investigators", "player_cards"],
+    "types": ["player_cards", "investigators"],
     "status": "final",
-    "date_updated": "2025-06-09T14:43:53.343",
+    "date_updated": "2025-06-10T06:46:03.582Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
     "cards": [
+      {
+        "code": "70b5bb78-8b12-40e4-a567-85f6996e836f",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Henning Ludvigsen",
+        "name": "In the Thick of It",
+        "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
+        "permanent": true,
+        "position": 1,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, suffer 2 total physical and/or mental trauma. Then, choose one card name. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Curse.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/70b5bb78-8b12-40e4-a567-85f6996e836f-Front-01%20-%20In%20the%20Thick%20of%20It-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473437517",
+        "thumbnail_url": "https://eons.arkham.build/70b5bb78-8b12-40e4-a567-85f6996e836f-Front-thumbnail.png?cachebust=1749473438042",
+        "card_pool_extension": {
+          "type": "card"
+        }
+      },
+      {
+        "code": "c0cf9323-5f01-4d19-a967-e09a1b439414",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Jakub Fajtanowski",
+        "name": "Hunted",
+        "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
+        "permanent": true,
+        "position": 2,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card name. That card is added to your card pool for the duration of this campaign.\n<b>Forced - </b>When the first Mythos phase of the game begins: Reveal cards from the top of the encounter deck until you reveal an enemy. Draw that card. Shuffle the encounter deck.",
+        "traits": "Contract. Curse.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/c0cf9323-5f01-4d19-a967-e09a1b439414-Front-02%20-%20Hunted-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473439688",
+        "thumbnail_url": "https://eons.arkham.build/c0cf9323-5f01-4d19-a967-e09a1b439414-Front-thumbnail.png?cachebust=1749473439934",
+        "card_pool_extension": {
+          "type": "card"
+        }
+      },
+      {
+        "code": "798eba12-1ccb-4a52-87d8-b4fc262e5916",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Greg Bobrowski",
+        "name": "Isolated",
+        "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
+        "permanent": true,
+        "position": 3,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during deck creation and only if there is a single investigator in the campaign.\nChoose one card name. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Curse.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/798eba12-1ccb-4a52-87d8-b4fc262e5916-Front-03%20-%20Isolated-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473438453",
+        "thumbnail_url": "https://eons.arkham.build/798eba12-1ccb-4a52-87d8-b4fc262e5916-Front-thumbnail.png?cachebust=1749473438860",
+        "card_pool_extension": {
+          "type": "card"
+        }
+      },
+      {
+        "code": "a2ab773f-3420-43e9-ab8e-342927687e46",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Alexandr Elichev",
+        "name": "See Beyond",
+        "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
+        "permanent": true,
+        "position": 4,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, add a random basic weakness to your deck. Then, choose a card cycle (such as Edge of the Earth.) That cycle is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Madness.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-04%20-%20See%20Beyond-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440234",
+        "thumbnail_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-thumbnail.png?cachebust=1749473440540"
+      },
+      {
+        "code": "f0f1fd41-751e-4de3-889b-2093fd3bf0ff",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Antonio Maínez & Tomas Duchek",
+        "name": "Zealot's Sacrifice",
+        "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
+        "permanent": true,
+        "position": 5,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose either Core/Revised Core and Return to the Night of the Zealot, or the Investigator Starter Decks: remove the chosen set from your card pool for the duration of this campaign. Then, choose a card cycle (such as The Dream-Eaters or Edge of the Earth.) The chosen cycle is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Omen.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-05%20-%20Zealot's%20Focus-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440753",
+        "thumbnail_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-thumbnail.png?cachebust=1749473440989"
+      },
+      {
+        "code": "fdd09839-a4cd-4144-82eb-e8232950c31f",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Tomasz Jedruszek",
+        "name": "Legacy of Dunwich",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 1,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction] When you complete the Dunwich Legacy CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Dunwich Legacy expansion. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-01%20-%20Legacy%20of%20Dunwich-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473455041",
+        "thumbnail_url": "https://eons.arkham.build/fdd09839-a4cd-4144-82eb-e8232950c31f-Front-thumbnail.png?cachebust=1749473455450",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
+      },
+      {
+        "code": "0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Cristi Balanescu",
+        "name": "Memories of Carcosa",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 2,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction] When you complete the Path to Carcosa CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Path to Carcosa expansion. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-02%20-%20Memories%20of%20Carcosa-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473454307",
+        "thumbnail_url": "https://eons.arkham.build/0ddf93ab-39ef-4b3d-9e73-fcb300f5fa4b-Front-thumbnail.png?cachebust=1749473454552",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
+      },
+      {
+        "code": "cefcfe23-7514-42c2-a70e-6e9967796414",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Mauro Dal Bo",
+        "name": "The Colour of the Vale",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 3,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction] When you complete the Feast of Hemlock Vale CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card from the Feast of Hemlock Vale expansion. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-03%20-%20The%20Colour%20of%20the%20Vale-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473452857",
+        "thumbnail_url": "https://eons.arkham.build/cefcfe23-7514-42c2-a70e-6e9967796414-Front-thumbnail.png?cachebust=1749473453403",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
+      },
+      {
+        "code": "0cb1d7a3-56e1-44d3-9373-a5acc2045ada",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Yuri Hill",
+        "name": "Expedition Log",
+        "pack_code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "position": 4,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "[reaction] When you complete the Edge of the Earth CPA: Announce your completion in the Mythos Busters Discord server. The next time you participate in a CPA, you may accept this contract.\nPermanent. Accept this contract only during deck creation. When you accept this contract, choose one card from the Edge of the Earth expansion. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Legacy.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-04%20-%20Expedition%20Log-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473453812",
+        "thumbnail_url": "https://eons.arkham.build/0cb1d7a3-56e1-44d3-9373-a5acc2045ada-Front-thumbnail.png?cachebust=1749473454057",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
+      },
       {
         "code": "bdb534f0-7b0f-4ca5-9afd-d79295036415",
         "deck_limit": 1,
@@ -29,7 +212,8 @@
         "type_code": "asset",
         "xp": 0,
         "image_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-02%20-%20A%20Fate%20Avoided-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473030170",
-        "thumbnail_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-thumbnail.png?cachebust=1749473030581"
+        "thumbnail_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-thumbnail.png?cachebust=1749473030581",
+        "permanent": true
       },
       {
         "code": "63c1ec86-4e0f-47d9-a8a5-29861d396758",
@@ -64,7 +248,11 @@
         "type_code": "asset",
         "xp": 0,
         "image_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-04%20-%20Loathsome%20Familiar-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473030820",
-        "thumbnail_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-thumbnail.png?cachebust=1749473031079"
+        "thumbnail_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-thumbnail.png?cachebust=1749473031079",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
       },
       {
         "code": "2f7d7553-c53d-48ca-833c-818dfdebb466",
@@ -81,7 +269,8 @@
         "type_code": "asset",
         "xp": 0,
         "image_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-07%20-%20Doomed%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473029580",
-        "thumbnail_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-thumbnail.png?cachebust=1749473029874"
+        "thumbnail_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-thumbnail.png?cachebust=1749473029874",
+        "permanent": true
       },
       {
         "code": "676974a0-aada-424f-b1bf-295c20782614",
@@ -99,12 +288,15 @@
         "type_code": "asset",
         "xp": 0,
         "image_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-01%20-%20In%20Memoriam-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473031342",
-        "thumbnail_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-thumbnail.png?cachebust=1749473031608"
+        "thumbnail_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-thumbnail.png?cachebust=1749473031608",
+        "card_pool_extension": {
+          "type": "card"
+        }
       },
       {
         "back_flavor": "A former member of the Haganah, Gavriella Mizrah now works private security for wealthy homeowners. Josef Meiger - a man who takes confidentiality quite seriously - has retained Gavriella to make sure there are no problems during tonight's event. But even she is not prepared for what is to come. ",
         "back_name": "Gavriella Mizrah",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)</b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
         "code": "d355199e-71eb-4c6a-a1ef-c03e118e40e0",
         "deck_requirements": "size:30, random:subtype:basicweakness",
         "deck_options": [
@@ -156,7 +348,7 @@
       {
         "back_flavor": "Jerome is Josef Meiger's personal assistant and secretary. He is a close friend of Josef's and is also an upstanding member of the Silver Twilight Lodge. He helps keep the Meiger estate's vast finances in order and manages Josef's time, which has become increasingly precious of late. ",
         "back_name": "Jerome Davids",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
         "code": "95dbbd10-4d37-4112-89a2-a8ff253077cd",
         "deck_requirements": "size:30, random:subtype:basicweakness",
         "deck_options": [
@@ -208,7 +400,7 @@
       {
         "back_flavor": "\"Tino\" is a wealthy philanthropist and one of tonight's most esteemed guests. The recipient of a fortuitous windfall, Valentino lives a life of luxury and recreation. Despite his wealth, he remains connected to his community, and he takes great joy in giving large sums of money to good causes. ",
         "back_name": "Valentino Rivas",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
         "code": "ffc6bc8a-5f23-4c15-819a-da69db05d8e5",
         "deck_requirements": "size:30, random:subtype:basicweakness",
         "deck_options": [
@@ -260,7 +452,7 @@
       {
         "back_flavor": "Penny White is the Meiger estate's head housekeeper. She has been working in the Meiger estate for several years. Though she has only spoken with Josef a few times, his overly fastidious nature has kept her quite busy. Tonight, she is tasked with keeping the manor spotless, the food hot, and the hooch flowing. ",
         "back_name": "Penny White",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
         "code": "cf9e7628-7878-4edd-ba14-e1897c88094f",
         "deck_requirements": "size:30, random:subtype:basicweakness",
         "deck_options": [
@@ -310,14 +502,26 @@
         "back_thumbnail_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Back-thumbnail.png?cachebust=1749473026460"
       }
     ],
-    "encounter_sets": [],
     "packs": [
+      {
+        "code": "095447eb-1bcb-4203-9328-5a58436abbed",
+        "name": "CPA Basic Contracts",
+        "date_release": "2025-06-09",
+        "icon_url": "https://eons.arkham.build/095447eb-1bcb-4203-9328-5a58436abbed-collection-icon.png?cachebust=1749473441319"
+      },
+      {
+        "code": "6a74d17c-93fa-41f1-aee4-715302570858",
+        "name": "CPA Legacy Contracts",
+        "date_release": "2025-06-09",
+        "icon_url": "https://eons.arkham.build/6a74d17c-93fa-41f1-aee4-715302570858-collection-icon.png?cachebust=1749473455685"
+      },
       {
         "code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
         "name": "CPA The Circle Undone 2025",
         "date_release": "2025-06-08",
         "icon_url": "https://eons.arkham.build/5ad9d873-468b-4c07-939a-a4c1c192590d-collection-icon.png?cachebust=1749473033340"
       }
-    ]
+    ],
+    "encounter_sets": []
   }
 }

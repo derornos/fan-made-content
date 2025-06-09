@@ -13,7 +13,7 @@ type Project = {
     packs: never[];
     encounter_sets: never[];
   };
-}
+};
 
 const args = parseArgs({
   options: {
@@ -33,15 +33,9 @@ function mergeProjects(dir: string, out: string) {
   const dirPath = path.join(process.cwd(), "projects", dir);
   const outPath = path.join(process.cwd(), "projects", `${out}.json`);
 
-  assert(
-    fs.existsSync(dirPath),
-    `Directory ${dirPath} does not exist.`,
-  )
+  assert(fs.existsSync(dirPath), `Directory ${dirPath} does not exist.`);
 
-  assert(
-    fs.existsSync(outPath),
-    `Output file ${outPath} does not exist.`,
-  );
+  assert(fs.existsSync(outPath), `Output file ${outPath} does not exist.`);
 
   const outFile = JSON.parse(fs.readFileSync(outPath, "utf-8"));
 
@@ -49,10 +43,7 @@ function mergeProjects(dir: string, out: string) {
     .readdirSync(dirPath)
     .filter((file) => file.endsWith(".json"));
 
-  assert(
-    files.length > 0,
-    `No JSON files found in directory ${dirPath}.`,
-  );
+  assert(files.length > 0, `No JSON files found in directory ${dirPath}.`);
 
   const mergedProject: Project = {
     meta: {

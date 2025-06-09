@@ -2,103 +2,107 @@
   "meta": {
     "code": "095447eb-1bcb-4203-9328-5a58436abbed",
     "name": "CPA Basic Contracts",
-    "description": "Join the MythosBusters Discord server for the June 2025 Campaign Play-Along of The Circle Undone!",
+    "description": "Basic Contracts for the Campaign-Play-Along pack.",
     "author": "CPA Organizers",
     "language": "en",
     "external_link": "https://docs.google.com/document/d/15R3Yzpf57OezGwqtemYG4BmTHY5fIEN0gCrl31ooIsc/edit",
     "banner_url": "https://assets.arkham.build/fan-made/cpa_banner.jpg",
     "types": ["player_cards"],
     "status": "complete",
-    "date_updated": "2025-06-09T11:35:38.584",
+    "date_updated": "2025-06-09T14:50:41.321",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
     "cards": [
       {
         "code": "70b5bb78-8b12-40e4-a567-85f6996e836f",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "Henning Ludvigsen",
         "name": "In the Thick of It",
         "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
         "permanent": true,
         "position": 1,
-        "quantity": 2,
+        "quantity": 1,
         "subname": "Campaign Play-Along",
         "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, suffer 2 total physical and/or mental trauma. Then, choose one card name. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Curse.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/70b5bb78-8b12-40e4-a567-85f6996e836f-Front-01%20-%20In%20the%20Thick%20of%20It-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749461246984",
-        "thumbnail_url": "https://eons.arkham.build/70b5bb78-8b12-40e4-a567-85f6996e836f-Front-thumbnail.png?cachebust=1749461247227"
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/70b5bb78-8b12-40e4-a567-85f6996e836f-Front-01%20-%20In%20the%20Thick%20of%20It-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473437517",
+        "thumbnail_url": "https://eons.arkham.build/70b5bb78-8b12-40e4-a567-85f6996e836f-Front-thumbnail.png?cachebust=1749473438042"
       },
       {
         "code": "c0cf9323-5f01-4d19-a967-e09a1b439414",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "Jakub Fajtanowski",
         "name": "Hunted",
         "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
         "permanent": true,
         "position": 2,
-        "quantity": 2,
+        "quantity": 1,
         "subname": "Campaign Play-Along",
         "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose one card name. That card is added to your card pool for the duration of this campaign.\n<b>Forced - </b>When the first Mythos phase of the game begins: Reveal cards from the top of the encounter deck until you reveal an enemy. Draw that card. Shuffle the encounter deck.",
         "traits": "Contract. Curse.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/c0cf9323-5f01-4d19-a967-e09a1b439414-Front-02%20-%20Hunted-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749461248203",
-        "thumbnail_url": "https://eons.arkham.build/c0cf9323-5f01-4d19-a967-e09a1b439414-Front-thumbnail.png?cachebust=1749461248405"
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/c0cf9323-5f01-4d19-a967-e09a1b439414-Front-02%20-%20Hunted-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473439688",
+        "thumbnail_url": "https://eons.arkham.build/c0cf9323-5f01-4d19-a967-e09a1b439414-Front-thumbnail.png?cachebust=1749473439934"
       },
       {
         "code": "798eba12-1ccb-4a52-87d8-b4fc262e5916",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "Greg Bobrowski",
         "name": "Isolated",
         "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
         "permanent": true,
         "position": 3,
-        "quantity": 2,
+        "quantity": 1,
         "subname": "Campaign Play-Along",
         "text": "Permanent. Accept this contract only during deck creation and only if there is a single investigator in the campaign.\nChoose one card name. That card is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Curse.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/798eba12-1ccb-4a52-87d8-b4fc262e5916-Front-03%20-%20Isolated-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749461247662",
-        "thumbnail_url": "https://eons.arkham.build/798eba12-1ccb-4a52-87d8-b4fc262e5916-Front-thumbnail.png?cachebust=1749461247927"
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/798eba12-1ccb-4a52-87d8-b4fc262e5916-Front-03%20-%20Isolated-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473438453",
+        "thumbnail_url": "https://eons.arkham.build/798eba12-1ccb-4a52-87d8-b4fc262e5916-Front-thumbnail.png?cachebust=1749473438860"
       },
       {
         "code": "a2ab773f-3420-43e9-ab8e-342927687e46",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "Alexandr Elichev",
         "name": "See Beyond",
         "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
         "permanent": true,
         "position": 4,
-        "quantity": 2,
+        "quantity": 1,
         "subname": "Campaign Play-Along",
         "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, add a random basic weakness to your deck. Then, choose a card cycle (such as Edge of the Earth.) That cycle is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Madness.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-04%20-%20See%20Beyond-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749461248648",
-        "thumbnail_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-thumbnail.png?cachebust=1749461248859"
+        "image_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-04%20-%20See%20Beyond-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440234",
+        "thumbnail_url": "https://eons.arkham.build/a2ab773f-3420-43e9-ab8e-342927687e46-Front-thumbnail.png?cachebust=1749473440540"
       },
       {
         "code": "f0f1fd41-751e-4de3-889b-2093fd3bf0ff",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "Antonio Maínez & Tomas Duchek",
         "name": "Zealot's Sacrifice",
         "pack_code": "095447eb-1bcb-4203-9328-5a58436abbed",
         "permanent": true,
         "position": 5,
-        "quantity": 2,
+        "quantity": 1,
         "subname": "Campaign Play-Along",
         "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, choose either Core/Revised Core and Return to the Night of the Zealot, or the Investigator Starter Decks: remove the chosen set from your card pool for the duration of this campaign. Then, choose a card cycle (such as The Dream-Eaters or Edge of the Earth.) The chosen cycle is added to your card pool for the duration of this campaign.",
         "traits": "Contract. Omen.",
         "type_code": "asset",
-        "image_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-05%20-%20Zealot's%20Focus-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749461249119",
-        "thumbnail_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-thumbnail.png?cachebust=1749461249335"
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-05%20-%20Zealot's%20Focus-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473440753",
+        "thumbnail_url": "https://eons.arkham.build/f0f1fd41-751e-4de3-889b-2093fd3bf0ff-Front-thumbnail.png?cachebust=1749473440989"
       }
     ],
     "encounter_sets": [],
@@ -107,7 +111,7 @@
         "code": "095447eb-1bcb-4203-9328-5a58436abbed",
         "name": "CPA Basic Contracts",
         "date_release": "2025-06-09",
-        "icon_url": "https://eons.arkham.build/095447eb-1bcb-4203-9328-5a58436abbed-collection-icon.png?cachebust=1749461738581"
+        "icon_url": "https://eons.arkham.build/095447eb-1bcb-4203-9328-5a58436abbed-collection-icon.png?cachebust=1749473441319"
       }
     ]
   }
