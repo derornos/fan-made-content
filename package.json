@@ -3,6 +3,7 @@
   "type": "module",
   "scripts": {
     "fmt": "biome format --write .",
+    "merge": "tsx scripts/merge.ts",
     "post_process": "tsx scripts/post_process.ts && npm run fmt",
     "upload": "tsx --env-file=.env scripts/upload.ts"
   },
