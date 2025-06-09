@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+    "name": "CPA The Circle Undone 2025",
+    "description": "Join the MythosBusters Discord server for the June 2025 Campaign Play-Along of The Circle Undone!",
+    "author": "CPA Organizers",
+    "language": "en",
+    "external_link": "https://docs.google.com/document/d/15R3Yzpf57OezGwqtemYG4BmTHY5fIEN0gCrl31ooIsc/edit",
+    "banner_url": "https://assets.arkham.build/fan-made/cpa_banner.jpg",
+    "types": ["investigators", "player_cards"],
+    "status": "final",
+    "date_updated": "2025-06-09T11:23:05.224",
+    "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
+  },
+  "data": {
+    "cards": [
+      {
+        "back_flavor": "Penny White is the Meiger estate's head housekeeper. She has been working in the Meiger estate for several years. Though she has only spoken with Josef a few times, his overly fastidious nature has kept her quite busy. Tonight, she is tasked with keeping the manor spotless, the food hot, and the hooch flowing. ",
+        "back_name": "Penny White",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "code": "cf9e7628-7878-4edd-ba14-e1897c88094f",
+        "deck_requirements": "size:30, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["mystic"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["survivor"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "neutral",
+        "health": 7,
+        "is_unique": true,
+        "name": "Penny White",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 1,
+        "quantity": 1,
+        "sanity": 5,
+        "skill_agility": 2,
+        "skill_combat": 3,
+        "skill_intellect": 1,
+        "skill_willpower": 4,
+        "subname": "Josef's Housekeeper",
+        "text": "[reaction] After you succeed at a skill test during a revelation effect: Discover 1 clue at your location. (Limit once per round.)\n[elder_sign] effect: +1. If this is a skill test during a revelation effect, you may take an additional action during your next turn.",
+        "traits": "Assistant.",
+        "type_code": "investigator",
+        "image_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Front-11%20-%20Penny%20White-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418346635",
+        "thumbnail_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Front-thumbnail.png?cachebust=1749418346943",
+        "back_image_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Back-11%20-%20Penny%20White-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749418347191",
+        "back_thumbnail_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Back-thumbnail.png?cachebust=1749418347425"
+      },
+      {
+        "back_flavor": "\"Tino\" is a wealthy philanthropist and one of tonight's most esteemed guests. The recipient of a fortuitous windfall, Valentino lives a life of luxury and recreation. Despite his wealth, he remains connected to his community, and he takes great joy in giving large sums of money to good causes. ",
+        "back_name": "Valentino Rivas",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "code": "ffc6bc8a-5f23-4c15-819a-da69db05d8e5",
+        "deck_requirements": "size:30, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["rogue"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["survivor"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "neutral",
+        "health": 5,
+        "is_unique": true,
+        "name": "Valentino Rivas",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 1,
+        "quantity": 1,
+        "sanity": 7,
+        "skill_agility": 4,
+        "skill_combat": 2,
+        "skill_intellect": 3,
+        "skill_willpower": 1,
+        "subname": "Wealthy Philanthropist",
+        "text": "[free] During a skill test you are performing, spend 2 resources: Reduce the difficulty of this test by 1. (Limit once per round.)\n[elder_sign] effect: +1. Gain 2 resources.",
+        "traits": "Silver Twilight. Socialite.",
+        "type_code": "investigator",
+        "image_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Front-10%20-%20Valentino%20Rivas-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418345275",
+        "thumbnail_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Front-thumbnail.png?cachebust=1749418345574",
+        "back_image_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Back-10%20-%20Valentino%20Rivas-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749418345801",
+        "back_thumbnail_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Back-thumbnail.png?cachebust=1749418346034"
+      },
+      {
+        "code": "bdb534f0-7b0f-4ca5-9afd-d79295036415",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Lenka Šimečková",
+        "name": "A Fate Avoided",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 2,
+        "quantity": 2,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only during campaign creation. Do not play <b>Scenario 0: Disappearance at the Twilight Estate</b>. \nIn the \"Missing Persons\" section of your Campaign Log, cross off all profiles. In your Campaign Log, record <i>you are being hunted.</i>\nWhen choosing investigators for this campaign, you must select from available Prologue Investigators (if any). You must use the Campaign Play-Along parallel back for each of these investigators.",
+        "traits": "Contract. Ultimatum. Refraction. Circle Undone.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-02%20-%20A%20Fate%20Avoided-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418347653",
+        "thumbnail_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-thumbnail.png?cachebust=1749418348028"
+      },
+      {
+        "code": "63c1ec86-4e0f-47d9-a8a5-29861d396758",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Olga Beliaeva",
+        "name": "Weal and Woe",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "permanent": true,
+        "position": 3,
+        "quantity": 2,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only during deck creation.\nWhen you accept this contract, add Damned and Observed to your deck (these cards do not cost experience).",
+        "traits": "Contract. Augury. Circle Undone.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/63c1ec86-4e0f-47d9-a8a5-29861d396758-Front-03%20-%20Weal%20and%20Woe-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418350280",
+        "thumbnail_url": "https://eons.arkham.build/63c1ec86-4e0f-47d9-a8a5-29861d396758-Front-thumbnail.png?cachebust=1749418350539"
+      },
+      {
+        "code": "581e4bf9-2736-4086-8364-93399201a510",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Pawn Attack",
+        "name": "Loathsome Familiar",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 4,
+        "quantity": 2,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract when assembling investigator decks. \nWhen you accept this contract, choose [per_investigator] cards. Those cards are added to the card pool for the duration of this campaign.\n<b>Forced</b> - When gathering cards during setup, gather Brown Jenkin and all three copies of Meddlesome Familiar from <i>The Secret Name</i> encounter set.",
+        "traits": "Ultimatum. Contract. Circle Undone.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-04%20-%20Loathsome%20Familiar-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418342939",
+        "thumbnail_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-thumbnail.png?cachebust=1749418343201"
+      },
+      {
+        "code": "2f7d7553-c53d-48ca-833c-818dfdebb466",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Lenka Šimečková",
+        "name": "Doomed Fate",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 7,
+        "quantity": 2,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only if you have performed an 8-card Campaign Reading.\nReverse each upright card in the Campaign Reading. Then, choose a card cycle (such as Edge of the Earth). That cycle is added to the card pool for the duration of this campaign.",
+        "traits": "Ultimatum. Contract. Circle Undone.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-07%20-%20Doomed%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418350752",
+        "thumbnail_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-thumbnail.png?cachebust=1749418350982"
+      },
+      {
+        "code": "676974a0-aada-424f-b1bf-295c20782614",
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Mauro Dal Bo",
+        "name": "In Memoriam",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "permanent": true,
+        "position": 8,
+        "quantity": 2,
+        "subname": "Campaign Play-Along",
+        "text": "Permanent. Accept this contract only after completing <b>Scenario 0: Disappearance at the Twilight Estate</b>, and only if your investigator did not <i>disappear into the mist</i>.\nChoose one card name. That card is added to your card pool for the duration of this campaign.",
+        "traits": "Contract. Boon. Circle Undone.",
+        "type_code": "asset",
+        "image_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-01%20-%20In%20Memoriam-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418348329",
+        "thumbnail_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-thumbnail.png?cachebust=1749418348547"
+      },
+      {
+        "back_flavor": "A former member of the Haganah, Gavriella Mizrah now works private security for wealthy homeowners. Josef Meiger - a man who takes confidentiality quite seriously - has retained Gavriella to make sure there are no problems during tonight's event. But even she is not prepared for what is to come. ",
+        "back_name": "Gavriella Mizrah",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)</b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "code": "d355199e-71eb-4c6a-a1ef-c03e118e40e0",
+        "deck_requirements": "size:30, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["guardian"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["survivor"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "neutral",
+        "health": 8,
+        "is_unique": true,
+        "name": "Gavriella Mizrah",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 8,
+        "quantity": 1,
+        "sanity": 4,
+        "skill_agility": 1,
+        "skill_combat": 4,
+        "skill_intellect": 2,
+        "skill_willpower": 3,
+        "subname": "Private Security",
+        "text": "[reaction] After an enemy attacks you, even if that attack was canceled: Discover 1 clue at your location. (Limit once per round.)\n[elder_sign] effect: +1. Heal 1 damage and 1 horror.",
+        "traits": "Veteran.",
+        "type_code": "investigator",
+        "image_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Front-08%20-%20Gavriella%20Mizrah-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418344018",
+        "thumbnail_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Front-thumbnail.png?cachebust=1749418344267",
+        "back_image_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Back-08%20-%20Gavriella%20Mizrah-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749418344515",
+        "back_thumbnail_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Back-thumbnail.png?cachebust=1749418344726"
+      },
+      {
+        "back_flavor": "Jerome is Josef Meiger's personal assistant and secretary. He is a close friend of Josef's and is also an upstanding member of the Silver Twilight Lodge. He helps keep the Meiger estate's vast finances in order and manages Josef's time, which has become increasingly precious of late. ",
+        "back_name": "Jerome Davids",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "code": "95dbbd10-4d37-4112-89a2-a8ff253077cd",
+        "deck_requirements": "size:30, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["seeker"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["survivor"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "neutral",
+        "health": 4,
+        "is_unique": true,
+        "name": "Jerome Davids",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 9,
+        "quantity": 1,
+        "sanity": 8,
+        "skill_agility": 3,
+        "skill_combat": 1,
+        "skill_intellect": 4,
+        "skill_willpower": 2,
+        "subname": "Josef's Secretary",
+        "text": "[reaction] When an investigator at your location draws a treachery from the encounter deck, discard cards from your hand with a total of at least 2 [intellect] icons: Cancel that card's revelation effect. (Limit once per round.)\n[elder_sign] effect: +1. Discover 1 clue at your location.",
+        "traits": "Assistant. Silver Twilight.",
+        "type_code": "investigator",
+        "image_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Front-09%20-%20Jerome%20Davids-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749418349102",
+        "thumbnail_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Front-thumbnail.png?cachebust=1749418349325",
+        "back_image_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Back-09%20-%20Jerome%20Davids-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749418349531",
+        "back_thumbnail_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Back-thumbnail.png?cachebust=1749418349749"
+      }
+    ],
+    "encounter_sets": [],
+    "packs": [
+      {
+        "code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "name": "CPA The Circle Undone 2025",
+        "date_release": "2025-06-08",
+        "icon_url": "https://eons.arkham.build/5ad9d873-468b-4c07-939a-a4c1c192590d-collection-icon.png?cachebust=1749411911765"
+      }
+    ]
+  }
+}
