@@ -202,8 +202,8 @@ function makeCdnUrl(filePath: string) {
 }
 
 function cleanPath(path: string) {
-  if (path.includes("?cachebust")) {
-    return path.split("?cachebust")[0];
+  if (path.includes("?")) {
+    return path.split("?")[0];
   }
 
   return path;

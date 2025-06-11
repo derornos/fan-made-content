@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+    "name": "Forget Me Not - Investigator Expansion",
+    "description": "Horror is brewing in Buenos Aires... And five new investigators are trapped in the middle of it.",
+    "author": "TomásAmi",
+    "language": "en",
+    "external_link": "",
+    "banner_url": "https://media.discordapp.net/attachments/1150451362581184563/1382215244352454737/Promo.png?ex=684a57c2&is=68490642&hm=9dce746e1dcadfd3bfd22cee5697edfd116e2dcf272a2c8e85703ca49bc15d7a&=&format=webp&quality=lossless&width=1855&height=825",
+    "types": ["investigators"],
+    "status": "final",
+    "date_updated": "2025-06-11T02:51:25.157",
+    "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
+  },
+  "data": {
+    "cards": [
+      {
+        "back_flavor": "Born to a wealthy family, Facundo had the almost perfect life in Buenos Aires. Plenty of friends, captain of the football team, good grades and prospects for almost any job. It would've been perfect if Sofia could see in him what he saw in her. Since they were children they were best friends, and it was that built up trust that made him her personal bodyguard later on. Now he had to see her every day and every night, escort her everywhere she went, and see those pathetic \"boyfriends\" she changed every now and then. But there was one in particular he didn't like one bit. That damned man with the carmesi coat.",
+        "back_name": "Facundo Muñiz",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Guardian cards ([guardian]) level 0-4, <b><i>Talent</i></b> assets level 0-3, Neutral cards level 0-5\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Chivalry, Unrequited Love, 1 random basic weakness.\n<b>Additional Setup</b>: If one of the investigators this game is Sofía Ortega, you begin each game with Chivalry as an additional card in your opening hand.",
+        "code": "5bd2c669-7d2d-4aea-a804-aa630f02e898",
+        "deck_requirements": "size:30, card:07ae0a98-407d-4b14-be69-3f2a468c5a8a, card:7f64fbc4-2fce-4531-8453-a87489464ffc, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["guardian"],
+            "level": {
+              "min": 0,
+              "max": 4
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "level": {
+              "min": 0,
+              "max": 3
+            },
+            "trait": ["Talent"]
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "guardian",
+        "flavor": "\"Ms. Ortega, I think it's best if we get going.\"",
+        "health": 9,
+        "illustrator": "Fabian Perez",
+        "is_unique": true,
+        "name": "Facundo Muñiz",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 1,
+        "quantity": 1,
+        "sanity": 5,
+        "skill_agility": 3,
+        "skill_combat": 4,
+        "skill_intellect": 1,
+        "skill_willpower": 4,
+        "subname": "The Bodyguard",
+        "text": "[reaction] After you defeat an enemy: Another investigator at your location immediately takes one of the following basic actions (move, evade, or investigate). (Limit once per phase).\n[elder_sign] effect: +2. You may ready a <b><i>Talent</i></b> asset you control.",
+        "traits": "Socialite. Warden.",
+        "type_code": "investigator",
+        "image_url": "https://i.ibb.co/spGpsvps/792fa24da8fc.png",
+        "thumbnail_url": "https://i.ibb.co/8Tmj9hc/57e016dc551f.png",
+        "back_image_url": "https://i.ibb.co/HfWc4DLR/d74a96319b10.png",
+        "back_thumbnail_url": "https://i.ibb.co/nNpkT087/4965e1f790e8.png"
+      },
+      {
+        "code": "07ae0a98-407d-4b14-be69-3f2a468c5a8a",
+        "cost": 1,
+        "deck_limit": 1,
+        "faction_code": "guardian",
+        "flavor": "\"With as much time as me in the job, you learn to hold your punches.\"",
+        "illustrator": "Fabian Perez",
+        "name": "Chivalry",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 2,
+        "quantity": 1,
+        "restrictions": "investigator:5bd2c669-7d2d-4aea-a804-aa630f02e898",
+        "skill_agility": 1,
+        "skill_combat": 1,
+        "skill_wild": 1,
+        "text": "Facundo Muñiz deck only.\n[reaction] When you would fail an attack against an enemy engaged with another investigator, exhaust Chivalry: That attack deals no damage. Draw 1 card.",
+        "traits": "Talent.",
+        "type_code": "asset",
+        "image_url": "https://i.ibb.co/N2PQx8hY/c402d22933c7.png",
+        "thumbnail_url": "https://i.ibb.co/bM0smm5T/3124d924200d.png"
+      },
+      {
+        "code": "7f64fbc4-2fce-4531-8453-a87489464ffc",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Fabian Perez",
+        "name": "Unrequited Love",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 3,
+        "quantity": 1,
+        "restrictions": "investigator:5bd2c669-7d2d-4aea-a804-aa630f02e898",
+        "subtype_code": "weakness",
+        "text": "<b>Revelation</b> - Put Unrequited Love into play in your threat area.\n<b>Forced</b> - When another investigator moves from your location, take 1 damage and 1 horror.\n[action][action]: Discard Unrequited Love. Facundo Muñiz cannot activate this ability.",
+        "traits": "Flaw.",
+        "type_code": "treachery",
+        "image_url": "https://i.ibb.co/7JKsjDjS/48dcd9802c64.png",
+        "thumbnail_url": "https://i.ibb.co/zT70qPQ5/604ebf27749c.png"
+      },
+      {
+        "back_flavor": "Sofía always had everything. Rich parents that catered to her every need and fulfilled her every wish. Money for a good private education, and more money to start her own business tracking, buying, and re-selling \"enchanted\" antiques. On a second note, she didn't have much besides money. Money and her good friend Facundo, who was by her side her whole life. He was like a brother to her, always caring and protecting her. Perhaps too much. It was that reason she couldn't tell him of the unspeakable things the man in the red coat promised to do if she didn't find this 'key,' whatever it was.",
+        "back_name": "Sofía Ortega",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, <b><i>Fortune</i></b> and/or <b><i>Favor</i></b> cards level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Escort Me, Attention Seeker, 1 random basic weakness.\n<b>Additional Setup</b>: If one of the investigators this game is Facundo Muñiz, you begin each game with Escort Me as an additional card in your opening hand.",
+        "code": "c953d646-fdfc-4139-bad1-10b42c93ae6d",
+        "deck_requirements": "size:30, card:15c61592-62f8-47ae-ad04-e0479d53dfcf, card:9d19d983-849a-4132-b0a2-33ccb703020a, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["seeker"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "trait": ["Fortune", "Favor"]
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "seeker",
+        "flavor": "\"Oh, relax! Here, have another drink.\"",
+        "health": 5,
+        "illustrator": "Fabian Perez",
+        "is_unique": true,
+        "name": "Sofía Ortega",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 4,
+        "quantity": 1,
+        "sanity": 9,
+        "skill_agility": 4,
+        "skill_combat": 1,
+        "skill_intellect": 4,
+        "skill_willpower": 3,
+        "subname": "The Businesswoman",
+        "text": "[reaction] After you discover the last clue at your location: Another investigator at your location draws 1 card and gain 2 resources. (Limit once per game at each location.)\n[elder_sign] effect: +2. Another investigator at your location may draw 1 card or gain 1 resource.",
+        "traits": "Entrepreneur. Socialite.",
+        "type_code": "investigator",
+        "image_url": "https://i.ibb.co/SXTwV5Yd/63e0f7af5952.png",
+        "thumbnail_url": "https://i.ibb.co/ks9ktHPH/31d220d2fefa.png",
+        "back_image_url": "https://i.ibb.co/SDDFvV4X/3efac1465349.png",
+        "back_thumbnail_url": "https://i.ibb.co/0jw5dK8z/efa30329efa4.png"
+      },
+      {
+        "code": "9d19d983-849a-4132-b0a2-33ccb703020a",
+        "cost": 1,
+        "deck_limit": 1,
+        "faction_code": "seeker",
+        "flavor": "\"Good thing is I don't have to be alone no longer.\"",
+        "illustrator": "Fabian Perez",
+        "name": "Escort Me",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 5,
+        "quantity": 1,
+        "restrictions": "investigator:c953d646-fdfc-4139-bad1-10b42c93ae6d",
+        "skill_agility": 1,
+        "skill_intellect": 1,
+        "skill_wild": 1,
+        "text": "Sofía Ortega deck only.\n[reaction] As you move to a connecting location, give 1 of your resources to another investigator at your location: That investigator moves to that location as well.",
+        "traits": "Job.",
+        "type_code": "asset",
+        "image_url": "https://i.ibb.co/jvFGHcKc/7e10c863e6f5.png",
+        "thumbnail_url": "https://i.ibb.co/bgnc48nj/1b71c64d944b.png"
+      },
+      {
+        "code": "15c61592-62f8-47ae-ad04-e0479d53dfcf",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Fabian Perez",
+        "name": "Attention Seeker",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 6,
+        "quantity": 1,
+        "restrictions": "investigator:c953d646-fdfc-4139-bad1-10b42c93ae6d",
+        "subtype_code": "weakness",
+        "text": "<b>Revelation</b> - Put Attention Seeker into play in your threat area.\n<b>Forced</b> - After you succeed at a skill test to which no other investigator at your location committed a card, take 1 damage and 1 horror.\n[action][action]: Discard Attention Seeker. Sofía Ortega cannot activate this ability.\n",
+        "traits": "Flaw.",
+        "type_code": "treachery",
+        "image_url": "https://i.ibb.co/hJZTgpGq/3b9666361f0f.png",
+        "thumbnail_url": "https://i.ibb.co/m5NnrCxQ/0b1b8ffaffeb.png"
+      },
+      {
+        "back_flavor": "Born to the infamous Amato Family, Francisco grew up in a country club on the outskirts of Rosario, Santa Fe. Heir to the Family at the mere age of 22, after Don Andrea died in a raid to their home, he started making some changes around, trying to clean his family's name. But there's only so many changes you can do to a business like his before people start giving you the looks. One day, an offer he couldn't refuse showed to his door, and one that looked suspiciously clean at that. With the reward, he could finally step out of the business. Retrieve some kind of \"key\"? That was all?",
+        "back_name": "Don Francisco Amato",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Secondary Class Choice</b>: At deck creation, choose Guardian ([guardian]), Seeker ([seeker]), or Survivor ([survivor]).\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-5, cards that take up a hand, accessory, and/or body slot from the chosen class level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: The Family, Officer De Rosa, 1 random basic weakness.\n<b>Deckbuilding Restrictions</b>: No non-<b><i>Criminal</i></b> allies.",
+        "code": "1b2a9079-cfa9-45ed-ba03-8d7b712abf12",
+        "deck_requirements": "size:30, card:97ee4b4c-23c8-497e-9091-b0abdbbdd326, card:c8e347f6-c6a3-4ce2-8687-6a7e5bd98e16, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "level": {
+              "min": 0,
+              "max": 5
+            },
+            "trait": ["Criminal"]
+          },
+          {
+            "not": true,
+            "trait": ["Ally"]
+          },
+          {
+            "faction": ["rogue"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "slot": ["Hand", "Accessory", "Body"],
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "name": "Secondary Class",
+            "faction_select": ["guardian", "seeker", "survivor"],
+            "type": ["asset"]
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "rogue",
+        "flavor": "Pancho for the family, Don Amato for the rest.",
+        "health": 7,
+        "illustrator": "Julio Moises Madrid",
+        "is_unique": true,
+        "name": "Don Francisco Amato",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 7,
+        "quantity": 1,
+        "sanity": 7,
+        "skill_agility": 3,
+        "skill_combat": 4,
+        "skill_intellect": 4,
+        "skill_willpower": 1,
+        "subname": "The Capo",
+        "text": "You have 1 additional hand, accessory, or body slot for each <b><i>Criminal</i></b> asset you control.\n[elder_sign] effect: +2. You may remove 1 debt from an asset you control.",
+        "traits": "Criminal.",
+        "type_code": "investigator",
+        "image_url": "https://i.ibb.co/N2pqsrjF/2d800bcb1588.png",
+        "thumbnail_url": "https://i.ibb.co/TDd5VSWC/a0240d5f3da3.png",
+        "back_image_url": "https://i.ibb.co/Rpt0qdCG/2d7ee505a502.png",
+        "back_thumbnail_url": "https://i.ibb.co/Q3xHP1GC/0c399afb71d4.png"
+      },
+      {
+        "code": "97ee4b4c-23c8-497e-9091-b0abdbbdd326",
+        "deck_limit": 1,
+        "faction_code": "rogue",
+        "illustrator": "The Godfather",
+        "name": "The Family",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "permanent": true,
+        "position": 8,
+        "quantity": 1,
+        "restrictions": "investigator:1b2a9079-cfa9-45ed-ba03-8d7b712abf12",
+        "text": "Permanent. Don Francisco Amato deck only.\n[free] Exhaust The Family and spend 1 resource: Choose a <b><i>Criminal</i></b> asset from your hand and put it into play. Place 1 resource from the token pool on it, as a debt.\n<b>Forced</b> - When a <b><i>Criminal</i></b> with a debt on it leaves play: Pay its cost. Take 1 damage or horror for each resource you cannot pay.",
+        "traits": "Job.",
+        "type_code": "asset",
+        "image_url": "https://i.ibb.co/twPpVcng/b963325908b4.png",
+        "thumbnail_url": "https://i.ibb.co/4R9hcBJ0/9ad431469179.png"
+      },
+      {
+        "code": "c8e347f6-c6a3-4ce2-8687-6a7e5bd98e16",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Fabian Perez",
+        "is_unique": true,
+        "name": "Officer De Rosa",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 9,
+        "quantity": 1,
+        "restrictions": "investigator:1b2a9079-cfa9-45ed-ba03-8d7b712abf12",
+        "slot": "Ally",
+        "subname": "The Corrupt Cop",
+        "text": "<b>Revelation</b> - Put Officer De Rosa into play with 3 resources on him <i>(from the token pool)</i>, as debts. He cannot leave play while he has debt on him.\n<b>Forced</b> - At the end of your turn: You must either pay 1 resource or take 1 direct damage and horror.\n[free] Exhaust Officer De Rosa and spend 1 resource: Remove 1 debt from him. If he has no more debt on him, discard him.",
+        "traits": "Criminal. Police.",
+        "type_code": "asset",
+        "image_url": "https://i.ibb.co/vCL3QshQ/9260094c375f.png",
+        "thumbnail_url": "https://i.ibb.co/1tH4rBnr/54121f8f1f3d.png"
+      },
+      {
+        "back_flavor": "As a child, Lucas suffered a horrible mishap. During a trekking trip with his family in El Chaltén, Santa Cruz, he wandered off and got lost. He spent two days in the wilderness, battling hunger and the biting cold before being found—practically frozen yet inexplicably alive. How he survived remains a mystery to this day. Many mistakes later, he now finds himself in Buenos Aires, surviving rather than living, drifting wherever the Murga takes him. His days blur into a haze of colorful costumes and hypnotic rhythms. Whenever he stops dancing, he swears he hears voices whispering from the shadows, claiming he owes them—a debt of survival, a price yet unpaid.",
+        "back_name": "Lucas Roca",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, cards with \"evade\" level 0-5, Neutral cards level 0-5, up to 5 other Rogue and/or Survivor cards ([rogue] and/or [survivor]) level 0.\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Dance with the Dead, Tough Crowd, 1 random basic weakness.",
+        "code": "5b5bc764-dbcd-4138-b4fb-0fac5e95b677",
+        "deck_requirements": "size:30, card:328a5f28-25e3-4ab3-88be-1c8e0afe4da2, card:bbe5bed7-a2ce-450e-9174-b50dd301272f, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["mystic"],
+            "level": {
+              "min": 0,
+              "max": 3
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "level": {
+              "min": 0,
+              "max": 5
+            },
+            "text": ["[Ee]vade"]
+          },
+          {
+            "faction": ["rogue", "survivor"],
+            "level": {
+              "min": 0,
+              "max": 0
+            },
+            "limit": 5
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "mystic",
+        "health": 8,
+        "illustrator": "Pablo Gonzáles",
+        "is_unique": true,
+        "name": "Lucas Roca",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 10,
+        "quantity": 1,
+        "sanity": 6,
+        "skill_agility": 4,
+        "skill_combat": 3,
+        "skill_intellect": 1,
+        "skill_willpower": 4,
+        "subname": "The Murguero",
+        "text": "[reaction] When you would evade a  non-swarm enemy via an ability printed on a card (choose one):\n- Draw 1 card.\n- Gain 2 resources.\n- You succeed by 2 more.\n[elder_sign] effect: +0. You may ready an exhausted enemy at your location, if you do, you automatically succeed, and may return the top card of your discard pile to your hand.",
+        "traits": "Drifter. Performer.",
+        "type_code": "investigator",
+        "image_url": "https://i.ibb.co/Lz2X2Z8y/cefc5ee842ff.png",
+        "thumbnail_url": "https://i.ibb.co/0Rh4GnCG/31df13f2eec0.png",
+        "back_image_url": "https://i.ibb.co/20b1D9GL/9d40c34998a6.png",
+        "back_thumbnail_url": "https://i.ibb.co/4zRSfDB/14890e56e145.png"
+      },
+      {
+        "code": "bbe5bed7-a2ce-450e-9174-b50dd301272f",
+        "cost": 3,
+        "deck_limit": 1,
+        "faction_code": "mystic",
+        "flavor": "Wake up, beg, scavenge, dance. Dancing is what keeps him sane. Wake up, beg, scavenge, dance. Dancing is what keeps him sane...",
+        "illustrator": "Al Bruno",
+        "name": "Dance with the Dead",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 11,
+        "quantity": 1,
+        "restrictions": "investigator:5b5bc764-dbcd-4138-b4fb-0fac5e95b677",
+        "skill_agility": 1,
+        "skill_wild": 1,
+        "skill_willpower": 1,
+        "text": "Lucas Roca deck only.\n[reaction] When you would choose one option for Lucas Roca's [reaction] ability, exhaust Dance with the Dead: Choose two instead.",
+        "traits": "Cursed. Talent.",
+        "type_code": "asset",
+        "image_url": "https://i.ibb.co/BHmfH9CX/57ce4ae5caf8.png",
+        "thumbnail_url": "https://i.ibb.co/nsHhdQF0/bd1fca65b0ce.png"
+      },
+      {
+        "code": "328a5f28-25e3-4ab3-88be-1c8e0afe4da2",
+        "deck_limit": 1,
+        "enemy_damage": 1,
+        "enemy_evade": 5,
+        "enemy_fight": 3,
+        "enemy_horror": 1,
+        "faction_code": "neutral",
+        "health": 3,
+        "health_per_investigator": false,
+        "illustrator": "AndrejZT",
+        "name": "Tough Crowd",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 12,
+        "quantity": 1,
+        "restrictions": "investigator:5b5bc764-dbcd-4138-b4fb-0fac5e95b677",
+        "subtype_code": "weakness",
+        "text": "Alert. Aloof. Hunter.\n<b>Forced</b> - After Tough Crowd enters play: Place 1 doom on it.\n<b>Forced</b> - After an investigator evades an enemy at Tough Crowd location, if it's ready: Tough Crowd attacks that investigator.",
+        "traits": "Geist.",
+        "type_code": "enemy",
+        "image_url": "https://i.ibb.co/cXxSyhz1/454b3e5c1e1d.png",
+        "thumbnail_url": "https://i.ibb.co/DgrJgmMj/94697f697942.png"
+      },
+      {
+        "back_flavor": "Born and raised in La Pampa, Martín learnt to work from a very early age. With the ever growing and demanding city of Buenos Aires, people from the countryside started heading there for the new opportunities, leaving people like Martín behind with an also ever increasing amount of work. For years he worked until late in the night, until one day, when he ran out of oil in the lanterns and noticed another light in the dark, stalking and silent. The light came back every night, now even visible in the light of the lanterns. Martín headed to Buenos Aires in seek of assistance with these strange encounters.",
+        "back_name": "Martín Ferraro",
+        "back_text": "<b>Deck Size</b>: 35.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-5, cards with \"basic action\" level 0-5, <b><i>Tool</i></b> cards level 0, Neutral cards level 0-5\n<b>Deckbuilding Requirements</hdr> (do not count toward deck size)<hdr></b>: Galán, Hard Work, La Luz Mala, 1 random basic weakness.",
+        "code": "33a6f8b4-ccc5-44ff-8916-cc94aa7743e5",
+        "deck_requirements": "size:35, card:1ab96086-6b2c-437c-8b59-8cf49e1311da, card:97afc0db-0bc7-478b-a265-0971eed4586d, card:f69a8cda-e9a0-4780-afee-2c1f77e7d300, random:subtype:basicweakness",
+        "deck_options": [
+          {
+            "faction": ["survivor"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "faction": ["neutral"],
+            "level": {
+              "min": 0,
+              "max": 5
+            }
+          },
+          {
+            "level": {
+              "min": 0,
+              "max": 5
+            },
+            "text": ["[Bb]asic (fight |evade |investigate |move )?action"]
+          },
+          {
+            "level": {
+              "min": 0,
+              "max": 0
+            },
+            "trait": ["Tool"]
+          }
+        ],
+        "deck_limit": 1,
+        "double_sided": true,
+        "faction_code": "survivor",
+        "health": 7,
+        "illustrator": "Argentina Polo",
+        "is_unique": true,
+        "name": "Martín Ferraro",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 13,
+        "quantity": 1,
+        "sanity": 7,
+        "skill_agility": 3,
+        "skill_combat": 3,
+        "skill_intellect": 3,
+        "skill_willpower": 3,
+        "subname": "The Gaucho",
+        "text": "Your maximum hand size is 5.\n[action] For each card below your maximum hand size, one at a time, choose a different one: (Limit once per round.)\n- Take an action.\n- You get +2 skill value for your next skill test this round.\n- Move to a connecting location.\n- Draw 1 card.\n- This action gets <b>Parley</b>.\n[elder_sign] effect: +1. If the test succeeds, you may draw or discard a card.",
+        "traits": "Drifter.",
+        "type_code": "investigator",
+        "image_url": "https://i.ibb.co/7NJrnC7H/3b0e90c82cb1.png",
+        "thumbnail_url": "https://i.ibb.co/9mpkQ58B/4f6cb25052bc.png",
+        "back_image_url": "https://i.ibb.co/hRct2wbm/75163f7fe4a4.png",
+        "back_thumbnail_url": "https://i.ibb.co/dsGmdFZm/99c1bf9c7c4b.png"
+      },
+      {
+        "code": "97afc0db-0bc7-478b-a265-0971eed4586d",
+        "cost": 3,
+        "deck_limit": 1,
+        "faction_code": "survivor",
+        "illustrator": "Shannon Lawlor",
+        "is_unique": true,
+        "name": "Galán",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 14,
+        "quantity": 1,
+        "restrictions": "investigator:33a6f8b4-ccc5-44ff-8916-cc94aa7743e5",
+        "skill_agility": 1,
+        "skill_wild": 2,
+        "slot": "Ally",
+        "subname": "The Dark Horse",
+        "text": "Martin Ferraro deck only.\nWhile you have no cards in your hand, you get     +1 [willpower], +1 [intellect], +1 [combat], and +1 [agility].\n[action] Discard a non-weakness card from your hand: Gain 2 resources.",
+        "traits": "Ally. Creature.",
+        "type_code": "asset",
+        "image_url": "https://i.ibb.co/s9b0cDC1/61946bbb7f69.png",
+        "thumbnail_url": "https://i.ibb.co/Rk4f5pgn/32ef6751baf6.png"
+      },
+      {
+        "code": "f69a8cda-e9a0-4780-afee-2c1f77e7d300",
+        "cost": 1,
+        "deck_limit": 1,
+        "faction_code": "survivor",
+        "flavor": "Not only is Martin a hard worker, he's damn fast too.",
+        "illustrator": "Mikhail Konstantinovich Klodt",
+        "name": "Hard Work",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 15,
+        "quantity": 1,
+        "restrictions": "investigator:33a6f8b4-ccc5-44ff-8916-cc94aa7743e5",
+        "skill_agility": 1,
+        "skill_combat": 1,
+        "skill_wild": 1,
+        "text": "Martin Ferraro deck only.\nFast.\nPlay Hard Work as an exact copy of an event in your discard pile. Remove the chosen event from the game.",
+        "traits": "Spirit.",
+        "type_code": "event",
+        "image_url": "https://i.ibb.co/vxRwfWVh/1a8862e5f033.png",
+        "thumbnail_url": "https://i.ibb.co/M5R81qz5/3f7730d709aa.png"
+      },
+      {
+        "code": "1ab96086-6b2c-437c-8b59-8cf49e1311da",
+        "deck_limit": 1,
+        "enemy_damage": 0,
+        "enemy_evade": 1,
+        "enemy_fight": 1,
+        "enemy_horror": 3,
+        "faction_code": "neutral",
+        "health": 1,
+        "health_per_investigator": false,
+        "illustrator": "Emeral-Depths",
+        "name": "La Luz Mala",
+        "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "position": 16,
+        "quantity": 1,
+        "restrictions": "investigator:33a6f8b4-ccc5-44ff-8916-cc94aa7743e5",
+        "subtype_code": "weakness",
+        "text": "Peril. Hidden. Hunter.\n<b>Revelation</b> - Secretly add this enemy to your hand.\n[reaction] When you reach or exceed your maximum hand size, spawn La Luz Mala engaged with you.\n<b>Forced</b> - While La Luz Mala is in your hand, whenever any amount of cards would leave your hand, it attacks you.",
+        "traits": "Extradimensional. Monster.",
+        "type_code": "enemy",
+        "image_url": "https://i.ibb.co/tTxpqCBN/63d003193840.png",
+        "thumbnail_url": "https://i.ibb.co/gZNtm0BK/048d263099ad.png"
+      }
+    ],
+    "encounter_sets": [],
+    "packs": [
+      {
+        "code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
+        "name": "Forget Me Not - Investigators",
+        "date_release": "2025-06-11",
+        "icon_url": "https://i.ibb.co/3mBWm3gs/4d15e3ec315e.png"
+      }
+    ]
+  }
+}
