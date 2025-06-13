@@ -14,6 +14,7 @@ assert(process.env.API_BASE_URL, "API_BASE_URL is required");
 assert(process.env.API_AUTH_TOKEN, "API_AUTH_TOKEN is required");
 
 const SKIP_PROJECT = false;
+const SKIP_IMAGES = false;
 
 const PREFIX = "fan_made_content";
 const PROJECT_DIR = path.join(process.cwd(), "projects");
@@ -149,6 +150,8 @@ async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
 }
 
 async function rehostFile(params: UploadParams) {
+  if (SKIP_IMAGES) return;
+  
   const { sourceUrl } = params;
   const response = await fetch(sourceUrl);
   assert(response.ok, `${sourceUrl} returned bad status: ${response.status}`);

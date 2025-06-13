@@ -792,6 +792,7 @@
       {
         "back_name": "Heir to Carcosa",
         "code": "254dd981-f7e3-47f4-9299-30429b930510",
+        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-the_tatterdemalion",
         "encounter_position": 19,
         "faction_code": "neutral",
@@ -1596,7 +1597,7 @@
       },
       {
         "code": "c0199885-f7ef-4e2a-a323-c02a6f4ec91e",
-        "deck_limit": 4,
+        "deck_limit": 1,
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-electric_nightmare",
         "encounter_position": 14,
         "faction_code": "neutral",
@@ -4423,7 +4424,6 @@
         "back_image_url": "https://eons.arkham.build/7f1c2df9-6c0b-48e9-86ae-cdea8f2f3dca-Back-23%20-%20Fever%20Dream-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1748796136107"
       },
       {
-        "back_link": "7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-back",
         "code": "7345f12b-9b9b-4c9e-8cae-bc33282ca5f1",
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_moons",
         "encounter_position": 24,
@@ -4435,25 +4435,11 @@
         "text": "<blockquote><i>When the communicator crackles into life, it sounds the murmured hymns of a chant. You realize that this brain must have belonged to one of the cultists.</i></blockquote>\n<b>If you have 4 or more \"Memories\":</b>\n<blockquote><i>You try to remind the cultist of the sacred mission to awaken the royal princess of Carcosa. To your surprise, they denounce the existence of Tassilda -- they believe that only the inevitable Hastur could direct the great play that is the universe.</i></blockquote>\nAdd 1 tally mark under Impending Doom in your Campaign Log. \nAdd this card to the victory display.\n<hr><b>Otherwise:</b>\n<blockquote><i>When you try to ask for information about Fragment, they only laugh at you, claiming that you are too late, for the King in Yellow has already arrived.</i></blockquote>\nShuffle this card back into the scanning deck.\n<b>Victory 1.</b>",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-Front-24%20-%20The%20Cultist-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1748597494568",
-        "thumbnail_url": "https://eons.arkham.build/7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-Front-thumbnail.png?cachebust=1748597494865"
+        "thumbnail_url": "https://eons.arkham.build/7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-Front-thumbnail.png?cachebust=1748597494865",
+        "back_image_url": "https://eons.arkham.build/7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-Front-24%20-%20The%20Cultist-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1748597495237",
+        "back_thumbnail_url": "https://eons.arkham.build/7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-Front-thumbnail.png?cachebust=1748597494865"
       },
       {
-        "code": "7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-back",
-        "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_moons",
-        "encounter_position": 24,
-        "faction_code": "mythos",
-        "hidden": true,
-        "name": "The Cultist",
-        "pack_code": "84b08ede-8129-4914-b0e3-f48ec649af9f",
-        "position": 176,
-        "quantity": 1,
-        "text": "Hard / Expert\n",
-        "type_code": "scenario",
-        "image_url": "https://eons.arkham.build/7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-Front-24%20-%20The%20Cultist-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1748597495237",
-        "thumbnail_url": "https://eons.arkham.build/7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-Front-thumbnail.png?cachebust=1748597494865"
-      },
-      {
-        "back_link": "483b591b-84a8-4f4d-a459-459dedbbfb6a-back",
         "code": "483b591b-84a8-4f4d-a459-459dedbbfb6a",
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_moons",
         "encounter_position": 25,
@@ -4465,25 +4451,11 @@
         "text": "<blockquote><i>When the communicator connects to the brain cylinder, all you hear is screaming. \"AHHHH! I'm falling! I'm falling!\" Perhaps the disembodiment was too much for the fragile human mind to grasp.</i></blockquote>\n<b>If Adrift in Space is in the victory display:</b>\n<blockquote><i>You gently convince them that they are no longer drifting through space -- that they are finally at rest. Somehow, the voice is relieved and sighs. When you ask about the cultists that abducted them, they tell you all that they remember.</i></blockquote>\nAdd this card to the victory display.<hr><b>Otherwise:</b>\n<blockquote><i>You try to calm them down and ask them about the cultists, but they never stop screaming.</i></blockquote>\nTake 1 horror and shuffle this card back into the scanning deck.\n<b>Victory 1.</b>",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/483b591b-84a8-4f4d-a459-459dedbbfb6a-Front-25%20-%20The%20Miner-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1748597446229",
-        "thumbnail_url": "https://eons.arkham.build/483b591b-84a8-4f4d-a459-459dedbbfb6a-Front-thumbnail.png?cachebust=1748597446613"
+        "thumbnail_url": "https://eons.arkham.build/483b591b-84a8-4f4d-a459-459dedbbfb6a-Front-thumbnail.png?cachebust=1748597446613",
+        "back_image_url": "https://eons.arkham.build/483b591b-84a8-4f4d-a459-459dedbbfb6a-Front-25%20-%20The%20Miner-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1748597446953",
+        "back_thumbnail_url": "https://eons.arkham.build/483b591b-84a8-4f4d-a459-459dedbbfb6a-Front-thumbnail.png?cachebust=1748597446613"
       },
       {
-        "code": "483b591b-84a8-4f4d-a459-459dedbbfb6a-back",
-        "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_moons",
-        "encounter_position": 25,
-        "faction_code": "mythos",
-        "hidden": true,
-        "name": "The Miner",
-        "pack_code": "84b08ede-8129-4914-b0e3-f48ec649af9f",
-        "position": 177,
-        "quantity": 1,
-        "text": "Hard / Expert\n",
-        "type_code": "scenario",
-        "image_url": "https://eons.arkham.build/483b591b-84a8-4f4d-a459-459dedbbfb6a-Front-25%20-%20The%20Miner-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1748597446953",
-        "thumbnail_url": "https://eons.arkham.build/483b591b-84a8-4f4d-a459-459dedbbfb6a-Front-thumbnail.png?cachebust=1748597446613"
-      },
-      {
-        "back_link": "d120e254-8da1-446e-971d-adeaa89852e2-back",
         "code": "d120e254-8da1-446e-971d-adeaa89852e2",
         "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_moons",
         "encounter_position": 26,
@@ -4495,22 +4467,9 @@
         "text": "<blockquote><i>A hazy voice sounds out of the machine and introduces themselves as an elementary school teacher -- they had been abducted by the cultists over a hundred years ago during the great cataclysm. </i></blockquote>\n<b>If A Hiding Place is in the victory display:</b>\n<blockquote><i>You jog their memory by recounting the events of their abduction. They describe hearing news of the cultists spreading biological agents of some sort throughout the streets during the riots.</i></blockquote>\nAdd this card to the victory display.<hr><b>Otherwise:</b>\n<blockquote><i>They can't remember much of the events that happened so many years ago. In a dream-like daze, the voice wishes you the best of luck.</i></blockquote>\nHeal 1 horror and shuffle this card back into the scanning deck.\n<b>Victory 1.</b>",
         "type_code": "story",
         "image_url": "https://eons.arkham.build/d120e254-8da1-446e-971d-adeaa89852e2-Front-26%20-%20The%20Teacher-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1748597538100",
-        "thumbnail_url": "https://eons.arkham.build/d120e254-8da1-446e-971d-adeaa89852e2-Front-thumbnail.png?cachebust=1748597538391"
-      },
-      {
-        "code": "d120e254-8da1-446e-971d-adeaa89852e2-back",
-        "encounter_code": "84b08ede-8129-4914-b0e3-f48ec649af9f-strange_moons",
-        "encounter_position": 26,
-        "faction_code": "mythos",
-        "hidden": true,
-        "name": "The Teacher",
-        "pack_code": "84b08ede-8129-4914-b0e3-f48ec649af9f",
-        "position": 178,
-        "quantity": 1,
-        "text": "Hard / Expert\n",
-        "type_code": "scenario",
-        "image_url": "https://eons.arkham.build/d120e254-8da1-446e-971d-adeaa89852e2-Front-26%20-%20The%20Teacher-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1748597538723",
-        "thumbnail_url": "https://eons.arkham.build/d120e254-8da1-446e-971d-adeaa89852e2-Front-thumbnail.png?cachebust=1748597538391"
+        "thumbnail_url": "https://eons.arkham.build/d120e254-8da1-446e-971d-adeaa89852e2-Front-thumbnail.png?cachebust=1748597538391",
+        "back_image_url": "https://eons.arkham.build/d120e254-8da1-446e-971d-adeaa89852e2-Front-26%20-%20The%20Teacher-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1748597538723",
+        "back_thumbnail_url": "https://eons.arkham.build/d120e254-8da1-446e-971d-adeaa89852e2-Front-thumbnail.png?cachebust=1748597538391"
       },
       {
         "code": "e0fb6856-6ccf-4032-bab1-8aa3d6ca4b19",

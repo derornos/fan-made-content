@@ -1,5 +1,11 @@
 import type { Card } from "../lib/post_process_helpers";
 
+const scanningStoryIds = [
+  "7345f12b-9b9b-4c9e-8cae-bc33282ca5f1-back",
+  "483b591b-84a8-4f4d-a459-459dedbbfb6a-back",
+  "d120e254-8da1-446e-971d-adeaa89852e2-back",
+];
+
 export default function mapper(_cards: Card[]) {
   const cards: Card[] = [];
 
@@ -7,7 +13,8 @@ export default function mapper(_cards: Card[]) {
   // 2. Remove <center>, <right>, and <left> from the card text.
   for (const [i, card] of _cards.entries()) {
     const isScanningBack =
-      card.hidden && !card.text && !card.traits && !card.flavor;
+      scanningStoryIds.includes(card.code) ||
+      (card.hidden && !card.text && !card.traits && !card.flavor);
 
     if (isScanningBack) {
       const front = _cards[i - 1];
