@@ -2,9 +2,7 @@ This repository houses fan-made content for [Arkham Horror: The Card Game™](ht
 
 Projects that are listed here are available to all arkham.build users as one-click installs.
 
-## Submission guidelines
-
-### Golden rules
+## Golden rules
 
 The following content is not allowed on arkham.build under **any** circumstances:
 
@@ -14,15 +12,16 @@ The following content is not allowed on arkham.build under **any** circumstances
 
 Sharing content that violates these rules results in a permanent ban. This includes adding this kind of content to your local instance and sharing screenshots or decklists of that in a publicly accessible form.
 
-### Database rules
+## Submission guidelines
 
 Additionally, the following content cannot be added to _this content database_:
 
-1. Content based on copyrighted or licensed IP outside of the Arkham Horror franchise.
-2. Content based on cartoons, comics and animes.
-3. Investigators who aren't fully playable with the decks that can be built in the application.
-4. Low quality content, or content that only addresses a small group of people. (e.g. your play group)
-5. Content based on current real-world events, celebrities, politicians or other figures of public life. (e.g. Angela Merkel)
+1. For technical reasons, content that uses ImgBB images cannot be added.
+2. Content based on copyrighted or licensed IP outside of the Arkham Horror franchise.
+3. Content based on cartoons, comics and animes.
+4. Investigators who aren't fully playable with the decks that can be built in the application.
+5. Low quality content, or content that only addresses a small group of people. (e.g. your play group)
+6. Content based on current real-world events, celebrities, politicians or other figures of public life. (e.g. Angela Merkel)
 
 _However_, content that violates these database rules may still be added to your local instance and is permitted for personal use.
 
