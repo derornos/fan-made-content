@@ -2,10 +2,7 @@ import path from "node:path";
 import fs from "node:fs/promises";
 import sharp from "sharp";
 import { Upload } from "@aws-sdk/lib-storage";
-import {
-  type PutObjectCommandInput,
-  S3Client,
-} from "@aws-sdk/client-s3";
+import { type PutObjectCommandInput, S3Client } from "@aws-sdk/client-s3";
 import assert from "node:assert";
 
 assert(process.env.AWS_ACCESS_KEY_ID, "AWS_ACCESS_KEY_ID is required");
@@ -84,10 +81,13 @@ async function rehostBanner(project: Project) {
   if (meta.banner_url) {
     const ext = extname(meta.banner_url);
     if (ext) {
-      const { s3Path } = await rehostFile({
-        sourceUrl: meta.banner_url,
-        s3Path: makeS3Path(projectCode, `banner${ext}`),
-      });
+      const { s3Path } = await rehostFile(
+        {
+          sourceUrl: meta.banner_url,
+          s3Path: makeS3Path(projectCode, `banner${ext}`),
+        },
+        true,
+      );
       project.meta.banner_url = makeCdnUrl(s3Path);
     } else {
       console.warn(`No file extension: ${projectCode} / ${meta.banner_url}`);
@@ -132,7 +132,7 @@ async function rehostCardImages(project: Project) {
     );
 
     for (const image of images) {
-      const { s3Path, key } = await rehostFile(image);
+      const { s3Path, key } = await rehostFile(image, true);
       assert(key, `Key is required for ${image.sourceUrl}`);
       project.data.cards[index][key] = makeCdnUrl(s3Path);
     }
@@ -150,14 +150,14 @@ async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
       if (sourceUrl) {
         const ext = extname(sourceUrl);
         const s3Path = makeS3Path(projectCode, `pack_${code}${ext}`);
-        await rehostFile({ sourceUrl, s3Path });
+        await rehostFile({ sourceUrl, s3Path }, false);
         project.data[key][index].icon_url = makeCdnUrl(s3Path);
       }
     }),
   );
 }
 
-async function rehostFile(params: UploadParams) {
+async function rehostFile(params: UploadParams, compress = false) {
   const { sourceUrl } = params;
   const response = await fetch(sourceUrl);
   assert(response.ok, `${sourceUrl} returned bad status: ${response.status}`);
@@ -165,11 +165,16 @@ async function rehostFile(params: UploadParams) {
   const s3Path = await upload(
     params,
     Buffer.from(await response.arrayBuffer()),
+    compress,
   );
   return { ...params, s3Path };
 }
 
-async function upload(params: UploadParams, body: Buffer | string) {
+async function upload(
+  params: UploadParams,
+  body: Buffer | string,
+  compress = false,
+) {
   const { s3Path: _s3Path, sourceUrl: _sourceUrl } = params;
   const sourceUrl = cleanPath(_sourceUrl);
 
@@ -177,7 +182,7 @@ async function upload(params: UploadParams, body: Buffer | string) {
   let uploadBuffer: PutObjectCommandInput["Body"];
   let contentType = inferContentType(sourceUrl);
 
-  if (typeof body !== "string" && contentType === "image/png") {
+  if (compress && typeof body !== "string" && contentType === "image/png") {
     const buffer = await sharp(body).jpeg({ quality: 90 }).toBuffer();
 
     uploadBuffer = buffer;

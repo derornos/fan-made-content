@@ -685,7 +685,8 @@
         "traits": "Task.",
         "type_code": "asset",
         "image_url": "https://eons-bg3.arkham.build/a3da0e3c-719e-485c-8c0a-ebc48299e75b-Front-Mysterious%20Mission-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749975999784",
-        "thumbnail_url": "https://eons-bg3.arkham.build/a3da0e3c-719e-485c-8c0a-ebc48299e75b-Front-thumbnail.png?cachebust=1749976000528"
+        "thumbnail_url": "https://eons-bg3.arkham.build/a3da0e3c-719e-485c-8c0a-ebc48299e75b-Front-thumbnail.png?cachebust=1749976000528",
+        "permanent": true
       },
       {
         "code": "437c488d-68cf-4b02-ada4-d64cc6fd8070",
@@ -938,7 +939,8 @@
         "traits": "Item. Spirit.",
         "type_code": "asset",
         "image_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-Infernal%20Engine-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976213165",
-        "thumbnail_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-thumbnail.png?cachebust=1749976214564"
+        "thumbnail_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-thumbnail.png?cachebust=1749976214564",
+        "permanent": true
       },
       {
         "code": "de40b15b-6280-4123-b422-28ffb36059cd-back",
@@ -957,7 +959,8 @@
         "traits": "Item. Injury.",
         "type_code": "asset",
         "image_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-Infernal%20Engine-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976215167",
-        "thumbnail_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-thumbnail.png?cachebust=1749976214564"
+        "thumbnail_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-thumbnail.png?cachebust=1749976214564",
+        "permanent": true
       },
       {
         "code": "51612197-a5f2-477f-acde-c9b348f3aa70",
@@ -1920,7 +1923,8 @@
         "traits": "Talent. Chosen.",
         "type_code": "asset",
         "image_url": "https://eons-bg3.arkham.build/db75d71f-5112-4ce0-b8ec-6758ea181cea-Front-Mystra's%20Chosen-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976107147",
-        "thumbnail_url": "https://eons-bg3.arkham.build/db75d71f-5112-4ce0-b8ec-6758ea181cea-Front-thumbnail.png?cachebust=1749976107860"
+        "thumbnail_url": "https://eons-bg3.arkham.build/db75d71f-5112-4ce0-b8ec-6758ea181cea-Front-thumbnail.png?cachebust=1749976107860",
+        "permanent": true
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -4620,7 +4624,8 @@
         "type_code": "asset",
         "xp": 3,
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762768/zlyim2rura0nvelbbdf8.png",
-        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762769/eewdklmnfc9yxiqxdlyh.png"
+        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762769/eewdklmnfc9yxiqxdlyh.png",
+        "permanent": true
       },
       {
         "code": "2bcf3c75-ca3f-4700-92cd-6be00649f252",
@@ -4637,7 +4642,8 @@
         "type_code": "asset",
         "xp": 3,
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762572/pzc9yaq3tho2wp4ynca1.png",
-        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762573/bg21wk9acwoggbkqho97.png"
+        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762573/bg21wk9acwoggbkqho97.png",
+        "permanent": true
       },
       {
         "code": "4dbab51a-b7cb-4824-8c7f-c9a91665f50e",
@@ -5874,7 +5880,8 @@
         "type_code": "asset",
         "xp": 0,
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781455/lby1jttvqcnmydigg8tn.png",
-        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781455/uthetr3yqzdfv5amxcgt.png"
+        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781455/uthetr3yqzdfv5amxcgt.png",
+        "permanent": true
       },
       {
         "code": "f753b731-6e61-4585-ba51-ccffdb2b8cd0",
@@ -8466,7 +8473,8 @@
         "type_code": "asset",
         "xp": 3,
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781465/tzg94nrwec8dnbqk5flu.png",
-        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781466/cjk18c8tb8fs33o78kei.png"
+        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781466/cjk18c8tb8fs33o78kei.png",
+        "permanent": true
       },
       {
         "code": "8ff9450c-ed86-4230-834d-95837f1df12a",
@@ -8482,7 +8490,8 @@
         "type_code": "asset",
         "xp": 3,
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781235/mkxv63rbmmvkpkc1xryg.png",
-        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781236/yruynaberrysxjmayqok.png"
+        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781236/yruynaberrysxjmayqok.png",
+        "permanent": true
       },
       {
         "code": "7c9ea11d-702a-4474-8720-26c7ce31dcb9",
@@ -8498,7 +8507,8 @@
         "type_code": "asset",
         "xp": 3,
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781608/lc6low4slwcq5ygbbuc9.png",
-        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781608/vng66hadr6g9hdkpmn82.png"
+        "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781608/vng66hadr6g9hdkpmn82.png",
+        "permanent": true
       },
       {
         "code": "3c760ede-0552-49e6-82d2-52bd37527311",
