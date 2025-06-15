@@ -64,10 +64,10 @@
         "text": "[reaction] When you play a card, exhaust any number of non-permanent assets you control: Reduce that card's resource cost by 1 for each asset you exhausted in this way.\n[elder_sign] effect: +1. For each point you succeed by, ready an asset you control (max 3).",
         "traits": "Githyanki. Believer. Veteran.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/67bMQCs0/3317076960ed.png",
-        "thumbnail_url": "https://i.ibb.co/rGFbxfT0/f61e8c77fbf6.png",
-        "back_image_url": "https://i.ibb.co/7NbWBfJB/37db725fa9ed.png",
-        "back_thumbnail_url": "https://i.ibb.co/rKDN3dGK/16a4f851b322.png"
+        "image_url": "https://eons-bg3.arkham.build/090971e2-99a2-4dea-9b42-d976fc55bc73-Front-Lae'zel-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976170994",
+        "thumbnail_url": "https://eons-bg3.arkham.build/090971e2-99a2-4dea-9b42-d976fc55bc73-Front-thumbnail.png?cachebust=1749976172118",
+        "back_image_url": "https://eons-bg3.arkham.build/090971e2-99a2-4dea-9b42-d976fc55bc73-Back-Lae'zel-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976173934",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/090971e2-99a2-4dea-9b42-d976fc55bc73-Back-thumbnail.png?cachebust=1749976174646"
       },
       {
         "code": "f02c3576-102f-4065-9796-c429fdf4be27",
@@ -86,8 +86,8 @@
         "text": "Lae'zel deck only.\nGithyanki Psionics counts as 2 exhausted assets for the purposes of Lae'zel's [reaction] ability.\n[reaction] After you exhaust Githyanki Psionics: Draw 2 cards. Choose 1 non-weakness card from your hand to place at the bottom of your deck.",
         "traits": "Talent.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/RpybF3TW/c268ac3f1266.png",
-        "thumbnail_url": "https://i.ibb.co/99mY1kh3/b495930fdd99.png"
+        "image_url": "https://eons-bg3.arkham.build/f02c3576-102f-4065-9796-c429fdf4be27-Front-Githyanki%20Psionics-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976077724",
+        "thumbnail_url": "https://eons-bg3.arkham.build/f02c3576-102f-4065-9796-c429fdf4be27-Front-thumbnail.png?cachebust=1749976078769"
       },
       {
         "code": "544d39ff-21b1-4a51-bfab-95c45339cb90",
@@ -103,8 +103,8 @@
         "text": "<b>Revelation</b> - Discard cards from the top of the encounter deck until an enemy is discarded. Attach Hshar'lak to that enemy and spawn it engaged with you.\n<b>Forced</b> - After you exhaust a card you control at attached enemy's location: It attacks you.",
         "traits": "Scheme.",
         "type_code": "treachery",
-        "image_url": "https://i.ibb.co/TMw7Ly6k/5fbd85feac63.png",
-        "thumbnail_url": "https://i.ibb.co/xSwWK7dc/33c859f0580a.png"
+        "image_url": "https://eons-bg3.arkham.build/544d39ff-21b1-4a51-bfab-95c45339cb90-Front-Hshar'lak-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749975996812",
+        "thumbnail_url": "https://eons-bg3.arkham.build/544d39ff-21b1-4a51-bfab-95c45339cb90-Front-thumbnail.png?cachebust=1749975997909"
       },
       {
         "back_flavor": "Minthara received a tough and cruel upbringing. Born into the House Baenre of Menzoberranzan, she survived her first assassination attempt while a newborn. Years later, Minthara sought to track down an envoy of cultists who dared to intrude upon her home, only to find herself captured and forcibly indoctrinated. Now, Minthara must free herself from her puppeteers before they herald the end.",
@@ -152,13 +152,13 @@
         "skill_intellect": 4,
         "skill_willpower": 2,
         "subname": "The Nightwarden",
-        "text": "<b>Forced</b> - At the start of the game: Name a chaos token as your \"soul brand\".\n[reaction] When an investigator reveals your soul brand: They get +1 skill value for this test and gain 1 resource. (Limit 1 resource per test.)\n[elder_sign] effect: +1. You get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] on your next skill test.",
+        "text": "<b>Forced</b> - At the start of the game: Name a chaos token as your \"soul brand\".\n[reaction] When an investigator reveals your soul brand: They get +1 skill value for this test and gain 1 resource. (Limit 1 resource per test.)\n[elder_sign] effect: +1. You get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] on your next skill test.",
         "traits": "Drow. Chosen. Socialite.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/zhs50ZWP/2ab0b8dd2418.png",
-        "thumbnail_url": "https://i.ibb.co/hRR9Wrrn/22ab67117de3.png",
-        "back_image_url": "https://i.ibb.co/LKHXSC4/e5ddd634ba4b.png",
-        "back_thumbnail_url": "https://i.ibb.co/YTtH0nm1/a7bab6e1aa17.png"
+        "image_url": "https://eons-bg3.arkham.build/8b638e7b-857c-4956-b960-a62bcbb0c803-Front-Minthara-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976015259",
+        "thumbnail_url": "https://eons-bg3.arkham.build/8b638e7b-857c-4956-b960-a62bcbb0c803-Front-thumbnail.png?cachebust=1749976016322",
+        "back_image_url": "https://eons-bg3.arkham.build/8b638e7b-857c-4956-b960-a62bcbb0c803-Back-Minthara-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976017965",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/8b638e7b-857c-4956-b960-a62bcbb0c803-Back-thumbnail.png?cachebust=1749976019109"
       },
       {
         "code": "88b15543-6ee7-430f-9644-5c4d47605cf8",
@@ -178,8 +178,8 @@
         "text": "Minthara deck only.\n[reaction] When an investigator reveals your soul brand: Heal 1 damage or 1 horror from Spidersilk Armor.\n[free] Exhaust Spidersilk Armor and spend 1 resource: Choose a non-[[Elite]] enemy at your location. It cannot ready this round.",
         "traits": "Item. Armor.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/KjYtFyGm/50d9deccaa21.png",
-        "thumbnail_url": "https://i.ibb.co/7wZMZkz/9c4b8f962275.png"
+        "image_url": "https://eons-bg3.arkham.build/88b15543-6ee7-430f-9644-5c4d47605cf8-Front-Spidersilk%20Armor-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976196916",
+        "thumbnail_url": "https://eons-bg3.arkham.build/88b15543-6ee7-430f-9644-5c4d47605cf8-Front-thumbnail.png?cachebust=1749976198142"
       },
       {
         "code": "3bc15b11-4990-4622-ae13-1764a6475f73",
@@ -192,11 +192,11 @@
         "quantity": 1,
         "restrictions": "investigator:8b638e7b-857c-4956-b960-a62bcbb0c803",
         "subtype_code": "weakness",
-        "text": "<b>Revelation</b> - Put Absolute's Will into play in your threat area.\nInvestigators at your location get <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] [disadvantage] on [willpower] tests.\n[action][action]: Discard Absolute's Will.",
+        "text": "<b>Revelation</b> - Put Absolute's Will into play in your threat area.\nInvestigators at your location get <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] [disadvantage] on [willpower] tests.\n[action][action]: Discard Absolute's Will.",
         "traits": "Power.",
         "type_code": "treachery",
-        "image_url": "https://i.ibb.co/Mk39cW4G/2f6da143d70c.png",
-        "thumbnail_url": "https://i.ibb.co/v6qgXQXT/ad378f7bbb4e.png"
+        "image_url": "https://eons-bg3.arkham.build/3bc15b11-4990-4622-ae13-1764a6475f73-Front-Absolute's%20Will-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976185694",
+        "thumbnail_url": "https://eons-bg3.arkham.build/3bc15b11-4990-4622-ae13-1764a6475f73-Front-thumbnail.png?cachebust=1749976186718"
       },
       {
         "back_flavor": "Gale is a wizard prodigy whose love for a goddess made him attempt a dread feat no mortal should. Blighted by the forbidden magic of ancient Netheril, Gale strives to undo the corruption that is overtaking him and win back his goddess’ favour before he becomes a destroyer of worlds.",
@@ -247,10 +247,10 @@
         "text": "[reaction] After you play or commit a [[Spell]] card: Discover 1 clue at your location. (Limit once per round.)\n[elder_sign] effect: +0. If you succeed, search your discard pile or the top 6 cards of your deck for a [[Spell]] card and draw it. Shuffle your deck if it is searched.",
         "traits": "Human. Scholar.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/dsJ6h42w/07069aa29cfe.png",
-        "thumbnail_url": "https://i.ibb.co/RT9dRvt4/08c4d03136ea.png",
-        "back_image_url": "https://i.ibb.co/WNTVhYLd/8042c795f82f.png",
-        "back_thumbnail_url": "https://i.ibb.co/23J9cFwj/9c06ccf00aad.png"
+        "image_url": "https://eons-bg3.arkham.build/a178136f-3b0c-4b4d-880b-469e11e5c07b-Front-Gale-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976243283",
+        "thumbnail_url": "https://eons-bg3.arkham.build/a178136f-3b0c-4b4d-880b-469e11e5c07b-Front-thumbnail.png?cachebust=1749976244339",
+        "back_image_url": "https://eons-bg3.arkham.build/a178136f-3b0c-4b4d-880b-469e11e5c07b-Back-Gale-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976246028",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/a178136f-3b0c-4b4d-880b-469e11e5c07b-Back-thumbnail.png?cachebust=1749976247153"
       },
       {
         "code": "e9739a5e-2a5b-4c46-85c1-bce75f157904",
@@ -267,11 +267,11 @@
         "skill_agility": 1,
         "skill_willpower": 1,
         "subname": "Faithful Companion",
-        "text": "Gale deck only.\nYou can have up to 2 <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] cards in play.\n[reaction] When you initiate a skill test on a treachery card, exhaust Tara: That card gains the [[Spell]] trait for the duration of this skill test.",
+        "text": "Gale deck only.\nYou can have up to 2 <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] cards in play.\n[reaction] When you initiate a skill test on a treachery card, exhaust Tara: That card gains the [[Spell]] trait for the duration of this skill test.",
         "traits": "Ally. Creature. Tressym.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/dJwSbxQY/c014574a68c5.png",
-        "thumbnail_url": "https://i.ibb.co/ycdDVfyW/d53df4434eb2.png"
+        "image_url": "https://eons-bg3.arkham.build/e9739a5e-2a5b-4c46-85c1-bce75f157904-Front-Tara-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976051847",
+        "thumbnail_url": "https://eons-bg3.arkham.build/e9739a5e-2a5b-4c46-85c1-bce75f157904-Front-thumbnail.png?cachebust=1749976052948"
       },
       {
         "code": "b97d108c-b8da-4d3f-802f-eba1f5e48dcd",
@@ -284,11 +284,11 @@
         "quantity": 1,
         "restrictions": "investigator:a178136f-3b0c-4b4d-880b-469e11e5c07b",
         "subtype_code": "weakness",
-        "text": "<b>Revelation</b> - Put Consume the Weave into play in your threat area.\n<b>Forced</b> - After you initiate a [intellect] test, if there are 1 or fewer cards beneath Consume the Weave: You get <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] for this test.\n[action]: Place a non-weakness asset from your hand or play area beneath this card.",
+        "text": "<b>Revelation</b> - Put Consume the Weave into play in your threat area.\n<b>Forced</b> - After you initiate a [intellect] test, if there are 1 or fewer cards beneath Consume the Weave: You get <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] for this test.\n[action]: Place a non-weakness asset from your hand or play area beneath this card.",
         "traits": "Task.",
         "type_code": "treachery",
-        "image_url": "https://i.ibb.co/6cjXcvrB/a7555cb21160.png",
-        "thumbnail_url": "https://i.ibb.co/C3DgGwFk/56573edf424e.png"
+        "image_url": "https://eons-bg3.arkham.build/b97d108c-b8da-4d3f-802f-eba1f5e48dcd-Front-Consume%20the%20Weave-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976074461",
+        "thumbnail_url": "https://eons-bg3.arkham.build/b97d108c-b8da-4d3f-802f-eba1f5e48dcd-Front-thumbnail.png?cachebust=1749976075035"
       },
       {
         "back_flavor": "A legend who once thwarted a Bhaalspawn named Sarevok, Jaheira was born a noble in the nation of Tethyr. She was only a year old when a civil war broke out that killed her family. One of the servant girls took Jaheira and fled into the forest of Tethyr. There, they stumbled upon an enclave of druids who took them in and raised Jaheira as their own. As a young woman, Jaheira joined a clandestine group of do-gooders called the Harpers alongside her husband, Khalid. Now, a century later, she is once again on the trail of a sinister plot--one that seems eerily familiar.",
@@ -339,10 +339,10 @@
         "text": "[reaction] After an [intellect] skill test ends, if you succeeded and discovered no clues from your location during that test: Take an investigate action. (Limit once per round.)\n[elder_sign] effect: +1. If you would discover clues during this test, you may discover them at a connecting location, instead.",
         "traits": "Half-Elf. Harper. Drifter.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/Xr83sxGr/1aa8eaa6c00a.png",
-        "thumbnail_url": "https://i.ibb.co/k6GtrG4z/91216553f408.png",
-        "back_image_url": "https://i.ibb.co/ZzhwNcGj/a3de3d81c843.png",
-        "back_thumbnail_url": "https://i.ibb.co/xSw75107/ce93dcc80d0a.png"
+        "image_url": "https://eons-bg3.arkham.build/831feaea-b08f-4737-9d04-31ed0df25da2-Front-Jaheira-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976237768",
+        "thumbnail_url": "https://eons-bg3.arkham.build/831feaea-b08f-4737-9d04-31ed0df25da2-Front-thumbnail.png?cachebust=1749976238932",
+        "back_image_url": "https://eons-bg3.arkham.build/831feaea-b08f-4737-9d04-31ed0df25da2-Back-Jaheira-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976240505",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/831feaea-b08f-4737-9d04-31ed0df25da2-Back-thumbnail.png?cachebust=1749976241634"
       },
       {
         "code": "b9fe8692-f7cb-4c39-9164-0d0970bbd5da",
@@ -362,8 +362,8 @@
         "text": "Jaheira deck only. Uses (3 charges).\n[free] Exhaust Khalid's Gift and spend 1 charge: Choose an asset you control. Trigger an ability on that asset ignoring up to 1 of its [action] costs. Before triggering the ability, you may replenish 1 use on that asset.",
         "traits": "Item. Charm.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/7JMPrFjd/e381305d47a5.png",
-        "thumbnail_url": "https://i.ibb.co/Pst8mpTV/fde1303d41e4.png"
+        "image_url": "https://eons-bg3.arkham.build/b9fe8692-f7cb-4c39-9164-0d0970bbd5da-Front-Khalid's%20Gift-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976062968",
+        "thumbnail_url": "https://eons-bg3.arkham.build/b9fe8692-f7cb-4c39-9164-0d0970bbd5da-Front-thumbnail.png?cachebust=1749976064006"
       },
       {
         "code": "4a4ca578-40aa-4c2e-a375-1467fa399f5c",
@@ -379,8 +379,8 @@
         "text": "<b>Revelation</b> - Put Bad Intel into play in your threat play area and take 1 damage.\n<b>Forced</b> - After you discover 1 or more clues: Shuffle Bad Intel into your deck.\n[action][action]: Discard Bad Intel.",
         "traits": "Scheme.",
         "type_code": "treachery",
-        "image_url": "https://i.ibb.co/Y7ytWfwV/d1e9ee2e9529.png",
-        "thumbnail_url": "https://i.ibb.co/pBGsrXVP/eb505d0bbf62.png"
+        "image_url": "https://eons-bg3.arkham.build/4a4ca578-40aa-4c2e-a375-1467fa399f5c-Front-Bad%20Intel-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976038373",
+        "thumbnail_url": "https://eons-bg3.arkham.build/4a4ca578-40aa-4c2e-a375-1467fa399f5c-Front-thumbnail.png?cachebust=1749976039504"
       },
       {
         "back_flavor": "Astarion prowled the night as a vampire spawn for centuries, serving a sadistic master until a mind flayer parasite freed him from his bonds. Now that he can walk in daylight the game is on, for only his old master stands in the way of him becoming the greatest vampire the world has ever known.",
@@ -432,10 +432,10 @@
         "text": "[reaction] After you evade an enemy: Move 1 damage from Astarion to that enemy. (Limit once per round.)\n[elder_sign] effect: +2. Search your deck and discard pile for Exsanguinate and add it to your hand.",
         "traits": "Elf. Vampire. Criminal.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/0RBnyMgn/70f2b4bceeea.png",
-        "thumbnail_url": "https://i.ibb.co/BHCjw0X6/52d364f2b715.png",
-        "back_image_url": "https://i.ibb.co/6Jchb659/65d5e57e0ad2.png",
-        "back_thumbnail_url": "https://i.ibb.co/Xky5Thjv/cf65ffb16878.png"
+        "image_url": "https://eons-bg3.arkham.build/3b5b5aef-9c8f-4136-92c4-dbca706c2e43-Front-Astarion-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976190800",
+        "thumbnail_url": "https://eons-bg3.arkham.build/3b5b5aef-9c8f-4136-92c4-dbca706c2e43-Front-thumbnail.png?cachebust=1749976192499",
+        "back_image_url": "https://eons-bg3.arkham.build/3b5b5aef-9c8f-4136-92c4-dbca706c2e43-Back-Astarion-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976194179",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/3b5b5aef-9c8f-4136-92c4-dbca706c2e43-Back-thumbnail.png?cachebust=1749976195250"
       },
       {
         "code": "4ce004a0-9d9b-4dde-afa7-ee5a15f04670",
@@ -451,8 +451,8 @@
         "text": "Astarion deck only.\nFast. Play after you move damage from a card you control to an enemy.\nYou get +1 to each of your skills for the remainder of the round. Attach Exsanguinate to that enemy. Reduce the difficulty of tests on or against attached enemy by 1.\n[reaction] When attached enemy is defeated: Shuffle Exsanguinate into Astarion's deck.",
         "traits": "Trick.",
         "type_code": "event",
-        "image_url": "https://i.ibb.co/7dgvntBP/0d4acbb49e6e.png",
-        "thumbnail_url": "https://i.ibb.co/5XtdYDVf/42c7bdbb58e2.png"
+        "image_url": "https://eons-bg3.arkham.build/4ce004a0-9d9b-4dde-afa7-ee5a15f04670-Front-Exsanguinate-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976157784",
+        "thumbnail_url": "https://eons-bg3.arkham.build/4ce004a0-9d9b-4dde-afa7-ee5a15f04670-Front-thumbnail.png?cachebust=1749976159311"
       },
       {
         "code": "a5920dbe-f342-470a-8303-f502b19a7b4a",
@@ -468,8 +468,8 @@
         "text": "<b>Revelation</b> - Put Sanguine Servitude into play in your threat area.\n<b>Forced</b> - When you deal or move damage to an enemy: Reveal a random token from the chaos bag. If it is a [skull], [cultist], [tablet], [elder_thing], or [auto_fail] token, deal or move that damage to an [[Ally]] asset or investigator at your location instead.      Then, you may take 2 horror to discard this card.",
         "traits": "Pact.",
         "type_code": "treachery",
-        "image_url": "https://i.ibb.co/BH17Cpfk/afa1558a99bd.png",
-        "thumbnail_url": "https://i.ibb.co/S4XB1YjB/6bf6047299fb.png"
+        "image_url": "https://eons-bg3.arkham.build/a5920dbe-f342-470a-8303-f502b19a7b4a-Front-Sanguine%20Servitude-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976104325",
+        "thumbnail_url": "https://eons-bg3.arkham.build/a5920dbe-f342-470a-8303-f502b19a7b4a-Front-thumbnail.png?cachebust=1749976105410"
       },
       {
         "back_flavor": "Minsc is a Rashemaar berserker aided by his trusted companion, Boo. As a young man, he teamed up with a band of travelers including Jaheira and Gorion's Ward to defeat Sarevok during the Iron Crisis. A century later, Minsc and Jaheira reunited to uncover the mysterious Cult of the Absolute. In his haste, Minsc was captured and brainwashed. Through the efforts of Jaheira and her new allies, Minsc was rescued. Now, he walks the road of redemption hoping to right the wrongs of his past.",
@@ -521,10 +521,10 @@
         "text": "You begin the game with Boo in play.\n[reaction] After you succeed at a skill test by 2 or more: Gain 1 resource.\n[elder_sign] effect: +1. After this test ends, ready Boo.",
         "traits": "Human. Veteran. Wayfarer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/nNk8ht2y/8fd111ad85a6.png",
-        "thumbnail_url": "https://i.ibb.co/Xkj1Qr21/d0116341f7b2.png",
-        "back_image_url": "https://i.ibb.co/VK0L39H/562cdc7940a5.png",
-        "back_thumbnail_url": "https://i.ibb.co/zMsp8Q1/a60201dde84f.png"
+        "image_url": "https://eons-bg3.arkham.build/658067c8-aa7b-4bd3-a9f1-0dcbe679266b-Front-Minsc-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976066180",
+        "thumbnail_url": "https://eons-bg3.arkham.build/658067c8-aa7b-4bd3-a9f1-0dcbe679266b-Front-thumbnail.png?cachebust=1749976067243",
+        "back_image_url": "https://eons-bg3.arkham.build/658067c8-aa7b-4bd3-a9f1-0dcbe679266b-Back-Minsc-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976068812",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/658067c8-aa7b-4bd3-a9f1-0dcbe679266b-Back-thumbnail.png?cachebust=1749976069987"
       },
       {
         "code": "ebfb601b-a22d-438c-95cd-8f516acefe91",
@@ -543,8 +543,8 @@
         "text": "Fast. Minsc deck only.\n[reaction] When you would succeed at a skill test, exhaust Boo: Commit an eligible card from your hand and draw 1 card.\n[reaction] When Boo leaves play, move all damage and horror from Boo to Minsc: Return Boo to your hand.",
         "traits": "Ally. Creature.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/gFJj9h1j/f789e24add4d.png",
-        "thumbnail_url": "https://i.ibb.co/xqc3Z3DL/91936b1d4ca6.png"
+        "image_url": "https://eons-bg3.arkham.build/ebfb601b-a22d-438c-95cd-8f516acefe91-Front-Boo-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976177329",
+        "thumbnail_url": "https://eons-bg3.arkham.build/ebfb601b-a22d-438c-95cd-8f516acefe91-Front-thumbnail.png?cachebust=1749976178153"
       },
       {
         "code": "497af6bb-23a5-41ee-9dba-56fa8dd92f13",
@@ -560,8 +560,8 @@
         "text": "While Stone Lord is in your hand, you get -1 to each your skills.\nThis skill's icons subtract from your skill value instead of adding to it.\nIf this skill test fails, exhaust all of your assets and you cannot ready your assets this round.",
         "traits": "Power. Fated.",
         "type_code": "skill",
-        "image_url": "https://i.ibb.co/gZsSpHJY/f0a9388d9667.png",
-        "thumbnail_url": "https://i.ibb.co/B1Xmrbs/5ae869aeb42e.png"
+        "image_url": "https://eons-bg3.arkham.build/497af6bb-23a5-41ee-9dba-56fa8dd92f13-Front-Stone%20Lord-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976008371",
+        "thumbnail_url": "https://eons-bg3.arkham.build/497af6bb-23a5-41ee-9dba-56fa8dd92f13-Front-thumbnail.png?cachebust=1749976009527"
       },
       {
         "back_flavor": "A loyal cleric of Shar, Shadowheart is the sole survivor of a holy mission undertaken on the Mistress of the Night’s behest. She alone must deliver a relic of immense power to her coven in Baldur’s Gate, while threatened by a strange new magic that is burgeoning from within.",
@@ -612,10 +612,10 @@
         "text": "For each shroud token on your location, increase its shroud value by 1.\nFor each shroud token on your location, reduce the difficulty of tests on/against treacheries and enemies at your location by 1.\n[elder_sign] effect: +1. If there is a shroud token on your location, you automatically succeed, instead.",
         "traits": "Half-Elf. Believer. Medic.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/cKRrJjXW/0d5639144f36.png",
-        "thumbnail_url": "https://i.ibb.co/0yp3pD1B/f2a60322a3ab.png",
-        "back_image_url": "https://i.ibb.co/hJCSqgSs/6b0b06a7bc89.png",
-        "back_thumbnail_url": "https://i.ibb.co/DDZ8fZgn/51ca3768f0e1.png"
+        "image_url": "https://eons-bg3.arkham.build/42483554-449f-429d-a8ce-de39d9f94982-Front-Shadowheart-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976010361",
+        "thumbnail_url": "https://eons-bg3.arkham.build/42483554-449f-429d-a8ce-de39d9f94982-Front-thumbnail.png?cachebust=1749976011478",
+        "back_image_url": "https://eons-bg3.arkham.build/42483554-449f-429d-a8ce-de39d9f94982-Back-Shadowheart-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976012949",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/42483554-449f-429d-a8ce-de39d9f94982-Back-thumbnail.png?cachebust=1749976013540"
       },
       {
         "back_name": "Shadowheart",
@@ -666,10 +666,10 @@
         "text": "For each shroud token on your location, reduce its shroud value by 1.\n[elder_sign] effect: +1. If there is a shroud token on your location, you automatically succeed, instead.",
         "traits": "Half-Elf. Believer. Medic.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/fdDMZ0w2/d370ec1add43.png",
-        "thumbnail_url": "https://i.ibb.co/cX67JmHk/599861f56925.png",
-        "back_image_url": "https://i.ibb.co/2TGT9kk/b75d927d226b.png",
-        "back_thumbnail_url": "https://i.ibb.co/NgqNzTd5/18512335518c.png"
+        "image_url": "https://eons-bg3.arkham.build/e8286172-15d9-41b5-a96b-efa66d714575-Front-Jenevelle-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976001911",
+        "thumbnail_url": "https://eons-bg3.arkham.build/e8286172-15d9-41b5-a96b-efa66d714575-Front-thumbnail.png?cachebust=1749976003002",
+        "back_image_url": "https://eons-bg3.arkham.build/e8286172-15d9-41b5-a96b-efa66d714575-Back-Jenevelle-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976004825",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/e8286172-15d9-41b5-a96b-efa66d714575-Back-thumbnail.png?cachebust=1749976005927"
       },
       {
         "code": "a3da0e3c-719e-485c-8c0a-ebc48299e75b",
@@ -684,8 +684,8 @@
         "text": "Shadowheart deck only. Permanent.\n[reaction] After you discover 1 or more clues from any location: Place 1 resource on that location, as a shroud token.\n[free] Exhaust Mysterious Mission: Shuffle Nightsong from your discard pile into your deck.",
         "traits": "Task.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/LDN1jL3N/e3d26a91da90.png",
-        "thumbnail_url": "https://i.ibb.co/5xXvMc29/92f683d74f17.png"
+        "image_url": "https://eons-bg3.arkham.build/a3da0e3c-719e-485c-8c0a-ebc48299e75b-Front-Mysterious%20Mission-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749975999784",
+        "thumbnail_url": "https://eons-bg3.arkham.build/a3da0e3c-719e-485c-8c0a-ebc48299e75b-Front-thumbnail.png?cachebust=1749976000528"
       },
       {
         "code": "437c488d-68cf-4b02-ada4-d64cc6fd8070",
@@ -707,8 +707,8 @@
         "text": "Aloof.\nTreat Nightsong's location as if it has no shroud tokens.\n[action]: <b>Parley.</b> Test [willpower] (4). If you succeed, discard Nightsong and record in your Campaign Log that \"Shadowheart recovered a memory.\" Next to this, in parentheses, record 1 tally mark. \n<b>Forced</b> - After Shadowheart defeats Nightsong: Remove Nightsong from your deck for the rest of the campaign. Add Shar's Spear of Evening to your deck and add it to your hand. It does not count towards your deck size.",
         "traits": "Aasimar. Selûnite. Elite.",
         "type_code": "enemy",
-        "image_url": "https://i.ibb.co/qLzrqG5t/79fa39e289eb.png",
-        "thumbnail_url": "https://i.ibb.co/JwLsXMNQ/d658b871b1e4.png"
+        "image_url": "https://eons-bg3.arkham.build/437c488d-68cf-4b02-ada4-d64cc6fd8070-Front-Nightsong-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976030085",
+        "thumbnail_url": "https://eons-bg3.arkham.build/437c488d-68cf-4b02-ada4-d64cc6fd8070-Front-thumbnail.png?cachebust=1749976031082"
       },
       {
         "code": "7d92211e-7ed1-4e94-911c-59ee10b63070",
@@ -729,8 +729,8 @@
         "text": "Shadowheart (<i>Forged Her Own Path</i>) deck only.\n[free] Exhaust Dame Aylin and remove up to 3 shroud tokens from your location: Choose an investigator at your location. They search the top X cards of their deck for a card, draw it, and shuffle their deck. X is thrice the number of shroud tokens removed.",
         "traits": "Ally. Aasimar. Selûnite.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/QvvyXWMn/107808524781.png",
-        "thumbnail_url": "https://i.ibb.co/7xZbLYmN/3838479a1ece.png"
+        "image_url": "https://eons-bg3.arkham.build/7d92211e-7ed1-4e94-911c-59ee10b63070-Front-Dame%20Aylin-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749975993594",
+        "thumbnail_url": "https://eons-bg3.arkham.build/7d92211e-7ed1-4e94-911c-59ee10b63070-Front-thumbnail.png?cachebust=1749975994685"
       },
       {
         "code": "5d1c165e-e649-4784-8f50-077484454ca6",
@@ -750,8 +750,8 @@
         "text": "Shadowheart (<i>Daughter of Darkness</i>) deck only.\n[free] Exhaust Shar's Spear of Evening: Add your location's shroud value to your skill value for this test.\n[action]: <b>Fight.</b> You get +2 [combat] and deal +1 damage for this attack (+2 damage instead if there are 1 or more shroud tokens on your location). ",
         "traits": "Item. Relic. Weapon. Melee.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/fz6TL03L/5698d863acac.png",
-        "thumbnail_url": "https://i.ibb.co/Pv3vCqT8/cc911d854848.png"
+        "image_url": "https://eons-bg3.arkham.build/5d1c165e-e649-4784-8f50-077484454ca6-Front-Shar's%20Spear%20of%20Evening-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976132030",
+        "thumbnail_url": "https://eons-bg3.arkham.build/5d1c165e-e649-4784-8f50-077484454ca6-Front-thumbnail.png?cachebust=1749976132653"
       },
       {
         "code": "78585099-8836-457f-ae91-96665d399d07",
@@ -767,8 +767,8 @@
         "text": "<b>Revelation</b> - Shuffle your hand into your deck. Then, draw that many cards. Draw 1 fewer card for every shroud token on your location and connecting locations (to a maximum of 3 fewer cards). If the same number of cards were drawn by this effect, shuffle this card into your deck.",
         "traits": "Terror.",
         "type_code": "treachery",
-        "image_url": "https://i.ibb.co/JW5BBdbp/72af2c399ecc.png",
-        "thumbnail_url": "https://i.ibb.co/XZ0Zw1n0/2bbdf17002b7.png"
+        "image_url": "https://eons-bg3.arkham.build/78585099-8836-457f-ae91-96665d399d07-Front-Shar's%20Teachings-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976119268",
+        "thumbnail_url": "https://eons-bg3.arkham.build/78585099-8836-457f-ae91-96665d399d07-Front-thumbnail.png?cachebust=1749976120428"
       },
       {
         "back_flavor": "Noble by birth, Wyll made his name as the heroic 'Blade of Frontiers'. But to become a living legend, he struck a bargain with a devil, a bargain from which he longs to break free before it consumes his soul for good.",
@@ -819,10 +819,10 @@
         "text": "[reaction] After you play or activate an [action] ability on a [[Spell]] card: Play or activate an [action] ability on a [[Weapon]] card you control <i>(without paying its</i> [action] <i>cost)</i>, or vice versa. (Limit once per round.)\n[elder_sign] effect: +2. Until the end of the round, increase the limit on the above [reaction] ability by 1.",
         "traits": "Human. Hunter. Socialite.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/Q7Q6NSSD/d86eea9f4815.png",
-        "thumbnail_url": "https://i.ibb.co/Jjzg6jbK/118833113aa3.png",
-        "back_image_url": "https://i.ibb.co/wNtQGK7c/c17b8ddf559a.png",
-        "back_thumbnail_url": "https://i.ibb.co/XZGMmx58/df3c70e2e5eb.png"
+        "image_url": "https://eons-bg3.arkham.build/fad4a996-765b-402c-be83-5c392f546809-Front-Wyll-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976020553",
+        "thumbnail_url": "https://eons-bg3.arkham.build/fad4a996-765b-402c-be83-5c392f546809-Front-thumbnail.png?cachebust=1749976021650",
+        "back_image_url": "https://eons-bg3.arkham.build/fad4a996-765b-402c-be83-5c392f546809-Back-Wyll-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976022315",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/fad4a996-765b-402c-be83-5c392f546809-Back-thumbnail.png?cachebust=1749976023386"
       },
       {
         "code": "05e1c64e-ff93-4dc5-bc20-61a8f063a9b4",
@@ -840,8 +840,8 @@
         "text": "Wyll deck only.\nAttach to a [[Weapon]] asset you control.\nWhile resolving a triggered ability on attached asset, you get +2 to each of your skills.\nAttached asset gains: \"[action] Exhaust this asset: Search the top 9 cards of your deck for a [[Pact]] card and draw it. Shuffle your deck.\"",
         "traits": "Spell. Pact. Upgrade.",
         "type_code": "event",
-        "image_url": "https://i.ibb.co/fz1Y0j48/229e7654f839.png",
-        "thumbnail_url": "https://i.ibb.co/v6dZN0Wb/f39b8700c567.png"
+        "image_url": "https://eons-bg3.arkham.build/05e1c64e-ff93-4dc5-bc20-61a8f063a9b4-Front-Pact%20of%20the%20Blade-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976210507",
+        "thumbnail_url": "https://eons-bg3.arkham.build/05e1c64e-ff93-4dc5-bc20-61a8f063a9b4-Front-thumbnail.png?cachebust=1749976211539"
       },
       {
         "code": "d57e29e3-c962-4642-9675-6f88af95ef2a",
@@ -863,8 +863,8 @@
         "text": "Aloof. Hunter.\n<b>Forced</b> - At the end of the mythos phase: Place 1 doom on Mizora.\n<b>Forced</b> - After Mizora is defeated: Wyll suffers 1 physical trauma or 1 mental trauma.\n[action]: <b>Parley.</b> Test (3) [willpower] or [intellect]. If you succeed, place 1 horror on Mizora. If there are 2 or more horror on her, discard her.",
         "traits": "Humanoid. Cambion. Elite.",
         "type_code": "enemy",
-        "image_url": "https://i.ibb.co/C5N0XrS4/9c0b167c77b7.png",
-        "thumbnail_url": "https://i.ibb.co/8D0MyCFt/ef6cfa43739f.png"
+        "image_url": "https://eons-bg3.arkham.build/d57e29e3-c962-4642-9675-6f88af95ef2a-Front-Mizora-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976123648",
+        "thumbnail_url": "https://eons-bg3.arkham.build/d57e29e3-c962-4642-9675-6f88af95ef2a-Front-thumbnail.png?cachebust=1749976124258"
       },
       {
         "back_flavor": "Fresh-escaped from Hell, Karlach is finally free of the archdevil Zariel -- but not from the infernal engine Zariel planted in her chest. With her first taste of freedom in ten years, Karlach is eager to find a fix for the engine that’s burning hotter and hotter before it burns her out completely. But even more premier in her mind? Exploring, falling in love, and taking revenge on the man who sold her to Zariel all those years ago.",
@@ -916,10 +916,10 @@
         "text": "<b>Forced</b> - After you deal damage to an enemy with an attack: Place 1 damage on Infernal Engine, as heat.\n[reaction] After you take damage: Move 1 of that damage from Karlach to Infernal Engine.\n[elder_sign] effect: +1 for each heat on Infernal Engine. You may place or remove 2 heat on it.",
         "traits": "Tiefling. Drifter. Wayfarer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/h1KsfdH0/18596362b347.png",
-        "thumbnail_url": "https://i.ibb.co/KxFYt5K7/538d004de10b.png",
-        "back_image_url": "https://i.ibb.co/whKMQTFJ/ed0fcf253101.png",
-        "back_thumbnail_url": "https://i.ibb.co/bR6V36rL/e7392ca0937e.png"
+        "image_url": "https://eons-bg3.arkham.build/6dca9667-9d11-4e8b-bf6b-7648e1664db8-Front-Karlach-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976178880",
+        "thumbnail_url": "https://eons-bg3.arkham.build/6dca9667-9d11-4e8b-bf6b-7648e1664db8-Front-thumbnail.png?cachebust=1749976179459",
+        "back_image_url": "https://eons-bg3.arkham.build/6dca9667-9d11-4e8b-bf6b-7648e1664db8-Back-Karlach-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976182209",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/6dca9667-9d11-4e8b-bf6b-7648e1664db8-Back-thumbnail.png?cachebust=1749976182805"
       },
       {
         "back_link": "de40b15b-6280-4123-b422-28ffb36059cd-back",
@@ -937,8 +937,8 @@
         "text": "Ignite. Karlach deck only. Permanent.\n[reaction] After an enemy engages you, if Infernal Engine has 3 or more heat on it: Deal 1 damage to that enemy.\n<b>Forced</b> - If Infernal Engine has 6 or more heat on it: Flip it over.",
         "traits": "Item. Spirit.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/Xrbb7LNv/f7389fe844ea.png",
-        "thumbnail_url": "https://i.ibb.co/m5v2cgGy/1855fa23ea99.png"
+        "image_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-Infernal%20Engine-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976213165",
+        "thumbnail_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-thumbnail.png?cachebust=1749976214564"
       },
       {
         "code": "de40b15b-6280-4123-b422-28ffb36059cd-back",
@@ -956,8 +956,8 @@
         "text": "Karlach deck only. Permanent.\nYou cannot trigger Karlach's [reaction] ability.\nChange Karlach's <b>Forced</b> ability from \"place 1 damage on Infernal Engine, as heat\" to \"move 1 heat from Infernal Engine to Karlach, as damage. If Infernal Engine has 3 or fewer heat on it, flip it over.\"",
         "traits": "Item. Injury.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/JwZ2jfGS/08bfc94878e6.png",
-        "thumbnail_url": "https://i.ibb.co/m5v2cgGy/1855fa23ea99.png"
+        "image_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-Infernal%20Engine-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976215167",
+        "thumbnail_url": "https://eons-bg3.arkham.build/de40b15b-6280-4123-b422-28ffb36059cd-Front-thumbnail.png?cachebust=1749976214564"
       },
       {
         "code": "51612197-a5f2-477f-acde-c9b348f3aa70",
@@ -974,8 +974,8 @@
         "text": "Karlach deck only.\nFast. Play during any [free] player window.\nAttach this card to Infernal Engine. Remove half of the heat from it (rounded up) and flip it over to its [[Spirit]] side.",
         "traits": "Item. Upgrade.",
         "type_code": "event",
-        "image_url": "https://i.ibb.co/YB2fz1GH/b90032de4937.png",
-        "thumbnail_url": "https://i.ibb.co/1tc4QWtg/1bda508a99bc.png"
+        "image_url": "https://eons-bg3.arkham.build/51612197-a5f2-477f-acde-c9b348f3aa70-Front-Infernal%20Iron-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976049153",
+        "thumbnail_url": "https://eons-bg3.arkham.build/51612197-a5f2-477f-acde-c9b348f3aa70-Front-thumbnail.png?cachebust=1749976050217"
       },
       {
         "code": "d2a147e0-7a88-447f-91df-afc028665275",
@@ -991,8 +991,8 @@
         "text": "<b>Revelation</b> - Put Numbered into play in your threat area.\n<b>Forced</b> - After your turn ends, if Infernal Engine is on its [[Injury]] side faceup: Place 1 damage here.\n<b>Forced</b> - When the game ends, if there are 4 or more damage here: You suffer 1 physical trauma.",
         "traits": "Injury.",
         "type_code": "treachery",
-        "image_url": "https://i.ibb.co/N2KkK7JW/3accdf3e87aa.png",
-        "thumbnail_url": "https://i.ibb.co/96K6Q6r/b00e386fb0bc.png"
+        "image_url": "https://eons-bg3.arkham.build/d2a147e0-7a88-447f-91df-afc028665275-Front-Numbered-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976167115",
+        "thumbnail_url": "https://eons-bg3.arkham.build/d2a147e0-7a88-447f-91df-afc028665275-Front-thumbnail.png?cachebust=1749976168192"
       },
       {
         "back_flavor": "A life of experiences, from the enslaved consort of the drow of the Underdark, to the Archdruid of the Emerald Grove, Halsin never lost his gentle and honest demeanor. Though a powerful healer with a lofty title, Halsin preferred to explore the wilds and be one with nature. Since Ketheric Thorm's corruption of his beloved forests, he seeks to relinquish the curse's grip on the land.",
@@ -1043,10 +1043,10 @@
         "text": "[reaction] After 1 or more cards are discarded from your hand or play area by a card cost or effect: Shuffle a different card from your discard pile into your deck. Draw 1 card. (Limit once per phase.)\n[elder_sign] effect: +1. You may discard a card from your hand or play area.",
         "traits": "Elf. Medic. Warden.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/whmntKBQ/05366d6e47ea.png",
-        "thumbnail_url": "https://i.ibb.co/bgzBN3z2/8a673a3c2437.png",
-        "back_image_url": "https://i.ibb.co/39DJzSQ3/82bf31b521af.png",
-        "back_thumbnail_url": "https://i.ibb.co/gLcB7bMm/e6573bcef0e9.png"
+        "image_url": "https://eons-bg3.arkham.build/ce4090e0-4aa1-46d0-98a0-81e3db22a5bc-Front-Halsin-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976043620",
+        "thumbnail_url": "https://eons-bg3.arkham.build/ce4090e0-4aa1-46d0-98a0-81e3db22a5bc-Front-thumbnail.png?cachebust=1749976044669",
+        "back_image_url": "https://eons-bg3.arkham.build/ce4090e0-4aa1-46d0-98a0-81e3db22a5bc-Back-Halsin-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976045367",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/ce4090e0-4aa1-46d0-98a0-81e3db22a5bc-Back-thumbnail.png?cachebust=1749976046423"
       },
       {
         "code": "6d8671d6-75bd-4c71-b33f-7db769aae7b9",
@@ -1064,8 +1064,8 @@
         "text": "Halsin deck only.\nYou have 2 additional arcane slots, which can only be used to hold [[Ritual]] assets.\n[reaction] After an investigator at your locations fails at a skill test during a revelation ability, choose and discard a card from your hand: Cancel all effects of the failed test. That encounter card gains surge.",
         "traits": "Ritual.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/tT7pZ5Sb/26b350d13d2d.png",
-        "thumbnail_url": "https://i.ibb.co/pr4GgmdY/5a0efcd7ed3a.png"
+        "image_url": "https://eons-bg3.arkham.build/6d8671d6-75bd-4c71-b33f-7db769aae7b9-Front-Healing%20the%20Land-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976100999",
+        "thumbnail_url": "https://eons-bg3.arkham.build/6d8671d6-75bd-4c71-b33f-7db769aae7b9-Front-thumbnail.png?cachebust=1749976102107"
       },
       {
         "code": "11fea47c-a960-4876-99fa-ae2173140377",
@@ -1081,8 +1081,8 @@
         "text": "<b>Revelation</b> - Attach to your location. Attached location and each connecting location gets +1 shroud for each card beneath Shadow Curse.\n<b>Forced</b> - At the end of the round: Halsin places a random non-weakness card from his hand beneath Shadow Curse.\n               [action][action]: Discard Shadow Curse.",
         "traits": "Curse.",
         "type_code": "treachery",
-        "image_url": "https://i.ibb.co/6c7bQZ9F/958b513353fc.png",
-        "thumbnail_url": "https://i.ibb.co/nNks3JtH/a5f2311fe01b.png"
+        "image_url": "https://eons-bg3.arkham.build/11fea47c-a960-4876-99fa-ae2173140377-Front-Shadow%20Curse-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749975991112",
+        "thumbnail_url": "https://eons-bg3.arkham.build/11fea47c-a960-4876-99fa-ae2173140377-Front-thumbnail.png?cachebust=1749975991691"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1133,10 +1133,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Human. Civic. Chosen.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/cSVPfTsd/9fdd6fca5886.png",
-        "thumbnail_url": "https://i.ibb.co/HfPjGH0C/637079afdd1b.png",
-        "back_image_url": "https://i.ibb.co/Ygx82CK/a2cd3aa53235.png",
-        "back_thumbnail_url": "https://i.ibb.co/W16W7R3/2fc77ab88385.png"
+        "image_url": "https://eons-bg3.arkham.build/c4f77b50-e7cc-40d7-b876-3feb456ea19d-Front-Tav-Guardian1-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976135935",
+        "thumbnail_url": "https://eons-bg3.arkham.build/c4f77b50-e7cc-40d7-b876-3feb456ea19d-Front-thumbnail.png?cachebust=1749976136528",
+        "back_image_url": "https://eons-bg3.arkham.build/c4f77b50-e7cc-40d7-b876-3feb456ea19d-Back-Tav-Guardian1-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976137471",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/c4f77b50-e7cc-40d7-b876-3feb456ea19d-Back-thumbnail.png?cachebust=1749976138500"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1187,10 +1187,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Human. Hunter. Veteran.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/S4CRcvjt/0c7bc268cc31.png",
-        "thumbnail_url": "https://i.ibb.co/gnWwT22/6d0fa28cbac4.png",
-        "back_image_url": "https://i.ibb.co/35q40xZ7/3195a0c357a6.png",
-        "back_thumbnail_url": "https://i.ibb.co/Myn0WZTx/544dbc912d89.png"
+        "image_url": "https://eons-bg3.arkham.build/76dd8766-6454-41ba-b1cb-06615967c07b-Front-Tav-Guardian2-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976054194",
+        "thumbnail_url": "https://eons-bg3.arkham.build/76dd8766-6454-41ba-b1cb-06615967c07b-Front-thumbnail.png?cachebust=1749976054885",
+        "back_image_url": "https://eons-bg3.arkham.build/76dd8766-6454-41ba-b1cb-06615967c07b-Back-Tav-Guardian2-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976056761",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/76dd8766-6454-41ba-b1cb-06615967c07b-Back-thumbnail.png?cachebust=1749976057802"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1241,10 +1241,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Tiefling. Assistant. Wayfarer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/7JbfBjG4/8dead04c5aac.png",
-        "thumbnail_url": "https://i.ibb.co/KjfCDRzx/5f8b1379aa8f.png",
-        "back_image_url": "https://i.ibb.co/yFHjWcfr/de81a8c3990a.png",
-        "back_thumbnail_url": "https://i.ibb.co/vv1g5bmS/bec94ee8117a.png"
+        "image_url": "https://eons-bg3.arkham.build/dc2c34b7-2fab-4763-8ef6-aa8862d5ceef-Front-Tav-Guardian3-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976126058",
+        "thumbnail_url": "https://eons-bg3.arkham.build/dc2c34b7-2fab-4763-8ef6-aa8862d5ceef-Front-thumbnail.png?cachebust=1749976126643",
+        "back_image_url": "https://eons-bg3.arkham.build/dc2c34b7-2fab-4763-8ef6-aa8862d5ceef-Back-Tav-Guardian3-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976128253",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/dc2c34b7-2fab-4763-8ef6-aa8862d5ceef-Back-thumbnail.png?cachebust=1749976129256"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1295,10 +1295,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Satyr. Artist. Wayfarer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/TMqbxVZS/8f80ba168c49.png",
-        "thumbnail_url": "https://i.ibb.co/b5VDCLr2/44c81e30ea35.png",
-        "back_image_url": "https://i.ibb.co/6cbrGs9H/ad7b9a1e43b1.png",
-        "back_thumbnail_url": "https://i.ibb.co/GrrXzs6/1bca6a329f02.png"
+        "image_url": "https://eons-bg3.arkham.build/c550055f-54b6-47ab-9d1f-41ff2307422e-Front-Tav-Seeker1-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976201089",
+        "thumbnail_url": "https://eons-bg3.arkham.build/c550055f-54b6-47ab-9d1f-41ff2307422e-Front-thumbnail.png?cachebust=1749976202512",
+        "back_image_url": "https://eons-bg3.arkham.build/c550055f-54b6-47ab-9d1f-41ff2307422e-Back-Tav-Seeker1-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976204340",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/c550055f-54b6-47ab-9d1f-41ff2307422e-Back-thumbnail.png?cachebust=1749976204954"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1342,10 +1342,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Tiefling. Civic. Detective.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/JwCzvv59/8893de01c10f.png",
-        "thumbnail_url": "https://i.ibb.co/ZpwbnyLD/e0c88128c36a.png",
-        "back_image_url": "https://i.ibb.co/9kBQWcgW/764fcb53d6b6.png",
-        "back_thumbnail_url": "https://i.ibb.co/3524nW71/362982afec09.png"
+        "image_url": "https://eons-bg3.arkham.build/bd61e531-a7f3-47eb-bb1d-56a659fcf9a6-Front-Tav-Seeker2-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976024670",
+        "thumbnail_url": "https://eons-bg3.arkham.build/bd61e531-a7f3-47eb-bb1d-56a659fcf9a6-Front-thumbnail.png?cachebust=1749976025714",
+        "back_image_url": "https://eons-bg3.arkham.build/bd61e531-a7f3-47eb-bb1d-56a659fcf9a6-Back-Tav-Seeker2-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976027354",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/bd61e531-a7f3-47eb-bb1d-56a659fcf9a6-Back-thumbnail.png?cachebust=1749976028480"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1396,10 +1396,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Elf. Assistant. Scholar.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/BRm8sPW/48e153f36eb1.png",
-        "thumbnail_url": "https://i.ibb.co/DPc6MDkm/64a0b22ea10a.png",
-        "back_image_url": "https://i.ibb.co/DDZYCNZF/e1939eed1920.png",
-        "back_thumbnail_url": "https://i.ibb.co/5xR7Kk90/b1590d267ff1.png"
+        "image_url": "https://eons-bg3.arkham.build/f60e7dca-6fea-4ee4-8ef2-8032718dcb33-Front-Tav-Seeker3-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976086907",
+        "thumbnail_url": "https://eons-bg3.arkham.build/f60e7dca-6fea-4ee4-8ef2-8032718dcb33-Front-thumbnail.png?cachebust=1749976088657",
+        "back_image_url": "https://eons-bg3.arkham.build/f60e7dca-6fea-4ee4-8ef2-8032718dcb33-Back-Tav-Seeker3-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976090417",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/f60e7dca-6fea-4ee4-8ef2-8032718dcb33-Back-thumbnail.png?cachebust=1749976091479"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1450,10 +1450,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Half-Elf. Drifter. Hunter.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/5gCckLbL/2b5e853aab44.png",
-        "thumbnail_url": "https://i.ibb.co/GvTm38WW/6d6d34956975.png",
-        "back_image_url": "https://i.ibb.co/rK4Sh6j8/2c60d0b4ea51.png",
-        "back_thumbnail_url": "https://i.ibb.co/s92dMPPv/c7d902009311.png"
+        "image_url": "https://eons-bg3.arkham.build/426b3c9a-1da1-4678-a4f6-0f0d461cc981-Front-Tav-Rogue1-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976224235",
+        "thumbnail_url": "https://eons-bg3.arkham.build/426b3c9a-1da1-4678-a4f6-0f0d461cc981-Front-thumbnail.png?cachebust=1749976225536",
+        "back_image_url": "https://eons-bg3.arkham.build/426b3c9a-1da1-4678-a4f6-0f0d461cc981-Back-Tav-Rogue1-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976227333",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/426b3c9a-1da1-4678-a4f6-0f0d461cc981-Back-thumbnail.png?cachebust=1749976227903"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1504,10 +1504,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Elf. Drifter. Performer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/B2bsGDpT/60a4780bc8a8.png",
-        "thumbnail_url": "https://i.ibb.co/bM81J7S0/11b9ea29e173.png",
-        "back_image_url": "https://i.ibb.co/NnLVsS8Y/2bf1b3ddf266.png",
-        "back_thumbnail_url": "https://i.ibb.co/Y4xNgTkk/15d68881dc5c.png"
+        "image_url": "https://eons-bg3.arkham.build/41c8e28a-39b7-4b2b-8faa-e8ad551ba695-Front-Tav-Rogue2-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976150469",
+        "thumbnail_url": "https://eons-bg3.arkham.build/41c8e28a-39b7-4b2b-8faa-e8ad551ba695-Front-thumbnail.png?cachebust=1749976151563",
+        "back_image_url": "https://eons-bg3.arkham.build/41c8e28a-39b7-4b2b-8faa-e8ad551ba695-Back-Tav-Rogue2-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976153266",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/41c8e28a-39b7-4b2b-8faa-e8ad551ba695-Back-thumbnail.png?cachebust=1749976154396"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1558,10 +1558,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Human. Criminal. Veteran.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/LzvxcmR1/f0928e2c9396.png",
-        "thumbnail_url": "https://i.ibb.co/qFd2cx3P/47be94e05ef4.png",
-        "back_image_url": "https://i.ibb.co/Xk2CJxSv/fe0a2a8ceca0.png",
-        "back_thumbnail_url": "https://i.ibb.co/gbMrHg4S/c5a0718d5084.png"
+        "image_url": "https://eons-bg3.arkham.build/9a3d692f-d061-4c52-93df-120b8cf1afe2-Front-Tav-Rogue3-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976230278",
+        "thumbnail_url": "https://eons-bg3.arkham.build/9a3d692f-d061-4c52-93df-120b8cf1afe2-Front-thumbnail.png?cachebust=1749976230861",
+        "back_image_url": "https://eons-bg3.arkham.build/9a3d692f-d061-4c52-93df-120b8cf1afe2-Back-Tav-Rogue3-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976233299",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/9a3d692f-d061-4c52-93df-120b8cf1afe2-Back-thumbnail.png?cachebust=1749976234721"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1612,10 +1612,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Human. Criminal. Sorcerer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/6c6hjqp7/d4682cc494ff.png",
-        "thumbnail_url": "https://i.ibb.co/hxjLnydV/da2fa8fc5774.png",
-        "back_image_url": "https://i.ibb.co/nMsHw1Vh/ee87ac36ae96.png",
-        "back_thumbnail_url": "https://i.ibb.co/4wbwc9WY/9b5a27234f72.png"
+        "image_url": "https://eons-bg3.arkham.build/da0ac87b-0d5a-441a-b5fb-e71343807bea-Front-Tav-Mystic1-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976059798",
+        "thumbnail_url": "https://eons-bg3.arkham.build/da0ac87b-0d5a-441a-b5fb-e71343807bea-Front-thumbnail.png?cachebust=1749976060378",
+        "back_image_url": "https://eons-bg3.arkham.build/da0ac87b-0d5a-441a-b5fb-e71343807bea-Back-Tav-Mystic1-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976061071",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/da0ac87b-0d5a-441a-b5fb-e71343807bea-Back-thumbnail.png?cachebust=1749976061733"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1666,10 +1666,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Half-Elf. Chosen. Detective.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/rRTZS4VG/e063e7edb487.png",
-        "thumbnail_url": "https://i.ibb.co/rfGTMCFL/a8870a38fee1.png",
-        "back_image_url": "https://i.ibb.co/9kF8kp2s/22f8a0e6c683.png",
-        "back_thumbnail_url": "https://i.ibb.co/BphZVLs/b9ec1dd71b87.png"
+        "image_url": "https://eons-bg3.arkham.build/7977b3a0-710e-4130-98ef-b27bf1fa7147-Front-Tav-Mystic2-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749975984288",
+        "thumbnail_url": "https://eons-bg3.arkham.build/7977b3a0-710e-4130-98ef-b27bf1fa7147-Front-thumbnail.png?cachebust=1749975985365",
+        "back_image_url": "https://eons-bg3.arkham.build/7977b3a0-710e-4130-98ef-b27bf1fa7147-Back-Tav-Mystic2-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749975987322",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/7977b3a0-710e-4130-98ef-b27bf1fa7147-Back-thumbnail.png?cachebust=1749975988413"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1720,10 +1720,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Drow. Clairvoyant. Sorcerer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/jPT5LfWm/24155c16df16.png",
-        "thumbnail_url": "https://i.ibb.co/zTRNRhgh/1b6b19cc94fa.png",
-        "back_image_url": "https://i.ibb.co/qwkzXSt/4d474f53ae95.png",
-        "back_thumbnail_url": "https://i.ibb.co/q3QsfYSv/ac08af592c84.png"
+        "image_url": "https://eons-bg3.arkham.build/93c44fa5-06a9-4341-8d73-d0039e1957cd-Front-Tav-Mystic3-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976218248",
+        "thumbnail_url": "https://eons-bg3.arkham.build/93c44fa5-06a9-4341-8d73-d0039e1957cd-Front-thumbnail.png?cachebust=1749976218870",
+        "back_image_url": "https://eons-bg3.arkham.build/93c44fa5-06a9-4341-8d73-d0039e1957cd-Back-Tav-Mystic3-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976221196",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/93c44fa5-06a9-4341-8d73-d0039e1957cd-Back-thumbnail.png?cachebust=1749976222299"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1774,10 +1774,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Elf. Blessed. Socialite.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/p669FhvW/e5e226cfb8b8.png",
-        "thumbnail_url": "https://i.ibb.co/xSfQBN08/e9218b83fa7c.png",
-        "back_image_url": "https://i.ibb.co/tMJm34W8/e215e352981c.png",
-        "back_thumbnail_url": "https://i.ibb.co/HTBjJhLj/a2fa1711c4ed.png"
+        "image_url": "https://eons-bg3.arkham.build/d52b1e16-f34c-439e-8769-14a00e6b799d-Front-Tav-Survivor1-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976094474",
+        "thumbnail_url": "https://eons-bg3.arkham.build/d52b1e16-f34c-439e-8769-14a00e6b799d-Front-thumbnail.png?cachebust=1749976095588",
+        "back_image_url": "https://eons-bg3.arkham.build/d52b1e16-f34c-439e-8769-14a00e6b799d-Back-Tav-Survivor1-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976097330",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/d52b1e16-f34c-439e-8769-14a00e6b799d-Back-thumbnail.png?cachebust=1749976098391"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1828,10 +1828,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Human. Cursed. Sorcerer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/yFG3gp9D/621409e485e1.png",
-        "thumbnail_url": "https://i.ibb.co/CsStsL7M/c64391878954.png",
-        "back_image_url": "https://i.ibb.co/gM0fSR92/aa45de6603bd.png",
-        "back_thumbnail_url": "https://i.ibb.co/C3y0b5Hc/6703cc59f13a.png"
+        "image_url": "https://eons-bg3.arkham.build/f6b45613-38fd-4c44-8bc5-25efe771aa37-Front-Tav-Survivor2-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976112639",
+        "thumbnail_url": "https://eons-bg3.arkham.build/f6b45613-38fd-4c44-8bc5-25efe771aa37-Front-thumbnail.png?cachebust=1749976113700",
+        "back_image_url": "https://eons-bg3.arkham.build/f6b45613-38fd-4c44-8bc5-25efe771aa37-Back-Tav-Survivor2-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976115783",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/f6b45613-38fd-4c44-8bc5-25efe771aa37-Back-thumbnail.png?cachebust=1749976116845"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1882,10 +1882,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Tiefling. Drifter. Performer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/0yXDV3wz/dac70d1d79ac.png",
-        "thumbnail_url": "https://i.ibb.co/zTfLsC3V/36e8c23bb00f.png",
-        "back_image_url": "https://i.ibb.co/yB0rmLwk/36b205759f95.png",
-        "back_thumbnail_url": "https://i.ibb.co/sdDPb8nt/7775ec9c7468.png"
+        "image_url": "https://eons-bg3.arkham.build/98124c95-87a4-4bbb-b97a-db2f10028f0f-Front-Tav-Survivor3-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976033021",
+        "thumbnail_url": "https://eons-bg3.arkham.build/98124c95-87a4-4bbb-b97a-db2f10028f0f-Front-thumbnail.png?cachebust=1749976033572",
+        "back_image_url": "https://eons-bg3.arkham.build/98124c95-87a4-4bbb-b97a-db2f10028f0f-Back-Tav-Survivor3-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976035156",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/98124c95-87a4-4bbb-b97a-db2f10028f0f-Back-thumbnail.png?cachebust=1749976036235"
       },
       {
         "code": "5885c2ba-cfe9-460e-9241-934bcfd49ba4",
@@ -1902,8 +1902,8 @@
         "text": "Tav deck only. Fast. Play only during your turn.\nChoose one -- \n- Choose one of your skills. Until the end of your turn, set the base value of that skill to 5.\n- Choose a non-weakness card in your discard pile. Add it to your hand.",
         "traits": "Spirit.",
         "type_code": "event",
-        "image_url": "https://i.ibb.co/whyMykyR/0ad28a4790a8.png",
-        "thumbnail_url": "https://i.ibb.co/twkMg7cm/f46088da845b.png"
+        "image_url": "https://eons-bg3.arkham.build/5885c2ba-cfe9-460e-9241-934bcfd49ba4-Front-Illithid%20Potential-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976146298",
+        "thumbnail_url": "https://eons-bg3.arkham.build/5885c2ba-cfe9-460e-9241-934bcfd49ba4-Front-thumbnail.png?cachebust=1749976147398"
       },
       {
         "code": "db75d71f-5112-4ce0-b8ec-6758ea181cea",
@@ -1919,8 +1919,8 @@
         "text": "Gale deck only. Permanent.\n[reaction] When you would test your [willpower], [combat], or [agility] on a [[Spell]] card: Test your [intellect] instead. All modifiers on that card modify your [intellect] instead.",
         "traits": "Talent. Chosen.",
         "type_code": "asset",
-        "image_url": "https://i.ibb.co/4RVsLmqp/f002ce6dda21.png",
-        "thumbnail_url": "https://i.ibb.co/DH8cTX9f/1e0bf75187a5.png"
+        "image_url": "https://eons-bg3.arkham.build/db75d71f-5112-4ce0-b8ec-6758ea181cea-Front-Mystra's%20Chosen-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976107147",
+        "thumbnail_url": "https://eons-bg3.arkham.build/db75d71f-5112-4ce0-b8ec-6758ea181cea-Front-thumbnail.png?cachebust=1749976107860"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -1971,10 +1971,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Drow. Detective. Scholar.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/S7QgYyZk/74c9a68b9e27.png",
-        "thumbnail_url": "https://i.ibb.co/s9KfD3cf/2789498873db.png",
-        "back_image_url": "https://i.ibb.co/5C6948c/e4720da6f967.png",
-        "back_thumbnail_url": "https://i.ibb.co/B2S9MW4R/d01b46b40fc8.png"
+        "image_url": "https://eons-bg3.arkham.build/f60b6125-b912-4a0d-b591-55122ce26857-Front-Tav-Guardian4-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976080721",
+        "thumbnail_url": "https://eons-bg3.arkham.build/f60b6125-b912-4a0d-b591-55122ce26857-Front-thumbnail.png?cachebust=1749976081834",
+        "back_image_url": "https://eons-bg3.arkham.build/f60b6125-b912-4a0d-b591-55122ce26857-Back-Tav-Guardian4-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976083498",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/f60b6125-b912-4a0d-b591-55122ce26857-Back-thumbnail.png?cachebust=1749976084544"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -2025,10 +2025,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Human. Scholar. Sorcerer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/Z6StwNVC/f1f5b02153b2.png",
-        "thumbnail_url": "https://i.ibb.co/7tWDM6X9/5b05804db5b9.png",
-        "back_image_url": "https://i.ibb.co/Zpd1HDTN/6535fe2cbd46.png",
-        "back_thumbnail_url": "https://i.ibb.co/LDM5qpnC/1a4abdf159d0.png"
+        "image_url": "https://eons-bg3.arkham.build/d9e33099-f9f6-4e67-ba1d-e2937de4ff61-Front-Tav-Seeker4-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976249820",
+        "thumbnail_url": "https://eons-bg3.arkham.build/d9e33099-f9f6-4e67-ba1d-e2937de4ff61-Front-thumbnail.png?cachebust=1749976250969",
+        "back_image_url": "https://eons-bg3.arkham.build/d9e33099-f9f6-4e67-ba1d-e2937de4ff61-Back-Tav-Seeker4-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976252572",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/d9e33099-f9f6-4e67-ba1d-e2937de4ff61-Back-thumbnail.png?cachebust=1749976253150"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -2079,10 +2079,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Satyr. Civic. Dreamer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/vCyXtXRL/71bfa5f6097e.png",
-        "thumbnail_url": "https://i.ibb.co/xW6xwJ2/3aad4851397d.png",
-        "back_image_url": "https://i.ibb.co/1fmcZ89g/0f65021a5910.png",
-        "back_thumbnail_url": "https://i.ibb.co/k2q4mvhn/87642436902c.png"
+        "image_url": "https://eons-bg3.arkham.build/33da10d0-ecf2-4766-a25d-4dbff91ce71d-Front-Tav-Rogue4-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976205716",
+        "thumbnail_url": "https://eons-bg3.arkham.build/33da10d0-ecf2-4766-a25d-4dbff91ce71d-Front-thumbnail.png?cachebust=1749976206766",
+        "back_image_url": "https://eons-bg3.arkham.build/33da10d0-ecf2-4766-a25d-4dbff91ce71d-Back-Tav-Rogue4-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976208370",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/33da10d0-ecf2-4766-a25d-4dbff91ce71d-Back-thumbnail.png?cachebust=1749976209410"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -2133,10 +2133,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Fairy. Blessed. Drifter.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/670fDtCL/6c09f3aaac6e.png",
-        "thumbnail_url": "https://i.ibb.co/WWKTvCtp/443ce271e40b.png",
-        "back_image_url": "https://i.ibb.co/wFjvpP0X/70835391e67b.png",
-        "back_thumbnail_url": "https://i.ibb.co/DHMtXKBj/178f6f78c895.png"
+        "image_url": "https://eons-bg3.arkham.build/7fdd817a-00bd-43de-ba62-c3b8ff36796e-Front-Tav-Mystic4-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976161014",
+        "thumbnail_url": "https://eons-bg3.arkham.build/7fdd817a-00bd-43de-ba62-c3b8ff36796e-Front-thumbnail.png?cachebust=1749976162087",
+        "back_image_url": "https://eons-bg3.arkham.build/7fdd817a-00bd-43de-ba62-c3b8ff36796e-Back-Tav-Mystic4-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976163623",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/7fdd817a-00bd-43de-ba62-c3b8ff36796e-Back-thumbnail.png?cachebust=1749976164726"
       },
       {
         "back_flavor": "You awake inside a gargantuan illithid ship where mind flayers infect you with an illithid tadpole, a parasite that enthralls and transforms you into a mind flayer. The clock is ticking and you will soon be experiencing the first symptoms of your transformation. Your fate lies in your hands. What will you do?",
@@ -2187,10 +2187,10 @@
         "text": "At deck creation, choose one --\n- You may include up to 2 different cards with the Class keyword in your deck.\n- Reduce the experience cost to upgrade a card with the Subclass keyword by 4.\n[elder_sign] effect: +1. Draw 1 card and gain 1 resource.",
         "traits": "Dryad. Warden. Wayfarer.",
         "type_code": "investigator",
-        "image_url": "https://i.ibb.co/Q7fB1BC6/a2dfe5005daa.png",
-        "thumbnail_url": "https://i.ibb.co/ks1mCY1M/c38674fb9bc0.png",
-        "back_image_url": "https://i.ibb.co/4RJL5pNf/c69db9e176de.png",
-        "back_thumbnail_url": "https://i.ibb.co/TM7kfH5Y/fb46a3d27a45.png"
+        "image_url": "https://eons-bg3.arkham.build/8c65e912-c191-4f88-aa86-4c072bf65334-Front-Tav-Survivor4-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?cachebust=1749976139352",
+        "thumbnail_url": "https://eons-bg3.arkham.build/8c65e912-c191-4f88-aa86-4c072bf65334-Front-thumbnail.png?cachebust=1749976140693",
+        "back_image_url": "https://eons-bg3.arkham.build/8c65e912-c191-4f88-aa86-4c072bf65334-Back-Tav-Survivor4-resolution-300-compressionquality-1.00-bleed-0.0-Back.png?cachebust=1749976141868",
+        "back_thumbnail_url": "https://eons-bg3.arkham.build/8c65e912-c191-4f88-aa86-4c072bf65334-Back-thumbnail.png?cachebust=1749976143483"
       },
       {
         "code": "3962ddbc-7b44-4ef7-8e3c-3e8c11f8c7d8",
@@ -2220,7 +2220,7 @@
         "position": 53,
         "quantity": 1,
         "subname": "Berserker",
-        "text": "Subclass. Permanent.\nBarbarian enters play with 2 additional rage.\n[reaction] <i>Frenzy --</i> While enraged, when you attack an enemy, if you have <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] or if a chaos token with a non-negative modifier is revealed during an attack: You deal an additional damage.",
+        "text": "Subclass. Permanent.\nBarbarian enters play with 2 additional rage.\n[reaction] <i>Frenzy --</i> While enraged, when you attack an enemy, if you have <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] or if a chaos token with a non-negative modifier is revealed during an attack: You deal an additional damage.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4,
@@ -2402,7 +2402,7 @@
         "position": 64,
         "quantity": 1,
         "subname": "College of Valor",
-        "text": "Subclass. Permanent.\nYou may place a card on the bottom of your deck instead of on top of your deck for <i>Bardic Inspiration</i>.\n[reaction] <i>Combat Inspiration --</i> After you trigger <i>Bardic Inspiration</i>: The performing investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test and gains 1 resource.",
+        "text": "Subclass. Permanent.\nYou may place a card on the bottom of your deck instead of on top of your deck for <i>Bardic Inspiration</i>.\n[reaction] <i>Combat Inspiration --</i> After you trigger <i>Bardic Inspiration</i>: The performing investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test and gains 1 resource.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4,
@@ -2473,7 +2473,7 @@
         "position": 68,
         "quantity": 1,
         "subname": "Light Domain",
-        "text": "Subclass. Permanent.\n[reaction] <i>Radiance of the Dawn --</i> After one of your card effects cancels an attack or damage/horror: Choose an investigator to get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] on their next skill test.\n[reaction] <i>Warding Flare --</i> When an investigator would be dealt damage and/or horror, spend 1 divinity: Cancel up to 2 damage and/or horror dealt.",
+        "text": "Subclass. Permanent.\n[reaction] <i>Radiance of the Dawn --</i> After one of your card effects cancels an attack or damage/horror: Choose an investigator to get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] on their next skill test.\n[reaction] <i>Warding Flare --</i> When an investigator would be dealt damage and/or horror, spend 1 divinity: Cancel up to 2 damage and/or horror dealt.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4,
@@ -2526,7 +2526,7 @@
         "position": 71,
         "quantity": 1,
         "subname": "Circle of the Land",
-        "text": "Subclass. Permanent.\n<i>Nature's Ward --</i> While you control a Wild Shape asset, do not perform <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] tests when you take damage/horror.\n[action] <i>Land's Stride -- </i>Exhaust Druid: <b>Parley.</b> Attach a player card attached to your location to a connecting location, or vice versa. As it attaches, you may move to that location as well.",
+        "text": "Subclass. Permanent.\n<i>Nature's Ward --</i> While you control a Wild Shape asset, do not perform <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] tests when you take damage/horror.\n[action] <i>Land's Stride -- </i>Exhaust Druid: <b>Parley.</b> Attach a player card attached to your location to a connecting location, or vice versa. As it attaches, you may move to that location as well.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4,
@@ -2659,7 +2659,7 @@
         "pack_code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
         "position": 79,
         "quantity": 1,
-        "text": "Wild Shape. Bonded (Druid).\nSet your base skill values to [willpower] 4 | [intellect] 2 | [combat] 4 | [agility] 2.\n[free] <i>Dancing Lights --</i> Exhaust Deep Rothé: The performing investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test.",
+        "text": "Wild Shape. Bonded (Druid).\nSet your base skill values to [willpower] 4 | [intellect] 2 | [combat] 4 | [agility] 2.\n[free] <i>Dancing Lights --</i> Exhaust Deep Rothé: The performing investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test.",
         "traits": "Creature.",
         "type_code": "asset",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749763434/jvrkkwe0mthcpqwykz3a.png",
@@ -2707,7 +2707,7 @@
         "pack_code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
         "position": 82,
         "quantity": 1,
-        "text": "Wild Shape. Bonded (Druid).\nSet your base skill values to [willpower] 4 | [intellect] 4 | [combat] 1 | [agility] 3.\nYou can have up to 2 <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] cards in play.\n[reaction] After you play a card with the concentration keyword: Heal 1 damage or 1 horror from Elemental.",
+        "text": "Wild Shape. Bonded (Druid).\nSet your base skill values to [willpower] 4 | [intellect] 4 | [combat] 1 | [agility] 3.\nYou can have up to 2 <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] cards in play.\n[reaction] After you play a card with the concentration keyword: Heal 1 damage or 1 horror from Elemental.",
         "traits": "Creature.",
         "type_code": "asset",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749763233/kjzazs3gsiwracrdkuza.png",
@@ -3085,7 +3085,7 @@
         "position": 101,
         "quantity": 1,
         "subname": "Gloomstalker",
-        "text": "Subclass. Permanent.\nYou get +1 [agility].\n[reaction] <i>Dread Ambusher --</i> After your turn begins, if no actions have been completed this phase and there are no enemies at your location with an evade value higher than your [agility]: Take an action. You get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] during this action.",
+        "text": "Subclass. Permanent.\nYou get +1 [agility].\n[reaction] <i>Dread Ambusher --</i> After your turn begins, if no actions have been completed this phase and there are no enemies at your location with an evade value higher than your [agility]: Take an action. You get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] during this action.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4,
@@ -3288,7 +3288,7 @@
         "pack_code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
         "position": 113,
         "quantity": 1,
-        "text": "Bonded (Sorcerer). Wild Magic only.\n<b>Revelation</b> - Put Summoned Djinni into play in your play area. Up to thrice this round, when an investigator initiates a skill test, that investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for that test.\n<b>Forced</b> - At the end of the round: Set Summoned Djinni aside, out of play.",
+        "text": "Bonded (Sorcerer). Wild Magic only.\n<b>Revelation</b> - Put Summoned Djinni into play in your play area. Up to thrice this round, when an investigator initiates a skill test, that investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for that test.\n<b>Forced</b> - At the end of the round: Set Summoned Djinni aside, out of play.",
         "traits": "Boon.",
         "type_code": "event",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749763374/uo2qvlmy71x9orswfr3x.png",
@@ -3303,7 +3303,7 @@
         "pack_code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
         "position": 114,
         "quantity": 1,
-        "text": "Bonded (Sorcerer). Wild Magic only.\n<b>Revelation</b> - Put Turn Magic into play in your play area and attach a random asset from your collection (Banishment, Telekinesis, Freedom of Movement, Daylight). It does not take up any slots or <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration]. Return it to the collection when it leaves play.\n<b>Forced</b> - At the end of the round: Set Turn Magic aside, out of play.",
+        "text": "Bonded (Sorcerer). Wild Magic only.\n<b>Revelation</b> - Put Turn Magic into play in your play area and attach a random asset from your collection (Banishment, Telekinesis, Freedom of Movement, Daylight). It does not take up any slots or <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration]. Return it to the collection when it leaves play.\n<b>Forced</b> - At the end of the round: Set Turn Magic aside, out of play.",
         "traits": "Boon.",
         "type_code": "event",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749763509/yfxavcdjy5fo7efcvfq6.png",
@@ -3766,7 +3766,7 @@
         "pack_code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
         "position": 413,
         "quantity": 1,
-        "text": "Wild Shape. Bonded (Druid). Stars only. Expire 2.\nReduce the difficulty of your <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] tests by 2.\n[free] Exhaust Dragon: Reduce the difficulty of this test by X. X is the number of [willpower] and [combat] icons on the top card of your deck when you triggered this ability, not counting [wild] icons except on Druid cards.",
+        "text": "Wild Shape. Bonded (Druid). Stars only. Expire 2.\nReduce the difficulty of your <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] tests by 2.\n[free] Exhaust Dragon: Reduce the difficulty of this test by X. X is the number of [willpower] and [combat] icons on the top card of your deck when you triggered this ability, not counting [wild] icons except on Druid cards.",
         "traits": "Augury.",
         "type_code": "asset",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749763443/wyr9pqo9ve9ybqzmu0x1.png",
@@ -3837,7 +3837,7 @@
         "position": 417,
         "quantity": 1,
         "subname": "Way of the Drunken Master",
-        "text": "Subclass. Permanent.\nYou get <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] on your skill tests.\n<i>Intoxicating Strike --</i> Each icon on cards you committed that does not match the skill being tested reduces the difficulty of the test by 1. If you reduced the difficulty of a test to 0 this way, place 1 ki on Monk.",
+        "text": "Subclass. Permanent.\nYou get <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] on your skill tests.\n<i>Intoxicating Strike --</i> Each icon on cards you committed that does not match the skill being tested reduces the difficulty of the test by 1. If you reduced the difficulty of a test to 0 this way, place 1 ki on Monk.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4,
@@ -4009,7 +4009,7 @@
         "position": 427,
         "quantity": 1,
         "subname": "Bladesinging",
-        "text": "Subclass. Permanent.\n[reaction] When you activate an [action] ability you have already activated this round: You get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] while resolving it.\n[reaction] <i>Training in War and Song --</i> When you would reveal chaos tokens with <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage]: Lose <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test. After this test ends, take an action (Limit once per round.)",
+        "text": "Subclass. Permanent.\n[reaction] When you activate an [action] ability you have already activated this round: You get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] while resolving it.\n[reaction] <i>Training in War and Song --</i> When you would reveal chaos tokens with <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage]: Lose <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test. After this test ends, take an action (Limit once per round.)",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 4,
@@ -4043,7 +4043,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
-        "text": "Barbarian deck only.\nFast. Play when you initiate an attack or evasion attempt.\nYou get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this skill test. Draw 1 card.",
+        "text": "Barbarian deck only.\nFast. Play when you initiate an attack or evasion attempt.\nYou get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this skill test. Draw 1 card.",
         "traits": "Spirit. Tactic.",
         "type_code": "event",
         "xp": 0,
@@ -4062,7 +4062,7 @@
         "position": 126,
         "quantity": 2,
         "skill_intellect": 2,
-        "text": "Barbarian deck only.\nFast. Play when an investigator at your location draws a non-weakness treachery card.\nTest [agility] (3). If you succeed, discover 2 clues at your location and that investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] while resolving revelation abilities on that treachery card.",
+        "text": "Barbarian deck only.\nFast. Play when an investigator at your location draws a non-weakness treachery card.\nTest [agility] (3). If you succeed, discover 2 clues at your location and that investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] while resolving revelation abilities on that treachery card.",
         "traits": "Spirit. Insight.",
         "type_code": "event",
         "xp": 2,
@@ -4101,7 +4101,7 @@
         "quantity": 2,
         "skill_combat": 1,
         "skill_willpower": 1,
-        "text": "Barbarian deck only.\nChange the conditions of <i>Rage</i> from \"After your turn ends or after you fail a skill test\" to \"After your turn ends during the next round.\"\n[reaction] After you fail a skill test: You get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] on your next skill test this round.",
+        "text": "Barbarian deck only.\nChange the conditions of <i>Rage</i> from \"After your turn ends or after you fail a skill test\" to \"After your turn ends during the next round.\"\n[reaction] After you fail a skill test: You get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] on your next skill test this round.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 2,
@@ -4301,8 +4301,8 @@
             "text_change": "append"
           }
         ],
-        "customization_change": "You may choose 1 additional investigator.\nYou may choose 1 additional investigator.\nPlaying Bless does not provoke attacks of opportunity.\nYou may choose investigators at connecting locations as well.\nFor <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration], you may test health or sanity. After Bless enters play, you may choose for it to take up a body slot instead of an arcane slot.\nCleric and Paladin deck only. Customizable. <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity. Expire 3.\nBlessed adds 2 <ble> tokens instead of 1. If you cannot add any <ble> tokens to the chaos bag, the performing investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test.",
-        "customization_text": "□ <b>Upcast.</b> You may choose 1 additional investigator.\n□ <b>Upcast.</b> You may choose 1 additional investigator.\n□ <b>Warden.</b> Playing Bless does not provoke attacks of opportunity.\n□ <b>Greater Range.</b> You may choose investigators at connecting locations as well.\n□ <b>Diversified.</b> For <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration], you may test health or sanity. After Bless enters play, you may choose for it to take up a body slot instead of an arcane slot.\n□□ <b>Holy Warrior.</b> Bless is now a \"Cleric and Paladin deck only, except Oathbreaker\" card.\n□□□ <b>Divine Favor.</b> Blessed adds 2 <ble> tokens instead of 1. If you cannot add any <ble> tokens to the chaos bag, the performing investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test.",
+        "customization_change": "You may choose 1 additional investigator.\nYou may choose 1 additional investigator.\nPlaying Bless does not provoke attacks of opportunity.\nYou may choose investigators at connecting locations as well.\nFor <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration], you may test health or sanity. After Bless enters play, you may choose for it to take up a body slot instead of an arcane slot.\nCleric and Paladin deck only. Customizable. <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity. Expire 3.\nBlessed adds 2 <ble> tokens instead of 1. If you cannot add any <ble> tokens to the chaos bag, the performing investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test.",
+        "customization_text": "□ <b>Upcast.</b> You may choose 1 additional investigator.\n□ <b>Upcast.</b> You may choose 1 additional investigator.\n□ <b>Warden.</b> Playing Bless does not provoke attacks of opportunity.\n□ <b>Greater Range.</b> You may choose investigators at connecting locations as well.\n□ <b>Diversified.</b> For <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration], you may test health or sanity. After Bless enters play, you may choose for it to take up a body slot instead of an arcane slot.\n□□ <b>Holy Warrior.</b> Bless is now a \"Cleric and Paladin deck only, except Oathbreaker\" card.\n□□□ <b>Divine Favor.</b> Blessed adds 2 <ble> tokens instead of 1. If you cannot add any <ble> tokens to the chaos bag, the performing investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test.",
         "deck_limit": 2,
         "faction_code": "guardian",
         "faction2_code": "mystic",
@@ -4314,7 +4314,7 @@
         "quantity": 2,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "Cleric deck only. Customizable. <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity. Expire 3.\n[reaction] After Bless enters play: Choose up to 2 investigators at your location without a copy of Blessed under their control. Search your bonded cards for Blessed and put one into play under the control of each chosen investigator.",
+        "text": "Cleric deck only. Customizable. <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity. Expire 3.\n[reaction] After Bless enters play: Choose up to 2 investigators at your location without a copy of Blessed under their control. Search your bonded cards for Blessed and put one into play under the control of each chosen investigator.",
         "traits": "Spell. Blessed.",
         "type_code": "asset",
         "xp": 0,
@@ -4335,7 +4335,7 @@
         "skill_combat": 1,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "Cleric deck only. Uses (3 charges).\n[action] Spend 1 charge: <b>Fight.</b> You may use [willpower] instead of [combat] and get +1 skill value for this attack. If you succeed, deal +1 damage and the next attack performed against the attacked enemy gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage].",
+        "text": "Cleric deck only. Uses (3 charges).\n[action] Spend 1 charge: <b>Fight.</b> You may use [willpower] instead of [combat] and get +1 skill value for this attack. If you succeed, deal +1 damage and the next attack performed against the attacked enemy gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage].",
         "traits": "Spell.",
         "type_code": "asset",
         "xp": 1,
@@ -4378,7 +4378,7 @@
         "skill_combat": 1,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "Cleric deck only. <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity.\n[reaction] When an enemy enters your location, or vice versa: Test [willpower] (3). If a [bless] or [elder_sign] token was revealed during this test, deal 1 damage to that enemy. If you succeed, deal 1 damage to that enemy. Cannot be triggered on engaged enemies moving with you.",
+        "text": "Cleric deck only. <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity.\n[reaction] When an enemy enters your location, or vice versa: Test [willpower] (3). If a [bless] or [elder_sign] token was revealed during this test, deal 1 damage to that enemy. If you succeed, deal 1 damage to that enemy. Cannot be triggered on engaged enemies moving with you.",
         "traits": "Spell. Spirit. Blessed.",
         "type_code": "asset",
         "xp": 3,
@@ -4480,7 +4480,7 @@
         "position": 145,
         "quantity": 2,
         "skill_wild": 1,
-        "text": "Druid deck only. <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\n<b>Parley.</b> Attach to your location. Attached location gets -1 shroud.\n[reaction] After you attach Moonbeam to a location: Deal 1 damage to an enemy at that location.\n[action] Detach Moonbeam from your location: Attach it to a connecting location.",
+        "text": "Druid deck only. <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\n<b>Parley.</b> Attach to your location. Attached location gets -1 shroud.\n[reaction] After you attach Moonbeam to a location: Deal 1 damage to an enemy at that location.\n[action] Detach Moonbeam from your location: Attach it to a connecting location.",
         "traits": "Spell. Connection.",
         "type_code": "event",
         "xp": 2,
@@ -4520,7 +4520,7 @@
         "position": 147,
         "quantity": 2,
         "skill_wild": 3,
-        "text": "Druid deck only. <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\n<b>Parley.</b> Attach to your location.\n[reaction] After an enemy enters attached location: Exhaust that enemy and place 1 damage on attached location, as a flammable token.\n[free]: Discard a non-weakness treachery attached to attached location.",
+        "text": "Druid deck only. <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\n<b>Parley.</b> Attach to your location.\n[reaction] After an enemy enters attached location: Exhaust that enemy and place 1 damage on attached location, as a flammable token.\n[free]: Discard a non-weakness treachery attached to attached location.",
         "traits": "Spell. Connection.",
         "type_code": "event",
         "xp": 5,
@@ -4560,7 +4560,7 @@
         "skill_agility": 1,
         "skill_combat": 1,
         "skill_wild": 1,
-        "text": "Fighter deck only.\nFast. Play after you resolve a fight ability on a card you control.\nResolve its effects again. You get +2 skill value and <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test. If you succeed by 2 or more, you may shuffle Extra Attack into your deck at the end of your turn.",
+        "text": "Fighter deck only.\nFast. Play after you resolve a fight ability on a card you control.\nResolve its effects again. You get +2 skill value and <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test. If you succeed by 2 or more, you may shuffle Extra Attack into your deck at the end of your turn.",
         "traits": "Tactic. Trick.",
         "type_code": "event",
         "xp": 2,
@@ -4654,7 +4654,7 @@
         "skill_agility": 1,
         "skill_combat": 1,
         "skill_wild": 2,
-        "text": "Fighter deck only.\nFast. Play after you resolve a fight ability on a card you control.\nResolve its effects again. You get +3 skill value and <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test. If you succeed, you may shuffle Extra Attack into your deck at the end of your turn. If you succeed by 2 or more, you may return it to your hand at the end of your turn instead.",
+        "text": "Fighter deck only.\nFast. Play after you resolve a fight ability on a card you control.\nResolve its effects again. You get +3 skill value and <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test. If you succeed, you may shuffle Extra Attack into your deck at the end of your turn. If you succeed by 2 or more, you may return it to your hand at the end of your turn instead.",
         "traits": "Tactic. Trick.",
         "type_code": "event",
         "xp": 4,
@@ -4909,7 +4909,7 @@
         "skill_agility": 1,
         "skill_intellect": 1,
         "slot": "Arcane",
-        "text": "Ranger deck only. Fast. Uses (3 charges). <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health.\nYou get +1 skill value while fighting an enemy with 1 or more bounties on it.\n[free] Exhaust Hunter's Mark and spend 1 charge: Place 1 resource from the token pool on an enemy in play, as a bounty.\n[reaction] After you defeat an enemy with 1 or more bounties on it: Discover 1 clue from its location.",
+        "text": "Ranger deck only. Fast. Uses (3 charges). <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health.\nYou get +1 skill value while fighting an enemy with 1 or more bounties on it.\n[free] Exhaust Hunter's Mark and spend 1 charge: Place 1 resource from the token pool on an enemy in play, as a bounty.\n[reaction] After you defeat an enemy with 1 or more bounties on it: Discover 1 clue from its location.",
         "traits": "Spell. Illicit.",
         "type_code": "asset",
         "xp": 0,
@@ -4984,7 +4984,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
-        "text": "Ranger deck only.\nFast. Play during any [free] window.\n<b>Fight.</b> You may use your [agility] instead of [combat] and get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this attack. For each card committed to this test, deal +1 damage (max +2 damage).",
+        "text": "Ranger deck only.\nFast. Play during any [free] window.\n<b>Fight.</b> You may use your [agility] instead of [combat] and get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this attack. For each card committed to this test, deal +1 damage (max +2 damage).",
         "traits": "Spell. Tactic. Ranged.",
         "type_code": "event",
         "xp": 2,
@@ -5165,7 +5165,7 @@
         "position": 180,
         "quantity": 2,
         "skill_wild": 1,
-        "text": "Sorcerer deck only.\nFast. Play when you initiate a skill test on a [[Spell]] card.\nUntil the end of the round, you get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] and +3 skill value during skill tests on all copies of that card.",
+        "text": "Sorcerer deck only.\nFast. Play when you initiate a skill test on a [[Spell]] card.\nUntil the end of the round, you get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] and +3 skill value during skill tests on all copies of that card.",
         "traits": "Augury. Insight.",
         "type_code": "event",
         "xp": 1,
@@ -5303,7 +5303,7 @@
         "position": 187,
         "quantity": 2,
         "skill_willpower": 1,
-        "text": "Warlock deck only. <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health.\nFast. Play only during your turn.\nAttach Hex to an encounter card at your location, or not at any location. Seal up to 3 [curse] tokens from the chaos bag or the token pool on that card.\nTests on or against attached card get -1 difficulty for each [curse] token sealed on it.",
+        "text": "Warlock deck only. <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health.\nFast. Play only during your turn.\nAttach Hex to an encounter card at your location, or not at any location. Seal up to 3 [curse] tokens from the chaos bag or the token pool on that card.\nTests on or against attached card get -1 difficulty for each [curse] token sealed on it.",
         "traits": "Spell. Cursed. Pact.",
         "type_code": "event",
         "xp": 1,
@@ -5345,7 +5345,7 @@
         "skill_combat": 1,
         "skill_wild": 1,
         "skill_willpower": 1,
-        "text": "Warlock deck only. <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\nAttach to your location or a connecting location.\n[reaction] After a symbol is revealed at attached location or a connecting location: Exhaust a card at the location the symbol was revealed. Then, discover 1 clue at that location or deal 1 damage to a card at that location.",
+        "text": "Warlock deck only. <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\nAttach to your location or a connecting location.\n[reaction] After a symbol is revealed at attached location or a connecting location: Exhaust a card at the location the symbol was revealed. Then, discover 1 clue at that location or deal 1 damage to a card at that location.",
         "traits": "Spell. Pact.",
         "type_code": "event",
         "xp": 3,
@@ -5421,7 +5421,7 @@
         "skill_combat": 1,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "Wizard deck only. Uses (6 charges). <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity.\n[action]: <b>Parley.</b> Test any skill (3). If you succeed, place 1 horror on an enemy at your location.\n[reaction] When an enemy attacks you, remove 1 horror from it and spend 1 charge: Deal that enemy's damage and horror to any enemy at its location, instead (horror is placed on that enemy).",
+        "text": "Wizard deck only. Uses (6 charges). <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity.\n[action]: <b>Parley.</b> Test any skill (3). If you succeed, place 1 horror on an enemy at your location.\n[reaction] When an enemy attacks you, remove 1 horror from it and spend 1 charge: Deal that enemy's damage and horror to any enemy at its location, instead (horror is placed on that enemy).",
         "traits": "Spell. Cursed.",
         "type_code": "asset",
         "xp": 3,
@@ -5538,7 +5538,7 @@
         "position": 202,
         "quantity": 1,
         "subtype_code": "basicweakness",
-        "text": "<b>Revelation</b> - Put Frightened into play in your threat area.\nThe first [willpower] test performed at this location each phase gets <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage].\n[action]: Test [willpower] (3). You may take 1 horror to get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test. If you succeed, discard Frightened.",
+        "text": "<b>Revelation</b> - Put Frightened into play in your threat area.\nThe first [willpower] test performed at this location each phase gets <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage].\n[action]: Test [willpower] (3). You may take 1 horror to get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test. If you succeed, discard Frightened.",
         "traits": "Condition.",
         "type_code": "treachery",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762687/zsm4vfxmpft3iizhtdfl.png",
@@ -5554,7 +5554,7 @@
         "position": 203,
         "quantity": 1,
         "subtype_code": "basicweakness",
-        "text": "<b>Revelation</b> - Put Blinded into play in your threat area.\nThe first [intellect] test performed at this location each phase gets <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage].\n[action]: Test [intellect] (3). You may take 1 horror to get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test. If you succeed, discard Blinded.",
+        "text": "<b>Revelation</b> - Put Blinded into play in your threat area.\nThe first [intellect] test performed at this location each phase gets <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage].\n[action]: Test [intellect] (3). You may take 1 horror to get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test. If you succeed, discard Blinded.",
         "traits": "Condition.",
         "type_code": "treachery",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762775/nylddburkrgzewqvgznh.png",
@@ -5570,7 +5570,7 @@
         "position": 204,
         "quantity": 1,
         "subtype_code": "basicweakness",
-        "text": "<b>Revelation</b> - Put Maimed into play in your threat area.\nThe first [combat] test performed at this location each phase gets <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage].\n[action]: Test [combat] (3). You may take 1 damage to get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test. If you succeed, discard Maimed.",
+        "text": "<b>Revelation</b> - Put Maimed into play in your threat area.\nThe first [combat] test performed at this location each phase gets <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage].\n[action]: Test [combat] (3). You may take 1 damage to get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test. If you succeed, discard Maimed.",
         "traits": "Condition.",
         "type_code": "treachery",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762724/rvchof9zymr0k8aise4m.png",
@@ -5586,7 +5586,7 @@
         "position": 205,
         "quantity": 1,
         "subtype_code": "basicweakness",
-        "text": "<b>Revelation</b> - Put Enwebbed into play in your threat area.\nThe first [agility] test performed at this location each phase gets <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage].\n[action]: Test [agility] (3). You may take 1 damage to get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test. If you succeed, discard Enwebbed.",
+        "text": "<b>Revelation</b> - Put Enwebbed into play in your threat area.\nThe first [agility] test performed at this location each phase gets <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage].\n[action]: Test [agility] (3). You may take 1 damage to get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test. If you succeed, discard Enwebbed.",
         "traits": "Condition.",
         "type_code": "treachery",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762601/alh0w8lv0jzctiwjda3e.png",
@@ -5779,7 +5779,7 @@
         "position": 404,
         "quantity": 1,
         "subtype_code": "basicweakness",
-        "text": "<b>Revelation</b> - Put Bleeding into play in your threat area.\n<b>Forced</b> - After you take 1 or more damage: Lose an action.\n[free] During a skill test you are performing: You get <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] and -2 skill value for this test. Discard                     Bleeding.",
+        "text": "<b>Revelation</b> - Put Bleeding into play in your threat area.\n<b>Forced</b> - After you take 1 or more damage: Lose an action.\n[free] During a skill test you are performing: You get <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] and -2 skill value for this test. Discard                     Bleeding.",
         "traits": "Condition.",
         "type_code": "treachery",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762659/zy8sho4uttzp6pswe7op.png",
@@ -5795,7 +5795,7 @@
         "position": 405,
         "quantity": 1,
         "subtype_code": "basicweakness",
-        "text": "<b>Revelation</b> - Put Paralyzed into play in your threat area.\n<b>Forced</b> - After you take 1 or more horror: Lose an action.\n[free] During a skill test you are performing: You get <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] and -2 skill value for this test. Discard                     Paralyzed.",
+        "text": "<b>Revelation</b> - Put Paralyzed into play in your threat area.\n<b>Forced</b> - After you take 1 or more horror: Lose an action.\n[free] During a skill test you are performing: You get <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] and -2 skill value for this test. Discard                     Paralyzed.",
         "traits": "Condition.",
         "type_code": "treachery",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749762684/sxh8ntm2sxozjorvkjvu.png",
@@ -5815,7 +5815,7 @@
         "skill_willpower": 1,
         "slot": "Ally",
         "subname": "Shows Off His Thunderwave",
-        "text": "Wizard deck only.\nYou get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] during skill tests on [[Spell]] cards.\n[reaction] After you reveal a chaos token during a skill test you are performing, exhaust Rolan: Return a [[Spell]] skill you committed to this test to your hand.",
+        "text": "Wizard deck only.\nYou get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] during skill tests on [[Spell]] cards.\n[reaction] After you reveal a chaos token during a skill test you are performing, exhaust Rolan: Return a [[Spell]] skill you committed to this test to your hand.",
         "traits": "Ally. Tiefling. Scholar.",
         "type_code": "asset",
         "xp": 1,
@@ -6161,7 +6161,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_willpower": 1,
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\nTest [willpower] or [agility] (3). If you succeed, attach Faerie Fire to your location.\nAttached location gets -1 shroud.\nInvestigators at attached location get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] during attacks and evasion attempts.",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\nTest [willpower] or [agility] (3). If you succeed, attach Faerie Fire to your location.\nAttached location gets -1 shroud.\nInvestigators at attached location get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] during attacks and evasion attempts.",
         "traits": "Spell. Trick. Connection.",
         "type_code": "event",
         "xp": 0,
@@ -6257,7 +6257,7 @@
         "position": 230,
         "quantity": 2,
         "skill_wild": 2,
-        "text": "Max 1 committed per test.\nIf this skill test is successful during an attack, instead of its standard damage, after this test resolves, the performing investigator attempts that test again with <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage]. For each point they succeed by, they deal +1 damage for this attack to a max of +3 damage.",
+        "text": "Max 1 committed per test.\nIf this skill test is successful during an attack, instead of its standard damage, after this test resolves, the performing investigator attempts that test again with <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage]. For each point they succeed by, they deal +1 damage for this attack to a max of +3 damage.",
         "traits": "Innate.",
         "type_code": "skill",
         "xp": 1,
@@ -6319,7 +6319,7 @@
         "quantity": 2,
         "skill_wild": 1,
         "slot": "Arcane",
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity. Limit 1 per investigator.\n[reaction] After Enhance Ability enters play: Choose a skill and an investigator at your location. While Enhance Ability is in play, that investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] on skill tests of the chosen skill.",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity. Limit 1 per investigator.\n[reaction] After Enhance Ability enters play: Choose a skill and an investigator at your location. While Enhance Ability is in play, that investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] on skill tests of the chosen skill.",
         "traits": "Spell. Ritual. Spirit.",
         "type_code": "asset",
         "xp": 2,
@@ -6359,7 +6359,7 @@
         "skill_intellect": 1,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity.\n[reaction] When an enemy enters your location, or vice versa, exhaust this card: <b>Investigate.</b> The difficulty of this test is equal to its evade. If you succeed, for the next attack or evasion attempt against it this round, investigators do not reveal chaos tokens. ",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity.\n[reaction] When an enemy enters your location, or vice versa, exhaust this card: <b>Investigate.</b> The difficulty of this test is equal to its evade. If you succeed, for the next attack or evasion attempt against it this round, investigators do not reveal chaos tokens. ",
         "traits": "Spell. Ritual. Augury.",
         "type_code": "asset",
         "xp": 2,
@@ -6470,7 +6470,7 @@
         "permanent": true,
         "position": 241,
         "quantity": 1,
-        "text": "Permanent. Limit 1 per deck.\nYou get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] during <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] tests you perform.\nDo not double the negative modifier of revealed chaos tokens during a <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] test.\n[free] Exhaust War Caster: Play an event with a printed resource cost of 0.",
+        "text": "Permanent. Limit 1 per deck.\nYou get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] during <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] tests you perform.\nDo not double the negative modifier of revealed chaos tokens during a <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] test.\n[free] Exhaust War Caster: Play an event with a printed resource cost of 0.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 3,
@@ -6510,7 +6510,7 @@
         "quantity": 2,
         "skill_intellect": 1,
         "skill_wild": 1,
-        "text": "Limit 1 per investigator.\nYou get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] during skill tests on a treachery card.\n[reaction] After you succeed at a skill test on a treachery or spend 1 or more actions to discard a treachery: Discover 1 clue at your location and draw 1 card.",
+        "text": "Limit 1 per investigator.\nYou get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] during skill tests on a treachery card.\n[reaction] After you succeed at a skill test on a treachery or spend 1 or more actions to discard a treachery: Discover 1 clue at your location and draw 1 card.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 3,
@@ -6610,7 +6610,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "slot": "Hand x2",
-        "text": "Uses (4 ammo).\n[free]: Place 1 resource on an enemy, as a bounty. (Limit once per game.)\n[action] Spend 1 ammo: <b>Fight.</b> You may use [agility] instead of [combat] for this test. You get +1 skill value and deal +1 damage for this attack. You get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] attacking [[Monster]] enemies.",
+        "text": "Uses (4 ammo).\n[free]: Place 1 resource on an enemy, as a bounty. (Limit once per game.)\n[action] Spend 1 ammo: <b>Fight.</b> You may use [agility] instead of [combat] for this test. You get +1 skill value and deal +1 damage for this attack. You get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] attacking [[Monster]] enemies.",
         "traits": "Item. Weapon. Ranged.",
         "type_code": "asset",
         "xp": 0,
@@ -6647,7 +6647,7 @@
         "position": 250,
         "quantity": 2,
         "skill_wild": 1,
-        "text": "After you commit Noble to a skill test, the performing investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test.\nIf this test is successful, you or the performing investigator may play a card reducing its cost by 3.",
+        "text": "After you commit Noble to a skill test, the performing investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test.\nIf this test is successful, you or the performing investigator may play a card reducing its cost by 3.",
         "traits": "Innate. Connection.",
         "type_code": "skill",
         "xp": 1,
@@ -6688,7 +6688,7 @@
         "quantity": 2,
         "skill_willpower": 2,
         "slot": "Arcane",
-        "text": "Uses (6 charges). <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\nYour location gets -1 shroud.\n[reaction] After you succeed at a skill test by X or more, where X is your location's shroud, spend up to 2 charges: Discover that many clues at your location.",
+        "text": "Uses (6 charges). <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\nYour location gets -1 shroud.\n[reaction] After you succeed at a skill test by X or more, where X is your location's shroud, spend up to 2 charges: Discover that many clues at your location.",
         "traits": "Spell. Ritual.",
         "type_code": "asset",
         "xp": 3,
@@ -6708,7 +6708,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "slot": "Body",
-        "text": "You get +1 [agility] and <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] on your [agility] tests.\n[reaction] After a skill test resolves with <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] from one of your card effects: Gain 1 resource.\n",
+        "text": "You get +1 [agility] and <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] on your [agility] tests.\n[reaction] After a skill test resolves with <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] from one of your card effects: Gain 1 resource.\n",
         "traits": "Item. Relic. Clothing.",
         "type_code": "asset",
         "xp": 2,
@@ -6855,7 +6855,7 @@
         "quantity": 2,
         "skill_combat": 1,
         "skill_wild": 1,
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity. Group limit 1 attached per enemy.\n<b>Parley.</b> Test [willpower] (3). If you succeed, attach Hold Person to an enemy at your location.\nAttached enemy loses all keywords and gains:\n\"[reaction] When you deal damage to this enemy: Discover 1 clue at your location or deal 1 additional damage.\"",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity. Group limit 1 attached per enemy.\n<b>Parley.</b> Test [willpower] (3). If you succeed, attach Hold Person to an enemy at your location.\nAttached enemy loses all keywords and gains:\n\"[reaction] When you deal damage to this enemy: Discover 1 clue at your location or deal 1 additional damage.\"",
         "traits": "Spell. Illicit.",
         "type_code": "event",
         "xp": 2,
@@ -7088,7 +7088,7 @@
         "quantity": 2,
         "skill_intellect": 2,
         "skill_willpower": 1,
-        "text": "Fast. Play when you initiate a skill test.\nIf the shroud of your location is...\n- ...higher than your base skill value, set your base skill value to the shroud of your location for this test. Draw 1 card.\n- ...equal to or lower than your base skill value, you get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this skill test. Draw 1 card.",
+        "text": "Fast. Play when you initiate a skill test.\nIf the shroud of your location is...\n- ...higher than your base skill value, set your base skill value to the shroud of your location for this test. Draw 1 card.\n- ...equal to or lower than your base skill value, you get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this skill test. Draw 1 card.",
         "traits": "Spell. Augury. Blessed.",
         "type_code": "event",
         "xp": 2,
@@ -7270,7 +7270,7 @@
         "skill_agility": 1,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "Uses (4 secrets). <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health.\n[free] Spend 1 secret: Disengage from each enemy engaged with you.\n[free] Spend 1 secret: Add your location's shroud value to your skill value for this test.",
+        "text": "Uses (4 secrets). <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health.\n[free] Spend 1 secret: Disengage from each enemy engaged with you.\n[free] Spend 1 secret: Add your location's shroud value to your skill value for this test.",
         "traits": "Spell. Trick.",
         "type_code": "asset",
         "xp": 2,
@@ -7290,7 +7290,7 @@
         "position": 286,
         "quantity": 2,
         "skill_wild": 2,
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health.\nFast. Play during any [free] window.\nAttach to your location.\n<b>Forced</b> - When an enemy enters, leaves, or readies at attached location: Deal 1 damage to that enemy.",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health.\nFast. Play during any [free] window.\nAttach to your location.\n<b>Forced</b> - When an enemy enters, leaves, or readies at attached location: Deal 1 damage to that enemy.",
         "traits": "Spell. Connection.",
         "type_code": "event",
         "xp": 2,
@@ -7502,7 +7502,7 @@
         "quantity": 2,
         "skill_intellect": 1,
         "skill_willpower": 1,
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\nFast. Play during any [free] window.\nAttach to your location. Disengage each enemy from investigators at attached location.\nAttached location gets +2 shroud. Non-[[Elite]] enemies at attached location cannot engage or be engaged.",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\nFast. Play during any [free] window.\nAttach to your location. Disengage each enemy from investigators at attached location.\nAttached location gets +2 shroud. Non-[[Elite]] enemies at attached location cannot engage or be engaged.",
         "traits": "Spell. Augury. Trick.",
         "type_code": "event",
         "xp": 2,
@@ -7565,7 +7565,7 @@
         "quantity": 1,
         "skill_combat": 2,
         "slot": "Ally",
-        "text": "Bonded (Animate Dead).\nInvestigators at your location may treat \"[bless]\" on their player cards as \"[bless] and/or [curse]\" instead.\nYou may choose to resolve a [curse] token instead of the other revealed token for <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] and <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] ignoring any forced choice.",
+        "text": "Bonded (Animate Dead).\nInvestigators at your location may treat \"[bless]\" on their player cards as \"[bless] and/or [curse]\" instead.\nYou may choose to resolve a [curse] token instead of the other revealed token for <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] and <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] ignoring any forced choice.",
         "traits": "Ally. Summon. Cursed.",
         "type_code": "asset",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781186/eeyqqrin9qxxczsnngla.png",
@@ -7768,7 +7768,7 @@
         "skill_wild": 1,
         "skill_willpower": 2,
         "slot": "Ally",
-        "text": "Bonded (Planar Ally). Uses (3 wishes).\nYou get +1 [willpower] and +1 [agility].\n[free] Spend 1 wish: You get a modified <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] on all tests you perform this round. This modified <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] reveals 2 additional tokens instead of 1, choosing and canceling 2 tokens with the lowest modifiers, ignoring any effect that forces you to resolve a [auto_fail] token.",
+        "text": "Bonded (Planar Ally). Uses (3 wishes).\nYou get +1 [willpower] and +1 [agility].\n[free] Spend 1 wish: You get a modified <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] on all tests you perform this round. This modified <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] reveals 2 additional tokens instead of 1, choosing and canceling 2 tokens with the lowest modifiers, ignoring any effect that forces you to resolve a [auto_fail] token.",
         "traits": "Ally. Summon.",
         "type_code": "asset",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781131/qn1kso1wxm17qriknmqy.png",
@@ -8032,7 +8032,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_wild": 1,
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\nChill each enemy at your location twice. Attach Sleet Storm to your location. This action does not provoke attacks of opportunity.\n[reaction] When your turn begins: Chill each enemy at attached location.",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\nChill each enemy at your location twice. Attach Sleet Storm to your location. This action does not provoke attacks of opportunity.\n[reaction] When your turn begins: Chill each enemy at attached location.",
         "traits": "Spell. Connection.",
         "type_code": "event",
         "xp": 3,
@@ -8223,7 +8223,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
-        "text": "While there are 2 or more encounter cards in your threat area, you get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] on skill tests.\n[reaction] After you fail a skill test, exhaust Gloves of the Growling Underdog: Gain 1 resource.",
+        "text": "While there are 2 or more encounter cards in your threat area, you get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] on skill tests.\n[reaction] After you fail a skill test, exhaust Gloves of the Growling Underdog: Gain 1 resource.",
         "traits": "Item. Clothing. Handwear.",
         "type_code": "asset",
         "xp": 0,
@@ -8548,7 +8548,7 @@
         "permanent": true,
         "position": 358,
         "quantity": 1,
-        "text": "Permanent. Limit 1 [[Racial Feature]] per deck.\n<b>Forced</b> - After your turn begins: Choose a skill. Until the start of your next turn, you get +1 to that skill.\n[reaction] When an investigator initiates a skill test of your chosen skill, exhaust Astral Knowledge: They get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test.",
+        "text": "Permanent. Limit 1 [[Racial Feature]] per deck.\n<b>Forced</b> - After your turn begins: Choose a skill. Until the start of your next turn, you get +1 to that skill.\n[reaction] When an investigator initiates a skill test of your chosen skill, exhaust Astral Knowledge: They get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test.",
         "traits": "Talent. Blessed. Racial Feature.",
         "type_code": "asset",
         "xp": 3,
@@ -8657,7 +8657,7 @@
         "permanent": true,
         "position": 364,
         "quantity": 1,
-        "text": "Permanent. Limit 1 [[Racial Feature]] per deck.\nYou may ignore criteria regarding which tokens to cancel for <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] (you choose instead).\n[reaction] When you reveal a ([bless]/[curse]) token: Change its token effect to \"(+2/-2.) Reveal two additional tokens. Of those revealed tokens, choose and cancel one.\"",
+        "text": "Permanent. Limit 1 [[Racial Feature]] per deck.\nYou may ignore criteria regarding which tokens to cancel for <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] (you choose instead).\n[reaction] When you reveal a ([bless]/[curse]) token: Change its token effect to \"(+2/-2.) Reveal two additional tokens. Of those revealed tokens, choose and cancel one.\"",
         "traits": "Blessed. Cursed. Racial Feature.",
         "type_code": "asset",
         "xp": 3,
@@ -8712,7 +8712,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "slot": "Arcane",
-        "text": "Uses (4 charges). <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity.\nYour location gets +1 shroud.\n[action] Spend 1 charge: <b>Investigate.</b> You may use your [willpower] instead of [intellect] for this investigation. If you succeed, discover 1 additional clue at this location.",
+        "text": "Uses (4 charges). <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity.\nYour location gets +1 shroud.\n[action] Spend 1 charge: <b>Investigate.</b> You may use your [willpower] instead of [intellect] for this investigation. If you succeed, discover 1 additional clue at this location.",
         "traits": "Spell.",
         "type_code": "asset",
         "xp": 0,
@@ -8838,7 +8838,7 @@
         "quantity": 2,
         "skill_willpower": 3,
         "slot": "Arcane",
-        "text": "Uses (9 charges). <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity.\n[action] Spend X charges: Choose a non-[[Elite]] enemy in play and test [willpower] or [agility] (X). If you succeed, move it X times. If it enters a location with another enemy, exhaust both enemies. This action does not provoke attacks of opportunity and is considered \"unarmed\".",
+        "text": "Uses (9 charges). <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity.\n[action] Spend X charges: Choose a non-[[Elite]] enemy in play and test [willpower] or [agility] (X). If you succeed, move it X times. If it enters a location with another enemy, exhaust both enemies. This action does not provoke attacks of opportunity and is considered \"unarmed\".",
         "traits": "Spell.",
         "type_code": "asset",
         "xp": 5,
@@ -8992,7 +8992,7 @@
         "position": 381,
         "quantity": 2,
         "skill_agility": 2,
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity.\n<b>Investigate.</b> Add your [willpower] to your skill value for this investigation. If you succeed, attach Witch Bolt to your location. If this is a conjuration skill test, discover 1 additional clue.\nWhile Witch Bolt is attached to your location or a connecting location, you may play it as if it were in your hand.",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity.\n<b>Investigate.</b> Add your [willpower] to your skill value for this investigation. If you succeed, attach Witch Bolt to your location. If this is a conjuration skill test, discover 1 additional clue.\nWhile Witch Bolt is attached to your location or a connecting location, you may play it as if it were in your hand.",
         "traits": "Spell. Insight.",
         "type_code": "event",
         "xp": 1,
@@ -9115,7 +9115,7 @@
         "skill_agility": 1,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "<img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\n[reaction] When an enemy enters your location, or vice versa: <b>Evade.</b> Use your [willpower] instead of your [agility] and get +2 [willpower] for this test. Before this attempt, you may immediately engage that enemy. Cannot be triggered on engaged enemies moving with you.",
+        "text": "<img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\n[reaction] When an enemy enters your location, or vice versa: <b>Evade.</b> Use your [willpower] instead of your [agility] and get +2 [willpower] for this test. Before this attempt, you may immediately engage that enemy. Cannot be triggered on engaged enemies moving with you.",
         "traits": "Spell. Ritual.",
         "type_code": "asset",
         "xp": 3,
@@ -9232,7 +9232,7 @@
         "quantity": 2,
         "skill_willpower": 3,
         "slot": "Arcane",
-        "text": "Uses (3 charges). <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Health or Sanity.\n[reaction] At the start of a phase, spend 1 charge: Choose an enemy in play. Treat that enemy as if it were not in play until the end of the phase.\n[free] Spend 1 charge: Resolve the [reaction] ability above.",
+        "text": "Uses (3 charges). <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Health or Sanity.\n[reaction] At the start of a phase, spend 1 charge: Choose an enemy in play. Treat that enemy as if it were not in play until the end of the phase.\n[free] Spend 1 charge: Resolve the [reaction] ability above.",
         "traits": "Spell. Ritual.",
         "type_code": "asset",
         "xp": 4,
@@ -9249,7 +9249,7 @@
         "position": 394,
         "quantity": 2,
         "skill_wild": 1,
-        "text": "After you commit Intelligence to a skill test, the performing investigator gets <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test.\nIf this test is successful, for each clue you have (to a maximum of 3), you or the performing investigator draws 1 card.",
+        "text": "After you commit Intelligence to a skill test, the performing investigator gets <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test.\nIf this test is successful, for each clue you have (to a maximum of 3), you or the performing investigator draws 1 card.",
         "traits": "Innate. Developed.",
         "type_code": "skill",
         "xp": 3,
@@ -9326,7 +9326,7 @@
         "position": 398,
         "quantity": 2,
         "skill_wild": 4,
-        "text": "Commit only to a skill test on an encounter card, during a basic action, or during a <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] test.\nIf this test is successful, draw 1 card.",
+        "text": "Commit only to a skill test on an encounter card, during a basic action, or during a <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] test.\nIf this test is successful, draw 1 card.",
         "traits": "Innate.",
         "type_code": "skill",
         "xp": 3,
@@ -9506,7 +9506,7 @@
         "skill_agility": 1,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "Uses (3 charges). <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] Sanity.\n[reaction] When an enemy attacks an investigator at your location, spend 1 charge: Instead, heal that investigator for the damage and horror dealt by the attack.",
+        "text": "Uses (3 charges). <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] Sanity.\n[reaction] When an enemy attacks an investigator at your location, spend 1 charge: Instead, heal that investigator for the damage and horror dealt by the attack.",
         "traits": "Spell. Trick.",
         "type_code": "asset",
         "xp": 3,
@@ -9694,7 +9694,7 @@
         "quantity": 3,
         "skill_combat": 1,
         "skill_intellect": 1,
-        "text": "Myriad.\n<b>Parley.</b> Choose an enemy at your location and test [intellect] or [combat] (3). If you succeed, discover 2 clues at your location. If you fail, engage that enemy and take a fight action against it. You get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] and deal +1 damage for this attack.",
+        "text": "Myriad.\n<b>Parley.</b> Choose an enemy at your location and test [intellect] or [combat] (3). If you succeed, discover 2 clues at your location. If you fail, engage that enemy and take a fight action against it. You get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] and deal +1 damage for this attack.",
         "traits": "Tactic.",
         "type_code": "event",
         "xp": 2,
@@ -10056,7 +10056,7 @@
         "skill_agility": 1,
         "skill_intellect": 1,
         "skill_willpower": 1,
-        "text": "<b>Parley.</b> Attach Friends to an enemy at your location. Then, draw 1 card.\nWhile parleying with attached enemy, investigators get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage].",
+        "text": "<b>Parley.</b> Attach Friends to an enemy at your location. Then, draw 1 card.\nWhile parleying with attached enemy, investigators get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage].",
         "traits": "Spell. Spirit.",
         "type_code": "event",
         "xp": 0,
@@ -10076,7 +10076,7 @@
         "skill_combat": 1,
         "skill_willpower": 1,
         "slot": "Hand. Arcane",
-        "text": "Uses (2 charges). \n[action] Spend 1 charge: <b>Fight.</b> Use your [willpower] or [combat] and get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this attack. If you succeed, instead of dealing standard damage, this attack deals damage equal to your location's shroud value. Ignore the aloof and retaliate keywords during this attack.",
+        "text": "Uses (2 charges). \n[action] Spend 1 charge: <b>Fight.</b> Use your [willpower] or [combat] and get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this attack. If you succeed, instead of dealing standard damage, this attack deals damage equal to your location's shroud value. Ignore the aloof and retaliate keywords during this attack.",
         "traits": "Spell. Weapon. Melee.",
         "type_code": "asset",
         "xp": 2,
@@ -10385,7 +10385,7 @@
         "quantity": 2,
         "skill_combat": 1,
         "skill_intellect": 1,
-        "text": "As an additional cost to play Color Spray, do any number of the following (take 1 damage, take 1 horror, place 1 doom on a card you control, choose and discard 1 card from your hand, get <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] on your skill test this round).\nFor each different additional cost paid to play this card, draw 1 card.",
+        "text": "As an additional cost to play Color Spray, do any number of the following (take 1 damage, take 1 horror, place 1 doom on a card you control, choose and discard 1 card from your hand, get <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] on your skill test this round).\nFor each different additional cost paid to play this card, draw 1 card.",
         "traits": "Spell. Augury.",
         "type_code": "event",
         "xp": 1,
@@ -10594,7 +10594,7 @@
         "position": 518,
         "quantity": 2,
         "skill_agility": 1,
-        "text": "Fast. Play when an investigator reveals a chaos token during a skill test at your location.\nThey cancel that chaos token and return it to the bag. They reveal a new chaos token and put Silvery Barbs in their play area.\n[free] Discard Silvery Barbs: You get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for this test.",
+        "text": "Fast. Play when an investigator reveals a chaos token during a skill test at your location.\nThey cancel that chaos token and return it to the bag. They reveal a new chaos token and put Silvery Barbs in their play area.\n[free] Discard Silvery Barbs: You get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for this test.",
         "traits": "Spell. Trick.",
         "type_code": "event",
         "xp": 1,
@@ -10629,7 +10629,7 @@
         "position": 520,
         "quantity": 2,
         "skill_willpower": 1,
-        "text": "Choose another investigator at your location. They get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] for each skill test they perform this round.\n[reaction] After you enter a location with another investigator, or vice versa: Play Pack Tactics.",
+        "text": "Choose another investigator at your location. They get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] for each skill test they perform this round.\n[reaction] After you enter a location with another investigator, or vice versa: Play Pack Tactics.",
         "traits": "Spirit. Tactic.",
         "type_code": "event",
         "xp": 1,
@@ -11089,7 +11089,7 @@
         "position": 544,
         "quantity": 2,
         "skill_combat": 2,
-        "text": "Fast. Play after your turn begins.\nYou may take 2 additional actions this turn. For this round, you get <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] on your skill tests until you fail a skill test.",
+        "text": "Fast. Play after your turn begins.\nYou may take 2 additional actions this turn. For this round, you get <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] on your skill tests until you fail a skill test.",
         "traits": "Spirit.",
         "type_code": "event",
         "xp": 1,
@@ -11735,7 +11735,7 @@
         "quantity": 2,
         "skill_agility": 1,
         "skill_combat": 1,
-        "text": "While there is only one enemy engaged with you, other investigators get <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] attacking that enemy.\n[free] During your turn, exhaust Grappler: Choose an enemy at your location or a connecting location. Test [combat] (X). X is the chosen's fight value. If you succeed, move to its location and engage that enemy.",
+        "text": "While there is only one enemy engaged with you, other investigators get <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] attacking that enemy.\n[free] During your turn, exhaust Grappler: Choose an enemy at your location or a connecting location. Test [combat] (X). X is the chosen's fight value. If you succeed, move to its location and engage that enemy.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 1,
@@ -11808,7 +11808,7 @@
         "skill_combat": 2,
         "skill_willpower": 1,
         "slot": "Hand",
-        "text": "Uses (4 ammo).\n[free]: Attach an event with a fight ability from your hand to Arcane Firearm. Limit 2 events attached.\n[action] Spend 1 ammo: <b>Fight.</b> Resolve a fight ability on an event attached to Arcane Firearm with <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage], ignoring all costs. Do not discard it after resolving it.",
+        "text": "Uses (4 ammo).\n[free]: Attach an event with a fight ability from your hand to Arcane Firearm. Limit 2 events attached.\n[action] Spend 1 ammo: <b>Fight.</b> Resolve a fight ability on an event attached to Arcane Firearm with <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage], ignoring all costs. Do not discard it after resolving it.",
         "traits": "Item. Relic. Weapon. Firearm.",
         "type_code": "asset",
         "xp": 4,
@@ -12047,7 +12047,7 @@
         "position": 596,
         "quantity": 2,
         "skill_combat": 1,
-        "text": "Artificer deck only.\nAttach to an [[Item]] asset controlled by an investigator at your location.\nAttached asset gets +1 health and +1 sanity. Direct damage and direct horror may be assigned to attached asset. Attached asset's controller does not perform <img src=\"https://i.ibb.co/jvnxbGC0/a910976389a2.png\"> [concentration] tests.",
+        "text": "Artificer deck only.\nAttach to an [[Item]] asset controlled by an investigator at your location.\nAttached asset gets +1 health and +1 sanity. Direct damage and direct horror may be assigned to attached asset. Attached asset's controller does not perform <img src=\"https://eons-bg3.arkham.build/a910976389a2.png\"> [concentration] tests.",
         "traits": "Insight. Upgrade.",
         "type_code": "event",
         "xp": 1,
@@ -12108,7 +12108,7 @@
         "position": 599,
         "quantity": 2,
         "skill_intellect": 2,
-        "text": "Artificer deck only. Uses (4 charges).\nAttach to a [[Weapon]] asset controlled by an investigator at your location. It gains the [[Relic]] trait. \n[reaction] When you perform an attack using attached asset, exhaust this card: You deal +1 damage for this attack. You may spend 1 charge to give <img src=\"https://i.ibb.co/7tyQRtpj/27c9877b105f.png\"> [advantage] on all attacks against that enemy this round.",
+        "text": "Artificer deck only. Uses (4 charges).\nAttach to a [[Weapon]] asset controlled by an investigator at your location. It gains the [[Relic]] trait. \n[reaction] When you perform an attack using attached asset, exhaust this card: You deal +1 damage for this attack. You may spend 1 charge to give <img src=\"https://eons-bg3.arkham.build/27c9877b105f.png\"> [advantage] on all attacks against that enemy this round.",
         "traits": "Insight. Upgrade.",
         "type_code": "event",
         "xp": 3,
@@ -12977,7 +12977,7 @@
         "pack_code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
         "position": 448,
         "quantity": 2,
-        "text": "[Illithids] Aloof. Hunter. Surge.\n<b>Forced</b> - After you fail a skill test at Intellect Devourer's location: You get <img src=\"https://i.ibb.co/Fkg68WW8/7b52e3349b26.png\"> [disadvantage] for the next skill test you perform.",
+        "text": "[Illithids] Aloof. Hunter. Surge.\n<b>Forced</b> - After you fail a skill test at Intellect Devourer's location: You get <img src=\"https://eons-bg3.arkham.build/7b52e3349b26.png\"> [disadvantage] for the next skill test you perform.",
         "traits": "Aberration. Creature.",
         "type_code": "enemy",
         "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749818131/xu1yo5mkdlehz3y8t5cs.png",
@@ -13282,7 +13282,7 @@
         "code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
         "name": "Baldur's Gate III: Player Expansion",
         "date_release": "2025-06-13",
-        "icon_url": "https://i.ibb.co/nGwYTmQ/e35448d639cb.png"
+        "icon_url": "https://eons-bg3.arkham.build/e35448d639cb.png"
       }
     ]
   }
