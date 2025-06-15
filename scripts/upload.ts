@@ -151,7 +151,7 @@ async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
 
 async function rehostFile(params: UploadParams) {
   if (SKIP_IMAGES) return;
-  
+
   const { sourceUrl } = params;
   const response = await fetch(sourceUrl);
   assert(response.ok, `${sourceUrl} returned bad status: ${response.status}`);

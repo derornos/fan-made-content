@@ -9,7 +9,7 @@
     "banner_url": "https://assets.arkham.build/fan-made/cpa_banner.jpg",
     "types": ["investigators", "player_cards"],
     "status": "final",
-    "date_updated": "2025-06-09T14:43:53.343",
+    "date_updated": "2025-06-15T08:21:11.365",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -24,12 +24,12 @@
         "position": 2,
         "quantity": 1,
         "subname": "Campaign Play-Along",
-        "text": "Ultimatum. Accept this contract only during campaign creation. Do not play <b>Scenario 0: Disappearance at the Twilight Estate</b>. \nIn the \"Missing Persons\" section of your Campaign Log, cross off all profiles. In your Campaign Log, record <i>you are being hunted.</i>\nWhen choosing investigators for this campaign, you must select from available Prologue Investigators (if any). You must use the Campaign Play-Along parallel back for each of these investigators.",
+        "text": "Ultimatum. Accept this contract only during campaign creation. Do not play <b>Scenario 0: Disappearance at the Twilight Estate</b>.\nIn the \"Missing Persons\" section of your Campaign Log, cross off all profiles. In your Campaign Log, record <i>you are being hunted.</i>\nWhen choosing investigators for this campaign, you must select from available Prologue Investigators (if any). You must use the Campaign Play-Along parallel back for each of these investigators.",
         "traits": "Contract. Ultimatum. Refraction. Circle Undone.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-02%20-%20A%20Fate%20Avoided-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473030170",
-        "thumbnail_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-thumbnail.png?cachebust=1749473030581"
+        "image_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-02%20-%20A%20Fate%20Avoided-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749968331958",
+        "thumbnail_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-thumbnail.png?cachebust=1749968332189"
       },
       {
         "code": "63c1ec86-4e0f-47d9-a8a5-29861d396758",
@@ -65,6 +65,40 @@
         "xp": 0,
         "image_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-04%20-%20Loathsome%20Familiar-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473030820",
         "thumbnail_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-thumbnail.png?cachebust=1749473031079"
+      },
+      {
+        "code": "ed0625ff-9ef5-41d3-84b9-9ba776f9bdc6",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Lenka Šimečková",
+        "name": "Accept Your Fate",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 5,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only immediately after reading <b>Intro 2</b> during <b>Scenario I: The Witching Hour</b>, and only if <i>you have accepted your fate.</i>\nWhen you accept this contract, instead of resolving the second bullet point of <b>Intro 2</b>, resolve the following:\n- Using the Tarot Deck, perform an 8-card Campaign Reading with these specific 8 cards, in this order: \nDeath (Inverted); Strength; Wheel of Fortune; Lovers (Inverted); Empress; The High Priestess (Inverted); Tower; Stars (Inverted)",
+        "traits": "Contract. Ultimatum. Refraction. Circle Undone.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/ed0625ff-9ef5-41d3-84b9-9ba776f9bdc6-Front-05%20-%20Accept%20Your%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749968321793",
+        "thumbnail_url": "https://eons.arkham.build/ed0625ff-9ef5-41d3-84b9-9ba776f9bdc6-Front-thumbnail.png?cachebust=1749968322039"
+      },
+      {
+        "code": "0f1dd23e-274e-428c-bfa4-90200f7045b9",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Lenka Šimečková",
+        "name": "Reject Your Fate",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 6,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only after resolving the intro to <b>Scenario I: The Witching Hour</b>, and only if <i>you have rejected your fate.</i>\nWhen you accept this contract, perform an 8-card Campaign Reading with these specific 8 cards, in this order: \nDeath; Strength (Inverted); Wheel of Fortune (Inverted); Lovers; Empress (Inverted); The High Priestess; Tower (Inverted); Stars",
+        "traits": "Contract. Ultimatum. Refraction. Circle Undone.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/0f1dd23e-274e-428c-bfa4-90200f7045b9-Front-06%20-%20Reject%20Your%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749968331469",
+        "thumbnail_url": "https://eons.arkham.build/0f1dd23e-274e-428c-bfa4-90200f7045b9-Front-thumbnail.png?cachebust=1749968331666"
       },
       {
         "code": "2f7d7553-c53d-48ca-833c-818dfdebb466",
@@ -316,7 +350,7 @@
         "code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
         "name": "CPA The Circle Undone 2025",
         "date_release": "2025-06-08",
-        "icon_url": "https://eons.arkham.build/5ad9d873-468b-4c07-939a-a4c1c192590d-collection-icon.png?cachebust=1749473033340"
+        "icon_url": "https://eons.arkham.build/5ad9d873-468b-4c07-939a-a4c1c192590d-collection-icon.png?cachebust=1749968471359"
       }
     ]
   }
