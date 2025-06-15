@@ -1,7 +1,11 @@
 import path from "node:path";
 import fs from "node:fs/promises";
+import sharp from "sharp";
 import { Upload } from "@aws-sdk/lib-storage";
-import { type PutObjectCommandInput, S3Client } from "@aws-sdk/client-s3";
+import {
+  type PutObjectCommandInput,
+  S3Client,
+} from "@aws-sdk/client-s3";
 import assert from "node:assert";
 
 assert(process.env.AWS_ACCESS_KEY_ID, "AWS_ACCESS_KEY_ID is required");
@@ -14,7 +18,6 @@ assert(process.env.API_BASE_URL, "API_BASE_URL is required");
 assert(process.env.API_AUTH_TOKEN, "API_AUTH_TOKEN is required");
 
 const SKIP_PROJECT = false;
-const SKIP_IMAGES = false;
 
 const PREFIX = "fan_made_content";
 const PROJECT_DIR = path.join(process.cwd(), "projects");
@@ -80,9 +83,11 @@ async function rehostBanner(project: Project) {
 
   if (meta.banner_url) {
     const ext = extname(meta.banner_url);
-    const s3Path = makeS3Path(projectCode, `banner${ext}`);
     if (ext) {
-      await rehostFile({ sourceUrl: meta.banner_url, s3Path });
+      const { s3Path } = await rehostFile({
+        sourceUrl: meta.banner_url,
+        s3Path: makeS3Path(projectCode, `banner${ext}`),
+      });
       project.meta.banner_url = makeCdnUrl(s3Path);
     } else {
       console.warn(`No file extension: ${projectCode} / ${meta.banner_url}`);
@@ -115,8 +120,11 @@ async function rehostCardImages(project: Project) {
           return acc;
         }
 
-        const s3Path = makeS3Path(projectCode, `${code}${suffix}${ext}`);
-        acc.push({ sourceUrl, s3Path, key });
+        acc.push({
+          sourceUrl,
+          s3Path: makeS3Path(projectCode, `${code}${suffix}${ext}`),
+          key,
+        });
 
         return acc;
       },
@@ -124,8 +132,8 @@ async function rehostCardImages(project: Project) {
     );
 
     for (const image of images) {
-      await rehostFile(image);
-      const { s3Path, key } = image;
+      const { s3Path, key } = await rehostFile(image);
+      assert(key, `Key is required for ${image.sourceUrl}`);
       project.data.cards[index][key] = makeCdnUrl(s3Path);
     }
   }
@@ -150,37 +158,51 @@ async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
 }
 
 async function rehostFile(params: UploadParams) {
-  if (SKIP_IMAGES) return;
-
   const { sourceUrl } = params;
   const response = await fetch(sourceUrl);
   assert(response.ok, `${sourceUrl} returned bad status: ${response.status}`);
   assert(response.body, `${sourceUrl} returned empty body.`);
-  await upload(params, response.body);
+  const s3Path = await upload(
+    params,
+    Buffer.from(await response.arrayBuffer()),
+  );
+  return { ...params, s3Path };
 }
 
-async function upload(
-  params: UploadParams,
-  body: PutObjectCommandInput["Body"],
-) {
+async function upload(params: UploadParams, body: Buffer | string) {
   const { s3Path: _s3Path, sourceUrl: _sourceUrl } = params;
   const sourceUrl = cleanPath(_sourceUrl);
-  const s3Path = cleanPath(_s3Path);
 
-  console.info(`${s3Path} (${inferContentType(sourceUrl)})`);
+  let s3Path = cleanPath(_s3Path);
+  let uploadBuffer: PutObjectCommandInput["Body"];
+  let contentType = inferContentType(sourceUrl);
+
+  if (typeof body !== "string" && contentType === "image/png") {
+    const buffer = await sharp(body).jpeg({ quality: 90 }).toBuffer();
+
+    uploadBuffer = buffer;
+    contentType = "image/jpeg";
+    s3Path = s3Path.replace(/\.png$/, ".jpg");
+  } else {
+    uploadBuffer = body;
+  }
+
+  console.info(`${s3Path} (${contentType})`);
 
   const upload = new Upload({
     client: s3Client,
     params: {
-      Body: body,
+      Body: uploadBuffer,
       Bucket: process.env.AWS_BUCKET,
-      ContentType: inferContentType(sourceUrl),
+      ContentType: contentType,
       Key: s3Path,
     },
     leavePartsOnError: false,
   });
 
   await upload.done();
+
+  return s3Path;
 }
 
 function extname(p: string) {
@@ -240,4 +262,5 @@ type Project = {
 type UploadParams = {
   sourceUrl: string;
   s3Path: string;
+  key?: string;
 };
