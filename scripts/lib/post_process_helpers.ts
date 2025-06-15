@@ -46,6 +46,7 @@ export class Processor {
 function fixCommonTextIssues(str: string) {
   return str
     .replaceAll("\n     \n", "\n")
+    .replaceAll("<hdr>", "<b>")
     .replaceAll("</hdr>", "</b>")
     .replaceAll("<hdr></hdr>", "")
     .replaceAll("<b></b>", "")

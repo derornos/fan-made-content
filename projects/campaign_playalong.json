@@ -384,7 +384,7 @@
       {
         "back_flavor": "Jerome is Josef Meiger's personal assistant and secretary. He is a close friend of Josef's and is also an upstanding member of the Silver Twilight Lodge. He helps keep the Meiger estate's vast finances in order and manages Josef's time, which has become increasingly precious of late. ",
         "back_name": "Jerome Davids",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
         "code": "95dbbd10-4d37-4112-89a2-a8ff253077cd",
         "deck_requirements": "size:30, random:subtype:basicweakness",
         "deck_options": [
@@ -436,7 +436,7 @@
       {
         "back_flavor": "\"Tino\" is a wealthy philanthropist and one of tonight's most esteemed guests. The recipient of a fortuitous windfall, Valentino lives a life of luxury and recreation. Despite his wealth, he remains connected to his community, and he takes great joy in giving large sums of money to good causes. ",
         "back_name": "Valentino Rivas",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Rogue cards ([rogue]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
         "code": "ffc6bc8a-5f23-4c15-819a-da69db05d8e5",
         "deck_requirements": "size:30, random:subtype:basicweakness",
         "deck_options": [
@@ -488,7 +488,7 @@
       {
         "back_flavor": "Penny White is the Meiger estate's head housekeeper. She has been working in the Meiger estate for several years. Though she has only spoken with Josef a few times, his overly fastidious nature has kept her quite busy. Tonight, she is tasked with keeping the manor spotless, the food hot, and the hooch flowing. ",
         "back_name": "Penny White",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size)<hdr></b>: 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Mystic cards ([mystic]) level 0-3, Survivor cards ([survivor]) level 0-3, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): 1 random basic weakness.\n<b>Bonus Experience</b>: You begin the campaign with 8 additional experience (does not affect the number of weaknesses you must take in Standalone Mode).",
         "code": "cf9e7628-7878-4edd-ba14-e1897c88094f",
         "deck_requirements": "size:30, random:subtype:basicweakness",
         "deck_options": [

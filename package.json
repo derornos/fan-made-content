@@ -2,6 +2,7 @@
   "name": "fan-made-content",
   "type": "module",
   "scripts": {
+    "compress": "tsx --env-file=.env scripts/compress.ts",
     "fmt": "biome format --write .",
     "merge": "tsx scripts/merge.ts",
     "post_process": "tsx scripts/post_process.ts && npm run fmt",
@@ -9,7 +10,8 @@
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.806.0",
-    "@aws-sdk/lib-storage": "3.806.0"
+    "@aws-sdk/lib-storage": "3.806.0",
+    "sharp": "^0.34.2"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
