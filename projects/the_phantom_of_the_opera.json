@@ -9,7 +9,7 @@
     "banner_url": "https://eons.arkham.build/Banner%20-%20e1ef5cd0-9115-495e-aff8-5396d0df066f.png",
     "types": ["scenario"],
     "status": "final",
-    "date_updated": "2025-06-04T11:56:54.725",
+    "date_updated": "2025-06-18T19:44:25.825Z",
     "generator": "Zoop 4.1, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -827,6 +827,8 @@
         "encounter_code": "6dc0a271-523b-46e2-b370-202d78779b83-the_phantom_of_the_opera",
         "encounter_position": 24,
         "faction_code": "neutral",
+        "health": 2,
+        "sanity": 2,
         "illustrator": "Greg Hildebrandt",
         "is_unique": true,
         "name": "The Persian",

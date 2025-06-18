@@ -9,7 +9,7 @@
     "banner_url": "https://inexorablefate.com/projects/Colour%20Out%20of%20Oz.png",
     "types": ["campaign"],
     "status": "final",
-    "date_updated": "2025-05-25T17:59:33.09"
+    "date_updated": "2025-06-18T19:44:25.825Z"
   },
   "data": {
     "cards": [
@@ -1672,6 +1672,8 @@
         "encounter_position": 7,
         "faction_code": "neutral",
         "flavor": "Polly is your closest chance of fighting fire with fire.",
+        "health": 2,
+        "sanity": 2,
         "illustrator": "Raquel M. Varela",
         "is_unique": true,
         "name": "Polychrome",
@@ -6460,6 +6462,8 @@
         "encounter_code": "6f3d38ff-a950-47d6-83e5-51f0530017d4-gillikin_country",
         "encounter_position": 12,
         "faction_code": "neutral",
+        "health": 2,
+        "sanity": 2,
         "illustrator": "Xavier Beaudlet",
         "is_unique": true,
         "name": "Reera the Red",

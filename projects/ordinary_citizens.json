@@ -9,7 +9,7 @@
     "banner_url": "https://assets.arkham.build/fan-made/ordinary_citizens_banner.jpg",
     "types": ["investigators"],
     "status": "final",
-    "date_updated": "2025-06-05T14:13:21.771",
+    "date_updated": "2025-06-18T19:44:25.825Z",
     "generator": "Zoop 4.1, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -85,6 +85,8 @@
         "cost": 2,
         "deck_limit": 1,
         "faction_code": "neutral",
+        "health": 3,
+        "sanity": 2,
         "illustrator": "Mark Molnar",
         "is_unique": true,
         "name": "Brock",
