@@ -15,7 +15,7 @@ assert(process.env.API_BASE_URL, "API_BASE_URL is required");
 assert(process.env.API_AUTH_TOKEN, "API_AUTH_TOKEN is required");
 
 const SKIP_PROJECT = false;
-const SKIP_IMAGES = true;
+const SKIP_IMAGES = false;
 
 const PREFIX = "fan_made_content";
 const PROJECT_DIR = path.join(process.cwd(), "projects");
@@ -161,7 +161,9 @@ async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
 async function rehostFile(params: UploadParams, compress = false) {
   const { sourceUrl } = params;
   // when skip images is true, we don't fetch the image.
-  const response = SKIP_IMAGES ? new Response(Buffer.from([])) : await fetch(sourceUrl);
+  const response = skipImages(params.s3Path)
+    ? new Response(Buffer.from([]))
+    : await fetch(sourceUrl);
 
   assert(response.ok, `${sourceUrl} returned bad status: ${response.status}`);
   assert(response.body, `${sourceUrl} returned empty body.`);
@@ -186,7 +188,7 @@ async function upload(
   let contentType = inferContentType(sourceUrl);
 
   if (compress && typeof body !== "string" && contentType === "image/png") {
-    if (!SKIP_IMAGES) {
+    if (!skipImages(s3Path)) {
       const buffer = await sharp(body).jpeg({ quality: 90 }).toBuffer();
       uploadBuffer = buffer;
     }
@@ -196,8 +198,7 @@ async function upload(
     uploadBuffer = body;
   }
 
-  
-  if (!SKIP_IMAGES || contentType === "application/json") {
+  if (!skipImages(s3Path) || contentType === "application/json") {
     console.info(`${s3Path} (${contentType})`);
 
     const upload = new Upload({
@@ -244,6 +245,10 @@ function cleanPath(path: string) {
   }
 
   return path;
+}
+
+function skipImages(s3Path: string) {
+  return SKIP_IMAGES && !s3Path.includes("banner");
 }
 
 type Project = {
