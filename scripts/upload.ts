@@ -15,6 +15,7 @@ assert(process.env.API_BASE_URL, "API_BASE_URL is required");
 assert(process.env.API_AUTH_TOKEN, "API_AUTH_TOKEN is required");
 
 const SKIP_PROJECT = false;
+const SKIP_IMAGES = true;
 
 const PREFIX = "fan_made_content";
 const PROJECT_DIR = path.join(process.cwd(), "projects");
@@ -159,7 +160,9 @@ async function rehostIcons(project: Project, key: "encounter_sets" | "packs") {
 
 async function rehostFile(params: UploadParams, compress = false) {
   const { sourceUrl } = params;
-  const response = await fetch(sourceUrl);
+  // when skip images is true, we don't fetch the image.
+  const response = SKIP_IMAGES ? new Response(Buffer.from([])) : await fetch(sourceUrl);
+
   assert(response.ok, `${sourceUrl} returned bad status: ${response.status}`);
   assert(response.body, `${sourceUrl} returned empty body.`);
   const s3Path = await upload(
@@ -183,29 +186,33 @@ async function upload(
   let contentType = inferContentType(sourceUrl);
 
   if (compress && typeof body !== "string" && contentType === "image/png") {
-    const buffer = await sharp(body).jpeg({ quality: 90 }).toBuffer();
-
-    uploadBuffer = buffer;
+    if (!SKIP_IMAGES) {
+      const buffer = await sharp(body).jpeg({ quality: 90 }).toBuffer();
+      uploadBuffer = buffer;
+    }
     contentType = "image/jpeg";
     s3Path = s3Path.replace(/\.png$/, ".jpg");
   } else {
     uploadBuffer = body;
   }
 
-  console.info(`${s3Path} (${contentType})`);
+  
+  if (!SKIP_IMAGES || contentType === "application/json") {
+    console.info(`${s3Path} (${contentType})`);
 
-  const upload = new Upload({
-    client: s3Client,
-    params: {
-      Body: uploadBuffer,
-      Bucket: process.env.AWS_BUCKET,
-      ContentType: contentType,
-      Key: s3Path,
-    },
-    leavePartsOnError: false,
-  });
+    const upload = new Upload({
+      client: s3Client,
+      params: {
+        Body: uploadBuffer,
+        Bucket: process.env.AWS_BUCKET,
+        ContentType: contentType,
+        Key: s3Path,
+      },
+      leavePartsOnError: false,
+    });
 
-  await upload.done();
+    await upload.done();
+  }
 
   return s3Path;
 }
