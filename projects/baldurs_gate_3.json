@@ -1,8 +1,8 @@
 {
   "meta": {
     "code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
-    "name": "Baldur's Gate III: Player Expansion",
-    "description": "An unofficial fan-made player expansion adapted from Larian Studios' Baldur's Gate III. Included are the Tav and companion investigators, a D&D 5e class and subclass system, enemy encounter packs, and player cards and weaknesses. Check out the Learn More link for additional rules and clarifications.",
+    "name": "Baldur's Gate III Investigator Expansion",
+    "description": "An unofficial fan-made investigator expansion adapted from Larian Studios' Baldur's Gate III. Included are the Tav and companion investigators, a D&D 5e class and subclass system, enemy encounter packs, and player cards and weaknesses. Check out the Learn More link for additional rules and clarifications.",
     "author": "Mint Tea Fan",
     "language": "en",
     "external_link": "https://drive.google.com/file/d/1hmEe8Gn8XflZWzDfhwXh9ykDlAs1X6wr/view?usp=sharing",
@@ -8951,7 +8951,6 @@
         "faction_code": "guardian",
         "health": 2,
         "sanity": 2,
-
         "illustrator": "Matthew Stewart",
         "is_unique": true,
         "name": "Adamantine Splint Armor",
@@ -13447,7 +13446,7 @@
     "packs": [
       {
         "code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
-        "name": "Baldur's Gate III: Player Expansion",
+        "name": "Baldur's Gate III Investigator Expansion",
         "date_release": "2025-06-13",
         "icon_url": "https://eons-bg3.arkham.build/e35448d639cb.png"
       }
