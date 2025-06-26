@@ -6,10 +6,10 @@
     "author": "TomásAmi",
     "language": "en",
     "external_link": "",
-    "banner_url": "https://media.discordapp.net/attachments/1150451362581184563/1382215244352454737/Promo.png?ex=685240c2&is=6850ef42&hm=f99b92be192e27741653f8b470864d1f218fb79e830776c0147a722da53a6737&=&format=webp&quality=lossless&width=1855&height=825",
+    "banner_url": "https://assets.arkham.build/fan_made_content/530aa058-2450-4ef6-acad-1c99a0e89a8c/banner.jpg",
     "types": ["player_cards", "investigators"],
     "status": "final",
-    "date_updated": "2025-06-18T19:44:25.825Z",
+    "date_updated": "2025-06-25T19:44:25.825Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -1357,13 +1357,14 @@
         "position": 60,
         "quantity": 2,
         "skill_agility": 1,
+        "slot": "Ally",
         "subname": "The Jinx",
         "text": "[reaction] When a <b>Forced</b> ability on a player card would make you lose, pay, or spend resources, exhaust Edmund Mallory: Gain 2 resources.",
         "traits": "Ally. Criminal. Patron.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750174904/wttb5ppwfmesdrl42sco.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750174906/d0sdtqeqi45ggy6zbxgq.png"
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750867998/knhhlesxqxmgo14wxu6w.png",
+        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750867999/vaq6wiudnhqp8gic2fjn.png"
       },
       {
         "code": "da933b78-46f5-4f47-a103-70a3b7e1858a",
@@ -1581,6 +1582,8 @@
         "cost": 4,
         "deck_limit": 2,
         "faction_code": "rogue",
+        "health": 2,
+        "sanity": 2,
         "flavor": "\"If you cannot pay your own goons how am I supposed to profit from your endeavors?\"",
         "illustrator": "Aleksander Karcz",
         "is_unique": true,
@@ -1591,13 +1594,14 @@
         "skill_agility": 1,
         "skill_wild": 1,
         "skill_willpower": 1,
+        "slot": "Ally",
         "subname": "The Jinx",
         "text": "You get +1 [agility].\n[reaction] When a <b>Forced</b> ability on a player card would make you lose, pay, or spend resources, exhaust Edmund Mallory: Gain 3 resources.",
         "traits": "Ally. Criminal. Patron.",
         "type_code": "asset",
         "xp": 3,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750175004/yajkqbggb5ynq6owyovb.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750175005/q7opag2ceagxpvgnfjir.png"
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750868046/usjsmgmg1hpsdbmkvecm.png",
+        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750868047/bhzhhvs5zg0umb5nmbfn.png"
       },
       {
         "code": "d51b2dbe-68c0-46db-8702-3738b28891fb",
@@ -1785,12 +1789,12 @@
         "pack_code": "530aa058-2450-4ef6-acad-1c99a0e89a8c",
         "position": 82,
         "quantity": 2,
-        "text": "Fast. Play after you evade an exhausted enemy.\nDiscard that enemy.",
+        "text": "Fast. Play after you evade an exhausted non-<b><i>Elite</i></b> enemy.\nDiscard that enemy.",
         "traits": "Spell.",
         "type_code": "event",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750174811/cnk92ziplqzzq846nvjp.png",
-        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750174813/mkuw70o11jjzd9cixgm5.png"
+        "image_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750867946/ylkr0awe9kzchegipbcj.png",
+        "thumbnail_url": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1750867947/z8ntfte0v4nisg6vcxwt.png"
       },
       {
         "code": "e53a451d-164f-412b-bd32-0bbf6794abe7",

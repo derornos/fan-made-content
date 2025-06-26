@@ -1,7 +1,7 @@
 {
   "meta": {
     "code": "81e80ecb-4225-4a38-be0f-acef6e22ea06",
-    "name": "Night of the Vespers Investigator Expansion",
+    "name": "Night of Vespers Investigator Expansion",
     "description": "The upcoming Night of Vespers campaign was inspired by Thomas De Quincy’s Suspiria De Profundis, Giallo cinema, Dario Argento’s Le Tri Madri film trilogy, and Miskatonic River Press’s Our Ladies of Sorrow Call of Cthulhu campaign by Kevin Ross. The investigator expansion containins 5 investigators and 126 unique player cards, including 13 Specialist cards.",
     "author": "Exhaled Innards (aughhhh)",
     "language": "en",
@@ -9,7 +9,7 @@
     "banner_url": "https://inexorablefate.com/projects/Night%20of%20Vespers.png",
     "types": ["investigators"],
     "status": "final",
-    "date_updated": "2025-06-18T19:44:25.825Z",
+    "date_updated": "2025-06-26T09:44:25.825Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -753,7 +753,7 @@
       {
         "back_flavor": "With his effortless charm and debonair manner, young Sebastian is the toast of Arkham.  You'd think he was born with a silver spoon in his mouth, but nothing could be further from the truth. Few know the shocking reality of Sebastian's past, and what he had to do to get where he is today.  The instructions in the old grimoire he found were laid out in painstaking detail, and he followed them to the letter, signing the contract the creature he summoned offered him in blood.  Sebastian knows that his success comes with an eventual cost, and one day soon the great hellish prince he has bargained with will come to collect his due.  The world may be at Sebastian's fingertips for now, but how long will that last before he has to watch it burn?",
         "back_name": "Sebastian Benítez",
-        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level \n0-3, Cards with \"doom\" level 0-5, [[Occult]] cards level 0, Neutral Cards level 0-5, up to 5 other level 0 Rogue and/or Mystic ([rogue] and/or[mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: 1 copy of Cain Adeon Esquire, 1 copy of Great Prince Camio, 1 random basic weakness.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Survivor cards ([survivor]) level 0-3, Cards with \"doom\" level 0-5, [[Occult]] cards level 0, Neutral Cards level 0-5, up to 5 other level 0 Rogue and/or Mystic ([rogue] and/or[mystic]).\n<b>Deckbuilding Requirements</b> (do not count toward deck size)</b>: 1 copy of Cain Adeon Esquire, 1 copy of Great Prince Camio, 1 random basic weakness.",
         "code": "7b4d6148-1078-4d41-94e1-adce7d5c42f2",
         "deck_requirements": "size:30, card:02a039e3-c777-498b-b504-d349f3766456, card:8c3c05cd-030b-438c-b9aa-9ba7999771db, random:subtype:basicweakness",
         "deck_options": [
@@ -789,7 +789,7 @@
             "faction": ["rogue", "mystic"],
             "level": {
               "min": 0,
-              "max": 2
+              "max": 0
             },
             "limit": 5
           }
@@ -2770,7 +2770,7 @@
     "packs": [
       {
         "code": "81e80ecb-4225-4a38-be0f-acef6e22ea06",
-        "name": "Night of the Vespers Investigator Expansion",
+        "name": "Night of Vespers Investigator Expansion",
         "date_release": "2025-06-04",
         "icon_url": "https://eons.arkham.build/81e80ecb-4225-4a38-be0f-acef6e22ea06-collection-icon.png?cachebust=1749286386693"
       }
