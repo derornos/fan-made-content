@@ -2,6 +2,15 @@ This repository houses fan-made content for [Arkham Horror: The Card Game™](ht
 
 Projects that are listed here are available to all arkham.build users as one-click installs.
 
+## Instructions
+
+> [!TIP]  
+> A full, step-by-step guide is available on [HatfulBob's blog](https://barnabyfiles.wordpress.com/2025/05/29/strangest-eons-how-to-make-an-investigator/).
+
+1. Create your cards in Strange Eons.
+2. Use the Zoop plugin to export the content ([documentation](https://mickeytheq.github.io/ZoopDocs/carddatabaseexport/CardDatabaseExport.html)) to prepare it as necessary.
+3. Create a pull request with the content in this repository, adding the generated JSON file to the `./projects` folder.
+
 ## Golden rules
 
 The following content is not allowed on arkham.build under **any** circumstances:
@@ -26,9 +35,3 @@ Additionally, the following content cannot be added to _this content database_:
 _However_, content that violates these database rules may still be added to your local instance and is permitted for personal use.
 
 [^1]: Depending on context, nudity itself may be acceptable.
-
-## Instructions
-
-1. Create your cards in Strange Eons.
-2. Use the Zoop plugin to export the content, following [these instructions](https://mickeytheq.github.io/ZoopDocs/carddatabaseexport/CardDatabaseExport.html) to prepare it as necessary.
-3. Create a pull request with the content in this repository, adding the generated JSON file to the `./projects` folder.
