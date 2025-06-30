@@ -1332,6 +1332,13 @@
               "min": 0,
               "max": 5
             }
+          },
+          {
+            "level": {
+              "min": 0,
+              "max": 2
+            },
+            "limit": 10
           }
         ],
         "deck_limit": 1,
@@ -5177,6 +5184,7 @@
       {
         "code": "6983857b-8fdb-4f68-9ea9-69f134fb10a3",
         "deck_limit": 1,
+        "deck_requirements": "size:10",
         "faction_code": "rogue",
         "faction2_code": "mystic",
         "faction3_code": "survivor",
@@ -5398,6 +5406,7 @@
       {
         "code": "4ea8bae8-d5d6-4024-9767-ce972929bd0c",
         "deck_limit": 1,
+        "deck_requirements": "size:5",
         "faction_code": "mystic",
         "faction2_code": "survivor",
         "illustrator": "Dominik Mayer",
@@ -5874,7 +5883,7 @@
         "illustrator": "Irina Nordsol",
         "name": "Folk Hero",
         "pack_code": "51dd3988-1f9b-4eec-a909-4f4641b6e979",
-        "position": 1,
+        "position": 278,
         "quantity": 2,
         "skill_combat": 1,
         "skill_wild": 1,
@@ -5882,7 +5891,7 @@
         "traits": "Innate. Spirit.",
         "type_code": "skill",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781543/vatoendurimejnuqvhbo.png",
+        "image_url": "https://eons-bg3.arkham.build/72fdb7db-26cc-49c3-a9f8-873d48029e7d_20250701.png",
         "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781544/n6zz8ebz3id7ceiqwqar.png"
       },
       {
@@ -8420,11 +8429,11 @@
         "skill_combat": 1,
         "skill_willpower": 1,
         "slot": "Arcane",
-        "text": "Ignite. Uses (3 charges).\n[reaction] After an enemy attacks you, even if that attack was canceled, spend 1 charge: Deal 1 damage to that enemy. While resolving the ignite keyword at attached location, set that enemy's evade to 0.",
+        "text": "Ignite. Uses (3 charges).\n[reaction] After an enemy attacks you, even if that attack was canceled, spend 1 charge: Deal 1 damage to that enemy. While resolving the ignite keyword, set that enemy's evade to 0.",
         "traits": "Spell. Pact.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781561/b76yeesj2smufwjb2ebx.png",
+        "image_url": "https://eons-bg3.arkham.build/30dd3460-db47-4395-bb93-6d2bea6f230c_20250701.png",
         "thumbnail_url": "https://res.cloudinary.com/dr1cy1mfk/image/upload/v1749781562/ly7hx3b4pns8upa8qpua.png"
       },
       {
@@ -8712,6 +8721,7 @@
       {
         "code": "7e79e816-a31e-4f48-a3b6-deb69243a174",
         "deck_limit": 1,
+        "deck_requirements": "size:5",
         "faction_code": "neutral",
         "illustrator": "Hugh Pindurski",
         "name": "Human Versatility",
@@ -11892,6 +11902,7 @@
       {
         "code": "8fa15411-0316-4ac3-8055-241484e25766",
         "deck_limit": 2,
+        "deck_requirements": "size:1",
         "faction_code": "neutral",
         "illustrator": "Brian Valeza",
         "name": "Prodigy",
