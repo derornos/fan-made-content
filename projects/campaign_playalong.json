@@ -9,7 +9,7 @@
     "banner_url": "https://assets.arkham.build/fan-made/cpa_banner.jpg",
     "types": ["player_cards", "investigators"],
     "status": "final",
-    "date_updated": "2025-06-15T06:21:19.359Z",
+    "date_updated": "2025-07-12T07:43:27.213Z",
     "generator": "Zoop 3.3, AHLCG plugin 9.6, Strange Eons 3.3.4241"
   },
   "data": {
@@ -211,8 +211,8 @@
         "traits": "Contract. Ultimatum. Refraction. Circle Undone.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-02%20-%20A%20Fate%20Avoided-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749968331958",
-        "thumbnail_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-thumbnail.png?cachebust=1749968332189",
+        "image_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-02%20-%20A%20Fate%20Avoided-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304739279",
+        "thumbnail_url": "https://eons.arkham.build/bdb534f0-7b0f-4ca5-9afd-d79295036415-Front-thumbnail.png?cachebust=1752304739489",
         "permanent": true
       },
       {
@@ -230,8 +230,8 @@
         "traits": "Contract. Augury. Circle Undone.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/63c1ec86-4e0f-47d9-a8a5-29861d396758-Front-03%20-%20Weal%20and%20Woe-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473024553",
-        "thumbnail_url": "https://eons.arkham.build/63c1ec86-4e0f-47d9-a8a5-29861d396758-Front-thumbnail.png?cachebust=1749473024789"
+        "image_url": "https://eons.arkham.build/63c1ec86-4e0f-47d9-a8a5-29861d396758-Front-03%20-%20Weal%20and%20Woe-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304742340",
+        "thumbnail_url": "https://eons.arkham.build/63c1ec86-4e0f-47d9-a8a5-29861d396758-Front-thumbnail.png?cachebust=1752304742590"
       },
       {
         "code": "581e4bf9-2736-4086-8364-93399201a510",
@@ -247,8 +247,8 @@
         "traits": "Ultimatum. Contract. Circle Undone.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-04%20-%20Loathsome%20Familiar-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473030820",
-        "thumbnail_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-thumbnail.png?cachebust=1749473031079",
+        "image_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-04%20-%20Loathsome%20Familiar-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304738860",
+        "thumbnail_url": "https://eons.arkham.build/581e4bf9-2736-4086-8364-93399201a510-Front-thumbnail.png?cachebust=1752304739073",
         "card_pool_extension": {
           "type": "card"
         },
@@ -268,26 +268,26 @@
         "traits": "Contract. Ultimatum. Refraction. Circle Undone.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/ed0625ff-9ef5-41d3-84b9-9ba776f9bdc6-Front-05%20-%20Accept%20Your%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749968321793",
-        "thumbnail_url": "https://eons.arkham.build/ed0625ff-9ef5-41d3-84b9-9ba776f9bdc6-Front-thumbnail.png?cachebust=1749968322039",
+        "image_url": "https://eons.arkham.build/ed0625ff-9ef5-41d3-84b9-9ba776f9bdc6-Front-05%20-%20Accept%20Your%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304745060",
+        "thumbnail_url": "https://eons.arkham.build/ed0625ff-9ef5-41d3-84b9-9ba776f9bdc6-Front-thumbnail.png?cachebust=1752304745278",
         "permanent": true
       },
       {
         "code": "0f1dd23e-274e-428c-bfa4-90200f7045b9",
-        "deck_limit": 2,
+        "deck_limit": 1,
         "faction_code": "neutral",
         "illustrator": "Lenka Šimečková",
         "name": "Reject Your Fate",
         "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
         "position": 6,
-        "quantity": 2,
+        "quantity": 1,
         "subname": "Campaign Play-Along",
         "text": "Ultimatum. Accept this contract only after resolving the intro to <b>Scenario I: The Witching Hour</b>, and only if <i>you have rejected your fate.</i>\nWhen you accept this contract, perform an 8-card Campaign Reading with these specific 8 cards, in this order: \nDeath; Strength (Inverted); Wheel of Fortune (Inverted); Lovers; Empress (Inverted); The High Priestess; Tower (Inverted); Stars",
         "traits": "Contract. Ultimatum. Refraction. Circle Undone.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/0f1dd23e-274e-428c-bfa4-90200f7045b9-Front-06%20-%20Reject%20Your%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749968331469",
-        "thumbnail_url": "https://eons.arkham.build/0f1dd23e-274e-428c-bfa4-90200f7045b9-Front-thumbnail.png?cachebust=1749968331666",
+        "image_url": "https://eons.arkham.build/0f1dd23e-274e-428c-bfa4-90200f7045b9-Front-06%20-%20Reject%20Your%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752306204655",
+        "thumbnail_url": "https://eons.arkham.build/0f1dd23e-274e-428c-bfa4-90200f7045b9-Front-thumbnail.png?cachebust=1752306205129",
         "permanent": true
       },
       {
@@ -304,8 +304,8 @@
         "traits": "Ultimatum. Contract. Circle Undone.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-07%20-%20Doomed%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473029580",
-        "thumbnail_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-thumbnail.png?cachebust=1749473029874",
+        "image_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-07%20-%20Doomed%20Fate-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304742791",
+        "thumbnail_url": "https://eons.arkham.build/2f7d7553-c53d-48ca-833c-818dfdebb466-Front-thumbnail.png?cachebust=1752304743002",
         "permanent": true
       },
       {
@@ -323,8 +323,8 @@
         "traits": "Contract. Boon. Circle Undone.",
         "type_code": "asset",
         "xp": 0,
-        "image_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-01%20-%20In%20Memoriam-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473031342",
-        "thumbnail_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-thumbnail.png?cachebust=1749473031608",
+        "image_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-01%20-%20In%20Memoriam-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304739796",
+        "thumbnail_url": "https://eons.arkham.build/676974a0-aada-424f-b1bf-295c20782614-Front-thumbnail.png?cachebust=1752304740189",
         "card_pool_extension": {
           "type": "card"
         }
@@ -376,10 +376,10 @@
         "text": "[reaction] After an enemy attacks you, even if that attack was canceled: Discover 1 clue at your location. (Limit once per round.)\n[elder_sign] effect: +1. Heal 1 damage and 1 horror.",
         "traits": "Veteran.",
         "type_code": "investigator",
-        "image_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Front-08%20-%20Gavriella%20Mizrah-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473028580",
-        "thumbnail_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Front-thumbnail.png?cachebust=1749473028832",
-        "back_image_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Back-08%20-%20Gavriella%20Mizrah-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749473029051",
-        "back_thumbnail_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Back-thumbnail.png?cachebust=1749473029299"
+        "image_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Front-08%20-%20Gavriella%20Mizrah-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304745808",
+        "thumbnail_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Front-thumbnail.png?cachebust=1752304746090",
+        "back_image_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Back-08%20-%20Gavriella%20Mizrah-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1752304746288",
+        "back_thumbnail_url": "https://eons.arkham.build/d355199e-71eb-4c6a-a1ef-c03e118e40e0-Back-thumbnail.png?cachebust=1752304746542"
       },
       {
         "back_flavor": "Jerome is Josef Meiger's personal assistant and secretary. He is a close friend of Josef's and is also an upstanding member of the Silver Twilight Lodge. He helps keep the Meiger estate's vast finances in order and manages Josef's time, which has become increasingly precious of late. ",
@@ -428,10 +428,10 @@
         "text": "[reaction] When an investigator at your location draws a treachery from the encounter deck, discard cards from your hand with a total of at least 2 [intellect] icons: Cancel that card's revelation effect. (Limit once per round.)\n[elder_sign] effect: +1. Discover 1 clue at your location.",
         "traits": "Assistant. Silver Twilight.",
         "type_code": "investigator",
-        "image_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Front-09%20-%20Jerome%20Davids-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473027061",
-        "thumbnail_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Front-thumbnail.png?cachebust=1749473027508",
-        "back_image_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Back-09%20-%20Jerome%20Davids-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749473027798",
-        "back_thumbnail_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Back-thumbnail.png?cachebust=1749473028060"
+        "image_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Front-09%20-%20Jerome%20Davids-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304740785",
+        "thumbnail_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Front-thumbnail.png?cachebust=1752304740985",
+        "back_image_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Back-09%20-%20Jerome%20Davids-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1752304741226",
+        "back_thumbnail_url": "https://eons.arkham.build/95dbbd10-4d37-4112-89a2-a8ff253077cd-Back-thumbnail.png?cachebust=1752304741827"
       },
       {
         "back_flavor": "\"Tino\" is a wealthy philanthropist and one of tonight's most esteemed guests. The recipient of a fortuitous windfall, Valentino lives a life of luxury and recreation. Despite his wealth, he remains connected to his community, and he takes great joy in giving large sums of money to good causes. ",
@@ -480,10 +480,10 @@
         "text": "[free] During a skill test you are performing, spend 2 resources: Reduce the difficulty of this test by 1. (Limit once per round.)\n[elder_sign] effect: +1. Gain 2 resources.",
         "traits": "Silver Twilight. Socialite.",
         "type_code": "investigator",
-        "image_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Front-10%20-%20Valentino%20Rivas-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473032321",
-        "thumbnail_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Front-thumbnail.png?cachebust=1749473032631",
-        "back_image_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Back-10%20-%20Valentino%20Rivas-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749473032845",
-        "back_thumbnail_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Back-thumbnail.png?cachebust=1749473033125"
+        "image_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Front-10%20-%20Valentino%20Rivas-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304747509",
+        "thumbnail_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Front-thumbnail.png?cachebust=1752304747782",
+        "back_image_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Back-10%20-%20Valentino%20Rivas-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1752304747989",
+        "back_thumbnail_url": "https://eons.arkham.build/ffc6bc8a-5f23-4c15-819a-da69db05d8e5-Back-thumbnail.png?cachebust=1752304748185"
       },
       {
         "back_flavor": "Penny White is the Meiger estate's head housekeeper. She has been working in the Meiger estate for several years. Though she has only spoken with Josef a few times, his overly fastidious nature has kept her quite busy. Tonight, she is tasked with keeping the manor spotless, the food hot, and the hooch flowing. ",
@@ -532,10 +532,52 @@
         "text": "[reaction] After you succeed at a skill test during a revelation effect: Discover 1 clue at your location. (Limit once per round.)\n[elder_sign] effect: +1. If this is a skill test during a revelation effect, you may take an additional action during your next turn.",
         "traits": "Assistant.",
         "type_code": "investigator",
-        "image_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Front-11%20-%20Penny%20White-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1749473025655",
-        "thumbnail_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Front-thumbnail.png?cachebust=1749473025924",
-        "back_image_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Back-11%20-%20Penny%20White-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1749473026184",
-        "back_thumbnail_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Back-thumbnail.png?cachebust=1749473026460"
+        "image_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Front-11%20-%20Penny%20White-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304744010",
+        "thumbnail_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Front-thumbnail.png?cachebust=1752304744388",
+        "back_image_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Back-11%20-%20Penny%20White-resolution-300-compressionquality-0.90-bleed-0.0-Back.jpg?cachebust=1752304744645",
+        "back_thumbnail_url": "https://eons.arkham.build/cf9e7628-7878-4edd-ba14-e1897c88094f-Back-thumbnail.png?cachebust=1752304744865"
+      },
+      {
+        "code": "64cad566-0a68-4064-9a7f-7d6c321cdf40",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Bill Thompson",
+        "name": "Lodge Initiation",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 12,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only after resolving <b>Interlude III: The Inner Circle</b>.\nChoose one investigator to become the bearer of the The 13th Vision weakness (does not count towards deck size). Then, name a card with the [[Patron]] trait, a card with the [[Relic]] trait, and a card with the [[Pact]] trait. Those cards are added to the card pool for the duration of this campaign.\n<b>Forced</b> - When given the option, investigators must side with the lodge. ",
+        "traits": "Contract. Ultimatum. Silver Twilight.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/64cad566-0a68-4064-9a7f-7d6c321cdf40-Front-12%20-%20Lodge%20Initiation-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304863776",
+        "thumbnail_url": "https://eons.arkham.build/64cad566-0a68-4064-9a7f-7d6c321cdf40-Front-thumbnail.png?cachebust=1752304863971",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
+      },
+      {
+        "code": "a9cc4297-f55d-48f6-b955-5e30a9e38dfb",
+        "deck_limit": 1,
+        "faction_code": "neutral",
+        "illustrator": "Lenka Šimečková",
+        "name": "Song of the Witches",
+        "pack_code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
+        "position": 13,
+        "quantity": 1,
+        "subname": "Campaign Play-Along",
+        "text": "Ultimatum. Accept this contract only after resolving <b>Interlude III: The Inner Circle</b>.\nChoose one investigator to become the bearer of the Silver Twilight Acolyte weakness (does not count towards deck size). Then, name a card with the [[Witch]] trait, a card with the [[Ritual]] trait, and a card with the [[Augury]] trait. Those cards are added to the card pool for the duration of this campaign.\n<b>Forced</b> - When given the option, investigators must side with the coven. ",
+        "traits": "Contract. Ultimatum. Witch.",
+        "type_code": "asset",
+        "xp": 0,
+        "image_url": "https://eons.arkham.build/a9cc4297-f55d-48f6-b955-5e30a9e38dfb-Front-13%20-%20Song%20of%20the%20Witches-resolution-300-compressionquality-0.90-bleed-0.0-Front.jpg?cachebust=1752304864182",
+        "thumbnail_url": "https://eons.arkham.build/a9cc4297-f55d-48f6-b955-5e30a9e38dfb-Front-thumbnail.png?cachebust=1752304864357",
+        "card_pool_extension": {
+          "type": "card"
+        },
+        "permanent": true
       }
     ],
     "packs": [
@@ -555,7 +597,7 @@
         "code": "5ad9d873-468b-4c07-939a-a4c1c192590d",
         "name": "CPA The Circle Undone 2025",
         "date_release": "2025-06-08",
-        "icon_url": "https://eons.arkham.build/5ad9d873-468b-4c07-939a-a4c1c192590d-collection-icon.png?cachebust=1749968471359"
+        "icon_url": "https://eons.arkham.build/5ad9d873-468b-4c07-939a-a4c1c192590d-collection-icon.png?cachebust=1752306205375"
       }
     ],
     "encounter_sets": []
